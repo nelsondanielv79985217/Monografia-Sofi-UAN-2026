@@ -78,7 +78,7 @@ Serie de un servicio de cirugía vascular universitario (Graz, Austria) de pacie
 - 2.10 Signos duros de lesión — lista de Sekharan y de Bell (pp. 384–385).
 - 3.1.1 Lesiones carotídeas / 3.1.2 Arteria vertebral / 3.1.3 Lesiones venosas — vasos lesionados (p. 383).
 - 4.4 Angiotomografía computarizada / 4.10 Angiografía convencional — comparación de exactitud e invasividad (p. 385).
-- 5.4 Control de la hemorragia / 5.5 Manejo de las lesiones vasculares — técnicas de reparación arterial y ligadura venosa; shunt intraluminal temporal (pp. 383, 385).
+- 5.4 Control de la hemorragia / 5.5 Manejo de las lesiones vasculares — técnicas de reparación arterial y ligadura venosa; shunt intraluminal temporal (pp. 384–385).
 - 5.10 Tratamiento endovascular — indicaciones y límites (p. 385).
 - 5.12 Manejo selectivo / 5.13 Indicaciones de exploración — controversia y criterios de cirugía inmediata (p. 385).
 - 6.10 Accidente cerebrovascular / 6.11 Shock hemorrágico / 6.12 Mortalidad — causas de las 2 muertes y comparación con otros centros (pp. 383, 385).
