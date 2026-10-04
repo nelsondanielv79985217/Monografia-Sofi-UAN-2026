@@ -25,6 +25,17 @@ Este repo es la base bibliográfica de la monografía **"Trauma de cuello"** (UA
 - **PDFs parciales:** se cita únicamente lo que está en las páginas presentes, sin inferir el resto del artículo.
 - ***Suture like a surgeon*:** eliminado del repo y de las referencias.
 
+## Decisiones del usuario (2026-10-04, tras el lint)
+
+- **Metadatos bibliográficos:** se permite completar *solo* datos de la referencia (número de fascículo, nombre completo de la revista, DOI) desde el registro del DOI (Crossref) u otra fuente bibliográfica externa. Nunca contenido. Cada ficha completada lo dice en una viñeta "Metadatos completados desde…".
+- **Estructura ampliada:** se añaden INTRODUCCIÓN (antes de OBJETIVOS) y METODOLOGÍA DE LA REVISIÓN (después de OBJETIVOS), sin numerar, al resto de la numeración de `Estructura del trabajo.docx`.
+- **1.7 Clasificación:** se redacta como síntesis de los sistemas que sí hay en las fuentes (mecanismo, zonas, presentación clínica, Denver, Schaefer-Fuhrman), cada uno con su cita.
+- **7.4 Lesiones cervicales complejas — definición operativa de la autora:** lesión que afecta varias estructuras vitales del cuello a la vez, con alto riesgo de hemorragia masiva, asfixia o daño neurológico permanente. Es definición propia, no de una fuente: en la monografía va marcada como tal.
+
+## Borradores de la monografía (`/monografia`)
+
+Los textos redactados de la monografía van en `monografia/`, un archivo por sección (`00-introduccion.md`, `00-metodologia.md`, `cap1-1.7-clasificacion.md`…). Llevan front matter `type: borrador`. Cada cita debe estar verificada en `wiki/texto/`. Los vacíos se marcan `[PENDIENTE DE LA AUTORA: …]` y las opiniones propias `[NOTA DE LA AUTORA: …]`. En citas y referencias se usa "y" entre autores (ejemplos de la guía APA en español, pp. 40, 48–49), aunque las fichas usen "&".
+
 ## Arquitectura de 3 capas (no mezclar)
 
 1. **Fuentes crudas** — los PDFs/DOCX de la raíz del repo. **Inmutables**: se leen, nunca se editan, mueven ni borran sin pedido explícito del usuario.

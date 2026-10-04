@@ -19,6 +19,7 @@ Harris, R., Olding, C., Lacey, C., Bentley, R., Schulte, K. M., Lewis, D., Kanda
 - Datos tomados de la p. PDF 1 (= p. 240): autores, título, revista abreviada "Ann R Coll Surg Engl 2012; 94: 240-244", DOI "10.1308/003588412X13171221590052", "Accepted 15 February 2012".
 - [INCIERTO: el PDF muestra solo la abreviatura de la revista ("Ann R Coll Surg Engl"); el nombre completo no está escrito en el PDF. El número de fascículo no figura.]
 - Los nombres de autores salen del OCR (con símbolos de afiliación mal leídos: "R Harris', C Olding’ ..."); la misma lista de autores aparece, con texto nativo, en las referencias de otras fuentes del repo (Teixeira et al., 2016, ref. 32; Kasbekar et al., 2017, ref. 2), lo que la respalda.
+- [INCIERTO: Crossref asigna a este DOI el vol. 94, n.º 4, pp. 235–239 de *The Annals of The Royal College of Surgeons of England*, pero el PDF impreso dice 240–244. No se cambió la referencia: hay que cotejar el DOI con el PDF antes de usar el número 4.]
 - El título del archivo PDF dice "managment"; el título impreso del artículo dice "management".
 - Cita en texto modelo: (Harris et al., 2012, p. 242).
 

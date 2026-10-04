@@ -56,3 +56,10 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Citas textuales: muestreo automático de las comillas de las fichas contra `texto/`; las diferencias halladas se deben a saltos de línea y columnas intercaladas de la extracción, no a citas alteradas.
 - Corregido: "pp." con página única → "p." (5 casos); página faltante en la cita "nearly 100%" de la ficha de *Trauma* (p. 528); `index.md` ya no dice que los PDF de ATLS en español y *Trauma* "llegan con el PR #1" (ya están en `main`); el mapa fuentes ↔ secciones ya no cuenta la guía APA ni Sampieri como sustento de secciones clínicas (1.1, 1.2, 4.1, 4.2, 4.6) y tiene una tabla aparte para Resumen, Objetivos, Conclusiones, Referencias y Anexos.
 - Reportado sin corregir (requiere decisión o lectura): ver el informe del hilo de lint.
+
+## [2026-10-04] query | Decisiones tras el lint y primeros borradores
+
+- PR #2 y PR #3 fusionados en `main`.
+- Metadatos bibliográficos completados desde Crossref (decisión del usuario) en 6 fichas: Ranwa (n.º 1), Noh y Choi (nombre de revista), Nowicki (n.º 1), Kose (n.º 3), Van der Cruyssen (n.º 4 y revista), Blitzer (revista; sin número). En Harris et al. (2012) Crossref da pp. 235–239 frente a 240–244 del PDF: se dejó `[INCIERTO]` y no se cambió. El resto no se pudo consultar: la red del entorno rechazó api.crossref.org.
+- Nuevos borradores en `monografia/`: introducción, metodología de la revisión (con la búsqueda pendiente de la autora) y 1.7 Clasificación. Citas verificadas en `texto/`.
+- Registradas en `CLAUDE.md` la estructura ampliada y la definición operativa de 7.4.

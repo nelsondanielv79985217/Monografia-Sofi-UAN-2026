@@ -12,10 +12,11 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Kose, S. I. (2025). Imaging in penetrating neck injuries. *Emergency Radiology, 32*, 395–408. https://doi.org/10.1007/s10140-025-02345-2
+Kose, S. I. (2025). Imaging in penetrating neck injuries. *Emergency Radiology, 32*(3), 395–408. https://doi.org/10.1007/s10140-025-02345-2
 
 - Datos de la p. PDF 1 (impresa 395): encabezado "Emergency Radiology (2025) 32:395–408", DOI, tipo "REVIEW ARTICLE", título, autora única Snehal Ishwar Kose (Department of Radiodiagnosis, Grant Government Medical College and JJ Hospital, Mumbai, India). Recibido 12 feb. 2025, aceptado 14 abr. 2025, publicado en línea 25 abr. 2025.
-- Número (issue): `[INCIERTO: no figura en el PDF]`.
+- Número (issue): 3 (no figura en el PDF).
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 3; volumen y páginas coinciden con el PDF.
 - Cita en texto modelo: (Kose, 2025, p. 396).
 
 ## Cobertura del PDF

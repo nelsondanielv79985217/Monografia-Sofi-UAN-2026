@@ -220,3 +220,14 @@ Generado a partir de la sección "Aporte a la monografía" de cada ficha. Se exc
 | CONCLUSIONES | [metodologia-investigacion-sampieri-6ta-edicion](../fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) | Discusión y limitaciones (pp. 344-345). |
 | REFERENCIAS BIBLIOGRÁFICAS | [guia-normas-apa-7-edicion](../fuentes/guia-normas-apa-7-edicion.md), [metodologia-investigacion-sampieri-6ta-edicion](../fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) | Formato y orden de la lista (guía APA, pp. 47, 49; Sampieri, pp. 346, 348). |
 | ANEXOS | [guia-normas-apa-7-edicion](../fuentes/guia-normas-apa-7-edicion.md), [metodologia-investigacion-sampieri-6ta-edicion](../fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) | Apéndices (guía APA, pp. 23-25; Sampieri, p. 346). |
+
+### Secciones añadidas por decisión del usuario (2026-10-04)
+
+| Sección | Fichas | Borrador |
+|---|---|---|
+| INTRODUCCIÓN (antes de OBJETIVOS) | [trauma-9th-edition-feliciano](../fuentes/trauma-9th-edition-feliciano.md), [imagenes-heridas-penetrantes-cuello](../fuentes/imagenes-heridas-penetrantes-cuello.md), [heridas-penetrantes-cuello-guia-evaluacion-manejo](../fuentes/heridas-penetrantes-cuello-guia-evaluacion-manejo.md), [trauma-penetrante-cuello-revision-integral](../fuentes/trauma-penetrante-cuello-revision-integral.md), [manejo-prehospitalario-heridas-penetrantes-cuello](../fuentes/manejo-prehospitalario-heridas-penetrantes-cuello.md), [valor-examen-clinico-heridas-penetrantes-cuello](../fuentes/valor-examen-clinico-heridas-penetrantes-cuello.md) | [00-introduccion.md](../../monografia/00-introduccion.md) |
+| METODOLOGÍA DE LA REVISIÓN (después de OBJETIVOS) | [metodologia-investigacion-sampieri-6ta-edicion](../fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) | [00-metodologia.md](../../monografia/00-metodologia.md) |
+
+- **1.7 Clasificación:** borrador en [cap1-1.7-clasificacion.md](../../monografia/cap1-1.7-clasificacion.md), además de las fuentes de la fila 1.7 usa Simpson, Krausz, Zakaria, Kose, Loss, Siau, Munera, Nowicki, Qureshi, Raghunathan, Ahmad y Singh, y los caps. 19 y 26 de *Trauma*.
+- **7.4 Lesiones cervicales complejas:** definición operativa de la autora (ver `CLAUDE.md`): lesión de varias estructuras vitales a la vez con alto riesgo de hemorragia masiva, asfixia o daño neurológico permanente. Va marcada como definición propia.
+- **3.3.1 Lesiones faríngeas:** además del caso de Wang et al. (2025), *Trauma* trata las laceraciones faríngeas asociadas a fractura del hioides y su manejo (p. 535; PDF 561); falta recogerlo en la ficha.

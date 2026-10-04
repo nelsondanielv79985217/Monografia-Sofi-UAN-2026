@@ -15,7 +15,8 @@ last_updated: 2026-10-04
 Noh, D., & Choi, J. H. (2022). Outcomes of open neck injuries. *Journal of Trauma and Injury, 35*(3), 168–172. https://doi.org/10.20408/jti.2021.0056
 
 - Datos en p. PDF 1 (p. 168): "J Trauma Inj 2022;35(3):168-172", DOI, autores (Dongsub Noh, Jin Ho Choi), afiliación (Daejeon Eulji Medical Center, Eulji University, Korea), "© 2022 The Korean Society of Traumatology".
-- [INCIERTO: el nombre completo de la revista no aparece desarrollado en el PDF; figura la abreviatura "J Trauma Inj" y el sitio www.jtraumainj.org. "Journal of Trauma and Injury" es la expansión de la abreviatura, no texto literal del PDF.]
+- El PDF muestra la abreviatura "J Trauma Inj"; el nombre completo *Journal of Trauma and Injury* se confirmó en Crossref.
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): nombre de la revista; volumen 35, número 3 y páginas 168–172 coinciden con el PDF.
 
 Cita en texto modelo: (Noh & Choi, 2022, p. 169).
 

@@ -9,6 +9,12 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 - [Estructura de la monografía y mapa fuentes ↔ secciones](sintesis/estructura-de-la-monografia.md) — Transcripción literal de `Estructura del trabajo.docx` y tabla de qué fichas aportan a cada sección. (ingerido)
 - [Contradicciones entre fuentes y vacíos del corpus](sintesis/contradicciones-y-vacios.md) — Decisiones del usuario (numeración, ATLS en español), PDFs incompletos, desacuerdos clínicos y temas sin fuente. (incierto)
 
+## Borradores de la monografía (`../monografia/`)
+
+- [Introducción](../monografia/00-introduccion.md) — contexto, frecuencia, cambio de paradigma y estructura del trabajo. (borrador)
+- [Metodología de la revisión](../monografia/00-metodologia.md) — tipo de estudio, corpus y procesamiento; la búsqueda queda pendiente de la autora. (borrador)
+- [1.7 Clasificación del trauma de cuello](../monografia/cap1-1.7-clasificacion.md) — mecanismo, zonas, presentación, Denver y Schaefer-Fuhrman. (borrador)
+
 ## Fuentes (`fuentes/`)
 
 ### Libros de referencia (3)
