@@ -10,6 +10,8 @@ last_updated: 2026-10-04
 
 # ATLS® Soporte Vital Avanzado en Trauma®: Manual del Curso para Estudiantes (10.ª ed., en español)
 
+> **Decisión del usuario (2026-10-04):** esta es la versión del ATLS que se cita en la monografía, con su paginación impresa.
+
 ## Referencia bibliográfica (APA 7)
 
 **Referencia (autor corporativo que es también el editor, por eso APA 7 omite la editorial):**

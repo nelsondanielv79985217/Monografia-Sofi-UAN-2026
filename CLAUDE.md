@@ -4,7 +4,7 @@ Este archivo define cómo Claude debe mantener la wiki de este repositorio. Repl
 
 ## Propósito
 
-Este repo es la base bibliográfica de la monografía **"Trauma de cuello"** (UAN, 2026). Las fuentes son PDFs (artículos clínicos, el manual ATLS, un manual de suturas, la guía APA 7 y el libro de metodología de Sampieri) y un DOCX con la estructura del trabajo. En vez de releer los PDFs en cada sesión, se mantiene una wiki en Markdown (`/wiki`) con:
+Este repo es la base bibliográfica de la monografía **"Trauma de cuello"** (UAN, 2026). Las fuentes son PDFs (artículos clínicos, el manual ATLS en inglés y en español, el libro *Trauma* 9.ª ed., la guía APA 7 y el libro de metodología de Sampieri) y un DOCX con la estructura del trabajo. En vez de releer los PDFs en cada sesión, se mantiene una wiki en Markdown (`/wiki`) con:
 
 1. el **texto completo** de cada PDF con marcadores de página (para citar con página exacta sin abrir el PDF), y
 2. fichas, conceptos, entidades y síntesis que acumulan la lectura entre sesiones.
@@ -17,6 +17,13 @@ Este repo es la base bibliográfica de la monografía **"Trauma de cuello"** (UA
 - **Regla de incertidumbre:** lo dudoso se marca `[INCIERTO: ...]` en el cuerpo y/o `status: incierto` en el front matter.
 - **Opinión propia marcada como tal** (`[NOTA DE CLAUDE: ...]`), separada de lo que dice la fuente.
 - **Cobertura parcial:** varios PDFs contienen solo la primera página de un artículo más largo. La ficha lo declara y no afirma nada sobre las páginas ausentes.
+
+## Decisiones del usuario (2026-10-04)
+
+- **Numeración:** los títulos de la monografía usan la numeración de `Estructura del trabajo.docx` (1.1, 1.2…), aunque la guía APA del repo sugiere no numerarlos.
+- **ATLS:** se cita solo el manual en español (`fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md`), con su paginación impresa. La ficha en inglés se conserva como consulta, pero no se cita ni va en las referencias.
+- **PDFs parciales:** se cita únicamente lo que está en las páginas presentes, sin inferir el resto del artículo.
+- ***Suture like a surgeon*:** eliminado del repo y de las referencias.
 
 ## Arquitectura de 3 capas (no mezclar)
 
@@ -37,7 +44,7 @@ Este repo es la base bibliográfica de la monografía **"Trauma de cuello"** (UA
   sintesis/      # cruces que vale la pena conservar (ej. mapa fuentes ↔ capítulos)
 ```
 
-Tipos de página (`type`): `texto`, `fuente`, `concepto`, `entidad`, `sintesis`, `metodo` (para Sampieri, APA 7 y el manual de suturas: herramientas, no tema clínico).
+Tipos de página (`type`): `texto`, `fuente`, `concepto`, `entidad`, `sintesis`, `metodo` (para Sampieri y la guía APA 7: herramientas, no tema clínico).
 
 ### Capa `texto/`
 

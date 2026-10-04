@@ -10,6 +10,8 @@ last_updated: 2026-10-04
 
 # ATLS® Student Course Manual, 10.ª edición (American College of Surgeons, 2018)
 
+> **Decisión del usuario (2026-10-04):** esta versión en inglés **no se cita** en la monografía. Se cita la [edición en español](atls-soporte-vital-avanzado-trauma-manual-estudiantes.md). Esta ficha queda solo como consulta.
+
 ## Referencia bibliográfica (APA 7)
 
 American College of Surgeons. (2018). *Advanced trauma life support: Student course manual* (10th ed.). American College of Surgeons.

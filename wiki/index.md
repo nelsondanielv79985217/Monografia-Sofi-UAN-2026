@@ -7,14 +7,14 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 ## Síntesis (`sintesis/`)
 
 - [Estructura de la monografía y mapa fuentes ↔ secciones](sintesis/estructura-de-la-monografia.md) — Transcripción literal de `Estructura del trabajo.docx` y tabla de qué fichas aportan a cada sección. (ingerido)
-- [Contradicciones entre fuentes y vacíos del corpus](sintesis/contradicciones-y-vacios.md) — Decisiones pendientes (APA, ATLS duplicado), PDFs incompletos, desacuerdos clínicos y temas sin fuente. (incierto)
+- [Contradicciones entre fuentes y vacíos del corpus](sintesis/contradicciones-y-vacios.md) — Decisiones del usuario (numeración, ATLS en español), PDFs incompletos, desacuerdos clínicos y temas sin fuente. (incierto)
 
 ## Fuentes (`fuentes/`)
 
 ### Libros de referencia (3)
 
-- [ATLS Student Course Manual, 10.ª ed. (inglés)](fuentes/atls-advanced-trauma-life-support.md) — American College of Surgeons (2018). Evaluación inicial ABCDE, vía aérea, shock, columna cervical, pediatría; no trata zonas del cuello ni manejo selectivo. (ingerido)
-- [ATLS Soporte Vital Avanzado en Trauma, 10.ª ed. (español)](fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md) — Traducción de la misma edición, con paginación distinta. El PDF llega con el PR #1 (rama `claude/project-thread-cbouir`). (ingerido)
+- [ATLS Student Course Manual, 10.ª ed. (inglés)](fuentes/atls-advanced-trauma-life-support.md) — American College of Surgeons (2018). Solo consulta: por decisión del usuario **no se cita**. (ingerido)
+- [ATLS Soporte Vital Avanzado en Trauma, 10.ª ed. (español)](fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md) — **Versión que se cita.** Traducción de la misma edición: evaluación ABCDE, vía aérea, shock, columna cervical, pediatría; no trata zonas del cuello ni el manejo selectivo. El PDF llega con el PR #1 (rama `claude/project-thread-cbouir`). (ingerido)
 - [Trauma, 9.ª ed. (Feliciano, Mattox y Moore)](fuentes/trauma-9th-edition-feliciano.md) — Tratado de cirugía de trauma; cap. 25 "Neck and Larynx" y comentario endovascular. Es la fuente más completa para los capítulos 1–7; tiene discrepancias internas entre capítulos. El PDF llega con el PR #1. (ingerido)
 
 ### Revisiones y guías sobre trauma de cuello (8)
@@ -73,7 +73,6 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 - [Metodología de la investigación (Hernández Sampieri, 6.ª ed.)](fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) — Revisión de literatura, marco teórico y estructura del reporte. (ingerido)
 - [Guía Normas APA 7.ª edición](fuentes/guia-normas-apa-7-edicion.md) — Guía no oficial (normas-apa.org), sin autor ni año. (incierto)
-- [Suture like a surgeon](fuentes/suture-like-a-surgeon.md) — Manual de suturas; no trata el cuello y prohíbe citar sin consentimiento. (ingerido)
 
 ## Conceptos (`conceptos/`)
 

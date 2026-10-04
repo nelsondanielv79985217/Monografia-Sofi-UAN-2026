@@ -8,6 +8,8 @@ last_updated: 2026-10-04
 
 # Normas APA 7 y estilo de citación de la monografía
 
+> **Decisiones del usuario (2026-10-04):** (1) los títulos usan la numeración de `Estructura del trabajo.docx`, aunque la guía sugiera lo contrario (p. 29); (2) el ATLS se cita en su edición en español, como una sola referencia (American College of Surgeons, 2018), sin 2018a/2018b; (3) de los PDFs parciales se cita solo lo que está en la página disponible.
+
 > Página de **método**, no clínica. Dice cómo citar en esta monografía según las dos fuentes de método del repo: la [Guía Normas APA 7ª edición](../fuentes/guia-normas-apa-7-edicion.md) (en adelante, "la guía") y el [libro de Sampieri](../fuentes/metodologia-investigacion-sampieri-6ta-edicion.md). La guía no identifica autor ni año (pp. 1, 5), por eso aquí se cita como "Guía APA, p. N" y no con autor-fecha.
 
 ## Definición / alcance

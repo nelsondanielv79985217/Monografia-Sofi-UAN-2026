@@ -10,12 +10,14 @@ last_updated: 2026-10-04
 
 Resumen navegable de los desacuerdos y huecos que aparecieron al escribir las fichas y los conceptos (2026-10-04). Cada punto remite a la página de concepto donde está el detalle con cita y página verificada en `texto/`. **Esta página es una síntesis de Claude, no una fuente:** para la monografía se cita la fuente original, nunca esta página.
 
-## Decisiones que debe tomar la autora o su director(a)
+## Decisiones tomadas por el usuario (2026-10-04)
 
-1. **Numeración de títulos.** La guía APA del repo indica no etiquetar títulos con números (Guía Normas APA 7.ª ed., p. 29), pero `Estructura del trabajo.docx` está numerada. Ver [Normas APA 7](../conceptos/normas-apa-7.md).
-2. **Estilo de citación.** La misma guía señala Vancouver como estilo usado "principalmente, en el área de medicina" (p. 55) y Sampieri indica seguir el estilo de la institución y no mezclar estilos (Hernández Sampieri et al., 2014, p. 348). La norma de la UAN no está en el repo; el proyecto exige APA 7.
-3. **Dos ATLS con la misma referencia.** El manual en inglés y el manual en español son la misma 10.ª ed. (American College of Surgeons, 2018) con paginación distinta. Citar ambos exige 2018a/2018b; se recomienda elegir uno. Ver [ATLS](../entidades/atls.md).
-4. **Suture like a surgeon** prohíbe citar o parafrasear sin consentimiento del autor (p. PDF 3) y no trata el cuello. Ver su [ficha](../fuentes/suture-like-a-surgeon.md).
+1. **Numeración de títulos:** se usa la numeración de `Estructura del trabajo.docx`, aunque la guía APA del repo sugiere no numerar (p. 29). Ver [Normas APA 7](../conceptos/normas-apa-7.md).
+2. **ATLS:** se cita **solo el manual en español** ([ficha](../fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md)), con su paginación. El manual en inglés queda en el repo como consulta y no va en las referencias. Ver [ATLS](../entidades/atls.md).
+3. **Artículos incompletos:** se citan solo con lo que contiene la página disponible, sin inferir el resto (lista abajo).
+4. ***Suture like a surgeon*:** se eliminó del repo, de la wiki y de las referencias.
+
+Pendiente: la guía APA del repo menciona Vancouver como estilo frecuente en medicina (p. 55). El proyecto mantiene APA 7.
 
 ## PDFs incompletos (solo primera página o resumen)
 

@@ -8,6 +8,8 @@ last_updated: 2026-10-04
 
 # ATLS — American College of Surgeons (ACS) y su Committee on Trauma (COT)
 
+> **Decisión del usuario (2026-10-04):** en la monografía se cita **solo el manual en español** ([ficha](../fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md)). La versión en inglés se conserva como consulta y no va en las referencias.
+
 Esta página reúne tres cosas que las fuentes mencionan juntas: el **American College of Surgeons (ACS)**, su **Committee on Trauma (COT)** y el **programa/curso ATLS**. También recoge las menciones del ACS como dueño del NTDB y del programa TQIP, que algunas fichas enlazan aquí.
 
 ## Qué es, según las fuentes

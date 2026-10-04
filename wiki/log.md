@@ -33,3 +33,11 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Síntesis: `sintesis/estructura-de-la-monografia.md` (mapa fuentes ↔ secciones, generado desde "Aporte a la monografía" de cada ficha) y `sintesis/contradicciones-y-vacios.md`.
 - `index.md` reescrito con el catálogo completo.
 - Lint: 0 enlaces rotos entre páginas de la wiki y 0 páginas huérfanas.
+
+## [2026-10-04] setup | Decisiones del usuario y retiro de *Suture like a surgeon*
+
+- Decisiones registradas en `CLAUDE.md`, `sintesis/contradicciones-y-vacios.md`, `conceptos/normas-apa-7.md`, `entidades/atls.md` y en las dos fichas ATLS:
+  - se usa la numeración de `Estructura del trabajo.docx`;
+  - se cita solo el ATLS en español;
+  - de los PDFs parciales se cita únicamente lo presente.
+- Por pedido del usuario se eliminaron `Suture like a surgeon.pdf` (raíz), `texto/suture-like-a-surgeon.md` y `fuentes/suture-like-a-surgeon.md`, junto con sus referencias en `index.md` y en el mapa de `sintesis/estructura-de-la-monografia.md` (conteos recalculados). Las entradas anteriores de este log que lo mencionan se conservan, porque el log es append-only.
