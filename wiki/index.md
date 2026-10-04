@@ -14,8 +14,8 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 ### Libros de referencia (3)
 
 - [ATLS Student Course Manual, 10.ª ed. (inglés)](fuentes/atls-advanced-trauma-life-support.md) — American College of Surgeons (2018). Solo consulta: por decisión del usuario **no se cita**. (ingerido)
-- [ATLS Soporte Vital Avanzado en Trauma, 10.ª ed. (español)](fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md) — **Versión que se cita.** Traducción de la misma edición: evaluación ABCDE, vía aérea, shock, columna cervical, pediatría; no trata zonas del cuello ni el manejo selectivo. El PDF llega con el PR #1 (rama `claude/project-thread-cbouir`). (ingerido)
-- [Trauma, 9.ª ed. (Feliciano, Mattox y Moore)](fuentes/trauma-9th-edition-feliciano.md) — Tratado de cirugía de trauma; cap. 25 "Neck and Larynx" y comentario endovascular. Es la fuente más completa para los capítulos 1–7; tiene discrepancias internas entre capítulos. El PDF llega con el PR #1. (ingerido)
+- [ATLS Soporte Vital Avanzado en Trauma, 10.ª ed. (español)](fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md) — **Versión que se cita.** Traducción de la misma edición: evaluación ABCDE, vía aérea, shock, columna cervical, pediatría; no trata zonas del cuello ni el manejo selectivo. (ingerido)
+- [Trauma, 9.ª ed. (Feliciano, Mattox y Moore)](fuentes/trauma-9th-edition-feliciano.md) — Tratado de cirugía de trauma; cap. 25 "Neck and Larynx" y comentario endovascular. Es la fuente más completa para los capítulos 1–7; tiene discrepancias internas entre capítulos. (ingerido)
 
 ### Revisiones y guías sobre trauma de cuello (8)
 
