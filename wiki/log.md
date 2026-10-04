@@ -78,3 +78,10 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 
 - Mandavia et al. (2000): la referencia usa el DOI vigente de Crossref, 10.1016/S0196-0644(00)70071-0, en lugar del DOI del PDF.
 - Laher et al. (2023): la referencia usa las pp. 17–20 de Crossref (versión publicada). Las citas en texto con pp. 165–168 (ficha y conceptos) no se cambiaron porque vienen del PDF "Online first" y la equivalencia de páginas no está verificada; quedan marcadas `[INCIERTO]` en la ficha.
+
+## [2026-10-04] query | Exportación de Mendeley (.ris) y lista maestra de referencias
+
+- El usuario aportó una exportación RIS de Mendeley con 47 registros. Se cotejó por DOI y título con las fichas: 45 corresponden a fichas existentes y coinciden con los datos ya tomados de Crossref. No aportó datos nuevos, así que no se cambió ninguna ficha.
+- Se descartaron como fuente los errores de importación de Mendeley: autores y revista de Hadjizacharia, "Lather" y "Trauma Surgery" en Laher, autores personales e ISBN truncado en ATLS, y SP = EP. El detalle está en `/mnt/project-files/.notes/inputs.md`.
+- Singerman et al. (2025) está en Mendeley pero no tiene PDF en el repo: no se puede citar su contenido mientras no se suba.
+- Nueva `monografia/referencias.md`: lista maestra APA 7 generada desde las fichas, con "y" entre autores y la mayúscula inicial tras dos puntos en los títulos. Excluye el ATLS en inglés y la guía APA.
