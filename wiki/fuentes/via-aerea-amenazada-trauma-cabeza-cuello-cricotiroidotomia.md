@@ -74,8 +74,8 @@ Estudio retrospectivo en un centro de trauma mayor de Sudáfrica sobre los proce
 Conceptos:
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Vía aérea quirúrgica](../conceptos/via-aerea-quirurgica.md)
-- [Cricotiroidotomía](../conceptos/cricotiroidotomia.md)
-- [Traqueostomía](../conceptos/traqueostomia.md)
+- [Cricotiroidotomía](../conceptos/via-aerea-quirurgica.md)
+- [Traqueostomía](../conceptos/via-aerea-quirurgica.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Trauma cerrado de cuello](../conceptos/trauma-cerrado-de-cuello.md)
@@ -83,8 +83,8 @@ Conceptos:
 
 Entidades:
 - [ATLS](../entidades/atls.md)
-- [Pietermaritzburg Metropolitan Trauma Service (PMTS)](../entidades/pietermaritzburg-metropolitan-trauma-service.md)
-- [Hybrid Electronic Medical Registry (HEMR)](../entidades/hemr.md)
+- Pietermaritzburg Metropolitan Trauma Service (PMTS)
+- Hybrid Electronic Medical Registry (HEMR)
 
 ## Limitaciones / vacíos
 

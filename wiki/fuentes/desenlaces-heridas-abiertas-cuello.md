@@ -91,11 +91,11 @@ Conceptos:
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
-- [Factores pronósticos](../conceptos/factores-pronosticos.md)
-- [Platisma](../conceptos/platisma.md)
+- [Factores pronósticos](../conceptos/mortalidad-y-complicaciones.md)
+- [Platisma](../conceptos/trauma-penetrante-de-cuello.md)
 
 Entidades:
-- [Daejeon Eulji Medical Center](../entidades/daejeon-eulji-medical-center.md)
+- Daejeon Eulji Medical Center
 
 ## Limitaciones / vacíos
 

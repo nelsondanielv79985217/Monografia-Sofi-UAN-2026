@@ -71,13 +71,13 @@ Estudio de cohorte retrospectivo con el National Trauma Data Bank (2007–2019) 
 - [Trauma pediátrico](../conceptos/trauma-pediatrico.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
-- [Factores pronósticos](../conceptos/factores-pronosticos.md)
-- [Trauma por arma de fuego](../conceptos/trauma-por-arma-de-fuego.md)
-- [Escalas de gravedad (AIS, ISS, MGAP)](../conceptos/escalas-de-gravedad-del-trauma.md)
+- [Factores pronósticos](../conceptos/mortalidad-y-complicaciones.md)
+- [Trauma por arma de fuego](../conceptos/epidemiologia-y-mecanismos.md)
+- [Escalas de gravedad (AIS, ISS, MGAP)](../conceptos/mortalidad-y-complicaciones.md)
 - Entidad: [National Trauma Data Bank (NTDB)](../entidades/ntdb.md)
-- Entidad: [American College of Surgeons / TQIP](../entidades/american-college-of-surgeons.md)
-- Entidad: [CDC](../entidades/cdc.md)
-- Entidad: [University of Vermont](../entidades/university-of-vermont.md)
+- Entidad: [American College of Surgeons / TQIP](../entidades/atls.md)
+- Entidad: CDC
+- Entidad: University of Vermont
 
 ## Limitaciones / vacíos
 

@@ -63,8 +63,8 @@ Artículo de técnica/revisión sobre el abordaje del trauma de cuello. El resum
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesión cerebrovascular contusa (BCVI)](../conceptos/lesion-cerebrovascular-contusa.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
-- [Lesiones neurológicas cervicales](../conceptos/lesiones-neurologicas-cervicales.md)
-- Entidad: [Maimonides Medical Center](../entidades/maimonides-medical-center.md)
+- [Lesiones neurológicas cervicales](../conceptos/lesiones-neurologicas.md)
+- Entidad: Maimonides Medical Center
 
 ## Limitaciones / vacíos
 

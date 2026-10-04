@@ -57,7 +57,7 @@ Conceptos:
 - [Anatomía quirúrgica del cuello](../conceptos/anatomia-quirurgica-del-cuello.md)
 
 Entidades:
-- [University of California, Irvine](../entidades/university-of-california-irvine.md)
+- University of California, Irvine
 
 ## Limitaciones / vacíos
 

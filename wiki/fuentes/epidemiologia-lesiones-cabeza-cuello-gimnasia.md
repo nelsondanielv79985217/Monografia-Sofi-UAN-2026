@@ -68,9 +68,9 @@ Conceptos:
 - [Lesiones de la columna cervical](../conceptos/lesiones-de-la-columna-cervical.md)
 
 Entidades:
-- [NEISS (National Electronic Injury Surveillance System)](../entidades/neiss.md)
-- [Consumer Product Safety Commission](../entidades/consumer-product-safety-commission.md)
-- [Yale School of Medicine](../entidades/yale-school-of-medicine.md)
+- NEISS (National Electronic Injury Surveillance System)
+- Consumer Product Safety Commission
+- Yale School of Medicine
 
 ## Limitaciones / vacíos
 

@@ -80,7 +80,7 @@ Serie retrospectiva de 17 pacientes con trauma de cuello atendidos por otorrinol
 Conceptos:
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Trauma cerrado de cuello](../conceptos/trauma-cerrado-de-cuello.md)
-- [Lesiones laringotraqueales](../conceptos/lesiones-laringotraqueales.md)
+- [Lesiones laringotraqueales](../conceptos/lesiones-aerodigestivas.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
@@ -88,7 +88,7 @@ Conceptos:
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 
 Entidades:
-- [NSCB Medical College, Jabalpur](../entidades/nscb-medical-college-jabalpur.md)
+- NSCB Medical College, Jabalpur
 
 ## Limitaciones / vacíos
 

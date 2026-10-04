@@ -104,9 +104,9 @@ Análisis retrospectivo de todos los pacientes con trauma de cuello ingresados a
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 **Entidades**
-- [Hamad General Hospital / Hamad Medical Corporation](../entidades/hamad-medical-corporation.md) — sede (p. 155).
+- Hamad General Hospital / Hamad Medical Corporation — sede (p. 155).
 - [Eastern Association for the Surgery of Trauma (EAST)](../entidades/east.md) — guías que sigue el hospital (p. 155; ref. 13, p. 158).
-- [Weill Cornell Medical College (Qatar)](../entidades/weill-cornell-qatar.md) — afiliación (p. 154).
+- Weill Cornell Medical College (Qatar) — afiliación (p. 154).
 
 ## Limitaciones / vacíos
 

@@ -94,18 +94,18 @@ Revisión de la literatura que propone una guía práctica. Tras la reanimación
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
-- [Intubación de secuencia rápida](../conceptos/intubacion-de-secuencia-rapida.md)
+- [Intubación de secuencia rápida](../conceptos/manejo-de-la-via-aerea.md)
 - [Vía aérea quirúrgica](../conceptos/via-aerea-quirurgica.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
-- [Lesiones esofágicas](../conceptos/lesiones-esofagicas.md)
-- [Taponamiento con sonda Foley](../conceptos/taponamiento-con-sonda-foley.md)
-- [Inmovilización de columna cervical](../conceptos/inmovilizacion-columna-cervical.md)
+- [Lesiones esofágicas](../conceptos/lesiones-aerodigestivas.md)
+- [Taponamiento con sonda Foley](../conceptos/control-de-la-hemorragia.md)
+- [Inmovilización de columna cervical](../conceptos/inmovilizacion-cervical.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 - Entidad: [ATLS](../entidades/atls.md)
-- Entidad: [Clasificación de Monson](../entidades/monson-clasificacion-zonas.md)
-- Entidad: [Flinders Medical Centre](../entidades/flinders-medical-centre.md)
+- Entidad: Clasificación de Monson
+- Entidad: Flinders Medical Centre
 
 ## Limitaciones / vacíos
 

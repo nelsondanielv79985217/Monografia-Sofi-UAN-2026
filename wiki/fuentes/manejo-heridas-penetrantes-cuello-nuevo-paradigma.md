@@ -61,9 +61,9 @@ Estudio retrospectivo de 5 años en un centro civil de EE. UU. Los autores sosti
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 **Entidades**
-- [Legacy Emanuel Hospital and Health Center / Legacy Emanuel Trauma Registry](../entidades/legacy-emanuel-hospital.md) — sede y registro de datos (p. 691).
-- [Oregon Health & Sciences University](../entidades/oregon-health-sciences-university.md) — afiliación (p. 691).
-- [American Association of Oral and Maxillofacial Surgeons](../entidades/aaoms.md) — titular del copyright (p. 691).
+- Legacy Emanuel Hospital and Health Center / Legacy Emanuel Trauma Registry — sede y registro de datos (p. 691).
+- Oregon Health & Sciences University — afiliación (p. 691).
+- American Association of Oral and Maxillofacial Surgeons — titular del copyright (p. 691).
 
 ## Limitaciones / vacíos
 

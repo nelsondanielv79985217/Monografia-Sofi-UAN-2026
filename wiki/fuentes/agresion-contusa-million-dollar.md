@@ -79,7 +79,7 @@ Conceptos:
 
 Entidades:
 - [ATLS](../entidades/atls.md)
-- [University of Arizona](../entidades/university-of-arizona.md)
+- University of Arizona
 
 ## Limitaciones / vacíos
 

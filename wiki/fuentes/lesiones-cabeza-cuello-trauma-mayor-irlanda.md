@@ -79,14 +79,14 @@ Conceptos:
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 - [Trauma cerrado de cuello](../conceptos/trauma-cerrado-de-cuello.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
-- [Lesiones de columna cervical](../conceptos/lesiones-de-columna-cervical.md)
-- [Escalas de gravedad (ISS / AIS)](../conceptos/escalas-de-gravedad-iss-ais.md)
+- [Lesiones de columna cervical](../conceptos/lesiones-de-la-columna-cervical.md)
+- [Escalas de gravedad (ISS / AIS)](../conceptos/mortalidad-y-complicaciones.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 Entidades:
-- [Trauma Audit Research Network (TARN)](../entidades/tarn.md)
-- [Major Trauma Audit (Irlanda) / National Office of Clinical Audit](../entidades/major-trauma-audit-irlanda.md)
-- [University College Cork / Cork University Hospital](../entidades/cork-university-hospital.md)
+- Trauma Audit Research Network (TARN)
+- Major Trauma Audit (Irlanda) / National Office of Clinical Audit
+- University College Cork / Cork University Hospital
 
 ## Limitaciones / vacíos
 

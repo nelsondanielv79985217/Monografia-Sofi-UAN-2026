@@ -97,7 +97,7 @@ Conceptos:
 Entidades:
 - [Western Trauma Association](../entidades/western-trauma-association.md)
 - [Tactical Combat Casualty Care (TCCC)](../entidades/tactical-combat-casualty-care.md)
-- [London HEMS](../entidades/london-hems.md)
+- London HEMS
 
 ## Limitaciones / vacíos
 

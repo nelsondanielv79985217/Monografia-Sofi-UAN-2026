@@ -95,9 +95,9 @@ Serie de un servicio de cirugía vascular universitario (Graz, Austria) de pacie
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
-- Entidad: [Medical University Graz](../entidades/medical-university-graz.md)
+- Entidad: Medical University Graz
 - Entidad: [ATLS](../entidades/atls.md)
-- Entidad: [Clasificación de Monson](../entidades/monson-clasificacion-zonas.md)
+- Entidad: Clasificación de Monson
 
 ## Limitaciones / vacíos
 

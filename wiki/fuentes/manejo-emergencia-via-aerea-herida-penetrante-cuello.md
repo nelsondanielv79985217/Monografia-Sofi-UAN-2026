@@ -59,11 +59,11 @@ El manejo de la vía aérea en la herida penetrante de cuello es "a challenging 
 ## Conceptos y entidades
 
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
-- [Intubación de secuencia rápida](../conceptos/intubacion-de-secuencia-rapida.md)
+- [Intubación de secuencia rápida](../conceptos/manejo-de-la-via-aerea.md)
 - [Vía aérea quirúrgica](../conceptos/via-aerea-quirurgica.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
-- Entidad: [Los Angeles County–University of Southern California Medical Center](../entidades/lac-usc-medical-center.md)
-- Entidad: [Society for Airway Management](../entidades/society-for-airway-management.md)
+- Entidad: Los Angeles County–University of Southern California Medical Center
+- Entidad: Society for Airway Management
 
 ## Limitaciones / vacíos
 

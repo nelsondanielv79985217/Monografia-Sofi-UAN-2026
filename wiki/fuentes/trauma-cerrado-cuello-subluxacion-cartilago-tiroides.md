@@ -70,15 +70,15 @@ Reporte de un caso de trauma laríngeo cerrado por accidente vehicular, con frac
 - [Trauma cerrado de cuello](../conceptos/trauma-cerrado-de-cuello.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
-- [Clasificación de Schaefer del trauma laríngeo](../conceptos/clasificacion-de-schaefer.md)
+- [Clasificación de Schaefer del trauma laríngeo](../conceptos/lesiones-aerodigestivas.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 
 **Entidades**
-- [ATLS](../entidades/atls.md) y [European Trauma Course (ETC)](../entidades/european-trauma-course.md) — protocolos del abordaje inicial (p. 4772).
-- [American Academy of Otolaryngology-Head and Neck Surgery](../entidades/aao-hns.md) — acepta la clasificación de Schaefer (p. 4774).
-- [Moti Lal Nehru Medical College](../entidades/mln-medical-college.md) — afiliación (p. 4770).
+- [ATLS](../entidades/atls.md) y European Trauma Course (ETC) — protocolos del abordaje inicial (p. 4772).
+- American Academy of Otolaryngology-Head and Neck Surgery — acepta la clasificación de Schaefer (p. 4774).
+- Moti Lal Nehru Medical College — afiliación (p. 4770).
 
 ## Limitaciones / vacíos
 

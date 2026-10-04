@@ -69,11 +69,11 @@ Es un manual práctico de suturas para estudiantes y residentes de cirugía, urg
 
 ## Conceptos y entidades
 
-- [Materiales de sutura](../conceptos/materiales-de-sutura.md): absorbibles y no absorbibles, calibres (pp. PDF 15-22).
-- [Nudos quirúrgicos](../conceptos/nudos-quirurgicos.md) (pp. PDF 34-54).
-- [Técnicas de sutura y cierre de heridas](../conceptos/tecnicas-de-sutura.md) (pp. PDF 55-108).
-- [Complicaciones de la herida suturada](../conceptos/complicaciones-de-la-herida-suturada.md): infección, dehiscencia, cicatrices (p. PDF 111).
-- Entidad: [Medical Creations](../entidades/medical-creations.md), editorial comercial (pp. PDF 3, 116).
+- Materiales de sutura: absorbibles y no absorbibles, calibres (pp. PDF 15-22).
+- Nudos quirúrgicos (pp. PDF 34-54).
+- Técnicas de sutura y cierre de heridas (pp. PDF 55-108).
+- Complicaciones de la herida suturada: infección, dehiscencia, cicatrices (p. PDF 111).
+- Entidad: Medical Creations, editorial comercial (pp. PDF 3, 116).
 
 ## Limitaciones
 

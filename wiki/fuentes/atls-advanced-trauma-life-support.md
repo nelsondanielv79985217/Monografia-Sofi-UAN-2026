@@ -248,16 +248,16 @@ Organizados por sección de la monografía. Formato de cita: (p. impresa; PDF N)
 ## Conceptos y entidades
 
 Conceptos:
-- [Evaluación inicial ATLS / ABCDE](../conceptos/evaluacion-inicial-atls-abcde.md)
+- [Evaluación inicial ATLS / ABCDE](../conceptos/evaluacion-inicial-atls.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
-- [Vía aérea quirúrgica y cricotiroidotomía](../conceptos/via-aerea-quirurgica-cricotiroidotomia.md)
+- [Vía aérea quirúrgica y cricotiroidotomía](../conceptos/via-aerea-quirurgica.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
-- [Lesión cerebrovascular cerrada (BCVI)](../conceptos/lesion-cerebrovascular-cerrada.md)
+- [Lesión cerebrovascular cerrada (BCVI)](../conceptos/lesion-cerebrovascular-contusa.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
-- [Lesión de columna cervical y médula espinal](../conceptos/lesion-columna-cervical-y-medula.md)
-- [Shock hemorrágico y reanimación](../conceptos/shock-hemorragico-y-reanimacion.md)
-- [Shock neurogénico](../conceptos/shock-neurogenico.md)
+- [Lesión de columna cervical y médula espinal](../conceptos/lesiones-de-la-columna-cervical.md)
+- [Shock hemorrágico y reanimación](../conceptos/shock-hemorragico.md)
+- [Shock neurogénico](../conceptos/lesiones-de-la-columna-cervical.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Trauma cerrado de cuello](../conceptos/trauma-cerrado-de-cuello.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
@@ -267,11 +267,11 @@ Conceptos:
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md) — ídem, ATLS no lo trata.
 
 Entidades:
-- [American College of Surgeons (ACS) / Committee on Trauma (COT)](../entidades/american-college-of-surgeons-committee-on-trauma.md)
+- [American College of Surgeons (ACS) / Committee on Trauma (COT)](../entidades/atls.md)
 - [ATLS](../entidades/atls.md)
 - [NEXUS](../entidades/nexus.md) y [Canadian C-Spine Rule](../entidades/canadian-c-spine-rule.md)
 - [PHTLS](../entidades/phtls.md) (p. ii, 4; PDF 3, 57)
-- [ASIA / ISNCSCI](../entidades/asia-isncsci.md) (p. 132; PDF 185)
+- ASIA / ISNCSCI (p. 132; PDF 185)
 - [Brain Trauma Foundation](../entidades/brain-trauma-foundation.md) (p. 111; PDF 164)
 
 ## Limitaciones / vacíos

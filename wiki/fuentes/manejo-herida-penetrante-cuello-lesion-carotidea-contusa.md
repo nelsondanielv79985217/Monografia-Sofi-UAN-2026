@@ -93,7 +93,7 @@ De la revisión:
 Conceptos:
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
-- [Clasificación de Denver](../conceptos/clasificacion-de-denver.md)
+- [Clasificación de Denver](../conceptos/lesion-cerebrovascular-contusa.md)
 - [Lesión cerebrovascular contusa](../conceptos/lesion-cerebrovascular-contusa.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
@@ -101,11 +101,11 @@ Conceptos:
 - [Lesiones de la columna cervical](../conceptos/lesiones-de-la-columna-cervical.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
-- [Platisma](../conceptos/platisma.md)
+- [Platisma](../conceptos/trauma-penetrante-de-cuello.md)
 
 Entidades:
 - [ATLS](../entidades/atls.md)
-- [JIPMER](../entidades/jipmer.md)
+- JIPMER
 
 ## Limitaciones / vacíos
 

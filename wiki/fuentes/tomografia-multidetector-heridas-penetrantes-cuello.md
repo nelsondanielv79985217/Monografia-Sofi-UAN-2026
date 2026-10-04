@@ -66,8 +66,8 @@ Revisión radiológica: "Penetrating traumatic neck injury is no longer best man
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
-- [Angiografía convencional](../conceptos/angiografia-convencional.md)
-- Entidad: [Jackson Memorial Hospital / Ryder Trauma Center (Universidad de Miami)](../entidades/jackson-memorial-ryder-trauma-center.md)
+- [Angiografía convencional](../conceptos/estudios-diagnosticos-complementarios.md)
+- Entidad: Jackson Memorial Hospital / Ryder Trauma Center (Universidad de Miami)
 
 ## Limitaciones / vacíos
 

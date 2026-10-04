@@ -116,21 +116,21 @@ Análisis retrospectivo de 161 víctimas de trauma penetrante de cuello en urgen
 Conceptos:
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Manejo selectivo vs exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
-- [Exploración cervical negativa / no terapéutica](../conceptos/exploracion-negativa-no-terapeutica.md)
+- [Exploración cervical negativa / no terapéutica](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
-- [Ecografía Doppler](../conceptos/ecografia-doppler.md)
-- [Angiografía convencional](../conceptos/angiografia-convencional.md)
-- [Endoscopia aerodigestiva](../conceptos/endoscopia-aerodigestiva.md)
+- [Ecografía Doppler](../conceptos/estudios-diagnosticos-complementarios.md)
+- [Angiografía convencional](../conceptos/estudios-diagnosticos-complementarios.md)
+- [Endoscopia aerodigestiva](../conceptos/estudios-diagnosticos-complementarios.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
-- [Taponamiento con balón](../conceptos/taponamiento-con-balon.md)
+- [Taponamiento con balón](../conceptos/control-de-la-hemorragia.md)
 - [Cirugía de control de daños](../conceptos/cirugia-de-control-de-danos.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 Entidades:
-- [Hospital das Clínicas – Universidade de São Paulo](../entidades/hospital-das-clinicas-usp.md)
+- Hospital das Clínicas – Universidade de São Paulo
 - [ATLS](../entidades/atls.md)
 - [Western Trauma Association (WTA)](../entidades/western-trauma-association.md) (citada en ref. 6, p. 6)
 

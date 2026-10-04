@@ -82,13 +82,13 @@ Conceptos:
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Manejo selectivo vs exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
-- [Exploración cervical negativa / no terapéutica](../conceptos/exploracion-negativa-no-terapeutica.md)
+- [Exploración cervical negativa / no terapéutica](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Control de la hemorragia](../conceptos/control-de-la-hemorragia.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 
 Entidades:
-- [Denver Health Medical Center](../entidades/denver-health-medical-center.md)
+- [Denver Health Medical Center](../entidades/denver-health.md)
 
 ## Limitaciones / vacíos
 

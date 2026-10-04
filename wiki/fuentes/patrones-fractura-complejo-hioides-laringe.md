@@ -66,12 +66,12 @@ Estudio forense retrospectivo de 284 complejos hioides-laringe (HLC) explantados
 
 Conceptos:
 - [Trauma cerrado de cuello](../conceptos/trauma-cerrado-de-cuello.md)
-- [Lesiones laringotraqueales](../conceptos/lesiones-laringotraqueales.md)
+- [Lesiones laringotraqueales](../conceptos/lesiones-aerodigestivas.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 - [Anatomía quirúrgica del cuello](../conceptos/anatomia-quirurgica-del-cuello.md)
 
 Entidades:
-- [Netherlands Forensic Institute](../entidades/netherlands-forensic-institute.md)
+- Netherlands Forensic Institute
 
 ## Limitaciones / vacíos
 

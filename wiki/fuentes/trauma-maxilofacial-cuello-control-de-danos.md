@@ -106,22 +106,22 @@ Revisión narrativa ("REVIEW", p. 1) sobre el manejo del trauma maxilofacial y c
 
 Conceptos:
 - [Cirugía de control de daños](../conceptos/cirugia-de-control-de-danos.md)
-- [Reanimación de control de daños y transfusión masiva](../conceptos/reanimacion-de-control-de-danos.md)
+- [Reanimación de control de daños y transfusión masiva](../conceptos/cirugia-de-control-de-danos.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 - [Anatomía quirúrgica del cuello](../conceptos/anatomia-quirurgica-del-cuello.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Control de la hemorragia](../conceptos/control-de-la-hemorragia.md)
-- [Lesiones de columna cervical](../conceptos/lesiones-de-columna-cervical.md)
+- [Lesiones de columna cervical](../conceptos/lesiones-de-la-columna-cervical.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
-- [Trauma maxilofacial](../conceptos/trauma-maxilofacial.md)
+- Trauma maxilofacial
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 Entidades:
-- [Ensayo PROPPR](../entidades/proppr.md)
-- [Estudio PROMMTT](../entidades/prommtt.md)
-- [Guía europea de manejo del sangrado tras trauma mayor (Spahn et al., 2013)](../entidades/guia-europea-sangrado-trauma.md)
+- Ensayo PROPPR
+- Estudio PROMMTT
+- Guía europea de manejo del sangrado tras trauma mayor (Spahn et al., 2013)
 
 ## Limitaciones / vacíos
 

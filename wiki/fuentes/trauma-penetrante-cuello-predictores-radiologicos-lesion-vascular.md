@@ -108,7 +108,7 @@ Cohorte retrospectiva de un centro de trauma mayor del Reino Unido que compara s
 
 **Entidades**
 - [Queen Elizabeth Hospital Birmingham](../entidades/queen-elizabeth-hospital-birmingham.md) — sede (p. 2542).
-- [Western Trauma Association (WTA)](../entidades/wta.md) — solo como referencia 1 (Sperry et al., 2013) para la definición de herida penetrante (p. 2541, 2547).
+- [Western Trauma Association (WTA)](../entidades/western-trauma-association.md) — solo como referencia 1 (Sperry et al., 2013) para la definición de herida penetrante (p. 2541, 2547).
 
 ## Limitaciones / vacíos
 

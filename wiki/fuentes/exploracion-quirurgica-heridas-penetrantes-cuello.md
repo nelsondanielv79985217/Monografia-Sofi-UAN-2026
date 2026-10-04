@@ -94,18 +94,18 @@ Conceptos:
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Manejo selectivo vs exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Enfoque "no zone"](../conceptos/enfoque-no-zone.md)
-- [Exploración cervical negativa / no terapéutica](../conceptos/exploracion-negativa-no-terapeutica.md)
+- [Exploración cervical negativa / no terapéutica](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
-- [Taponamiento con balón](../conceptos/taponamiento-con-balon.md)
+- [Taponamiento con balón](../conceptos/control-de-la-hemorragia.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 
 Entidades:
-- [Chris Hani Baragwanath Academic Hospital](../entidades/chris-hani-baragwanath-academic-hospital.md)
+- Chris Hani Baragwanath Academic Hospital
 - [Western Trauma Association (WTA)](../entidades/western-trauma-association.md) (citada en la ref. 23, p. 168)
 
 ## Limitaciones / vacíos

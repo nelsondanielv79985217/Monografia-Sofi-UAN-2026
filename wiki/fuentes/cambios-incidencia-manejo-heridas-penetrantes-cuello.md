@@ -128,22 +128,22 @@ Conceptos:
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Manejo selectivo vs exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
-- [Exploración cervical negativa / no terapéutica](../conceptos/exploracion-negativa-no-terapeutica.md)
+- [Exploración cervical negativa / no terapéutica](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
-- [Ecografía Doppler](../conceptos/ecografia-doppler.md)
-- [Esofagografía / trago de contraste](../conceptos/esofagografia.md)
+- [Ecografía Doppler](../conceptos/estudios-diagnosticos-complementarios.md)
+- [Esofagografía / trago de contraste](../conceptos/estudios-diagnosticos-complementarios.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Tratamiento endovascular](../conceptos/tratamiento-endovascular.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
-- [Prevención de la violencia](../conceptos/prevencion-de-la-violencia.md)
+- [Prevención de la violencia](../conceptos/epidemiologia-y-mecanismos.md)
 
 Entidades:
 - [King's College Hospital](../entidades/kings-college-hospital.md)
-- [London Trauma Network](../entidades/london-trauma-network.md)
+- London Trauma Network
 - [ATLS](../entidades/atls.md)
-- [Association of Surgeons of Great Britain and Ireland (ASGBI)](../entidades/asgbi.md)
-- [Cardiff model](../entidades/cardiff-model.md)
-- [Clasificación de Monson (1969)](../entidades/monson-1969.md)
+- Association of Surgeons of Great Britain and Ireland (ASGBI)
+- Cardiff model
+- Clasificación de Monson (1969)
 
 ## Limitaciones / vacíos
 

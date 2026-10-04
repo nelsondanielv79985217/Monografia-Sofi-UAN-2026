@@ -89,12 +89,12 @@ Revisión retrospectiva de las heridas cervicales atendidas en St George's Hospi
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
-- [Lesiones neurológicas cervicales](../conceptos/lesiones-neurologicas-cervicales.md)
+- [Lesiones neurológicas cervicales](../conceptos/lesiones-neurologicas.md)
 - [Tratamiento endovascular](../conceptos/tratamiento-endovascular.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
-- Entidad: [St George's Hospital (Londres)](../entidades/st-georges-hospital.md)
+- Entidad: St George's Hospital (Londres)
 - Entidad: [ATLS](../entidades/atls.md)
-- Entidad: [Clasificación de Monson](../entidades/monson-clasificacion-zonas.md)
+- Entidad: Clasificación de Monson
 
 ## Limitaciones / vacíos
 

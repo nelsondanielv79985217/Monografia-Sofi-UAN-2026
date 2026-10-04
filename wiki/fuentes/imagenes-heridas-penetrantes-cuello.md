@@ -98,15 +98,15 @@ Revisión narrativa dirigida a radiólogos sobre las imágenes en heridas penetr
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
-- [Esofagografía](../conceptos/esofagografia.md)
-- [Lesiones de columna cervical y médula](../conceptos/lesiones-columna-cervical.md)
-- [Balística y trayectoria](../conceptos/balistica-y-trayectoria.md)
+- [Esofagografía](../conceptos/estudios-diagnosticos-complementarios.md)
+- [Lesiones de columna cervical y médula](../conceptos/lesiones-de-la-columna-cervical.md)
+- [Balística y trayectoria](../conceptos/epidemiologia-y-mecanismos.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 **Entidades**
-- [Grant Government Medical College and JJ Hospital](../entidades/jj-hospital-mumbai.md) — afiliación de la autora (p. 395).
-- [Western Trauma Association (WTA)](../entidades/wta.md) — solo aparece como referencia 26 (Sperry et al., 2013) (p. 407); la autora no la discute en el texto.
+- Grant Government Medical College and JJ Hospital — afiliación de la autora (p. 395).
+- [Western Trauma Association (WTA)](../entidades/western-trauma-association.md) — solo aparece como referencia 26 (Sperry et al., 2013) (p. 407); la autora no la discute en el texto.
 
 ## Limitaciones / vacíos
 

@@ -144,7 +144,7 @@ Conceptos:
 
 Entidades:
 - [ATLS](../entidades/atls.md)
-- [American College of Radiology](../entidades/american-college-of-radiology.md)
+- American College of Radiology
 - [Tactical Combat Casualty Care (TCCC)](../entidades/tactical-combat-casualty-care.md)
 
 ## Limitaciones / vacíos

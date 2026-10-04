@@ -84,18 +84,18 @@ Estudio colombiano de exactitud diagnóstica en un hospital de referencia de tra
 
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
-- [Manejo selectivo no operatorio (SNOM)](../conceptos/manejo-selectivo-no-operatorio.md)
-- [Examen físico del cuello](../conceptos/examen-fisico-del-cuello.md)
+- [Manejo selectivo no operatorio (SNOM)](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
+- [Examen físico del cuello](../conceptos/evaluacion-inicial-atls.md)
 - [Enfoque "no zone"](../conceptos/enfoque-no-zone.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
-- [Entornos de recursos limitados](../conceptos/entornos-de-recursos-limitados.md)
-- Entidad: [Hospital Occidente de Kennedy (Bogotá)](../entidades/hospital-occidente-kennedy.md)
-- Entidad: [Universidad del Rosario](../entidades/universidad-del-rosario.md)
+- [Entornos de recursos limitados](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
+- Entidad: Hospital Occidente de Kennedy (Bogotá)
+- Entidad: Universidad del Rosario
 - Entidad: [ATLS](../entidades/atls.md)
-- Entidad: [STARD 2015](../entidades/stard.md)
+- Entidad: STARD 2015
 
 ## Limitaciones / vacíos
 

@@ -105,11 +105,11 @@ No aporta contenido clínico. Sirve como herramienta transversal para:
 
 ## Conceptos y entidades
 
-- [Citas en texto APA 7](../conceptos/citas-en-texto-apa-7.md): sistema autor-fecha, et al. con 3 o más autores, citas textuales y paráfrasis (pp. 6, 34-43).
-- [Referencias APA 7](../conceptos/referencias-apa-7.md): elementos, orden y modelos de libro y revista (pp. 45-54).
-- [Tablas y figuras APA 7](../conceptos/tablas-y-figuras-apa-7.md) (pp. 17-23).
-- [Estilos de citación](../conceptos/estilos-de-citacion.md): APA frente a Vancouver (p. 55).
-- Entidades: [American Psychological Association](../entidades/american-psychological-association.md) (p. 57); [normas-apa.org](../entidades/normas-apa-org.md), origen del contenido (pp. 1, 5).
+- [Citas en texto APA 7](../conceptos/normas-apa-7.md): sistema autor-fecha, et al. con 3 o más autores, citas textuales y paráfrasis (pp. 6, 34-43).
+- [Referencias APA 7](../conceptos/normas-apa-7.md): elementos, orden y modelos de libro y revista (pp. 45-54).
+- [Tablas y figuras APA 7](../conceptos/normas-apa-7.md) (pp. 17-23).
+- [Estilos de citación](../conceptos/normas-apa-7.md): APA frente a Vancouver (p. 55).
+- Entidades: [American Psychological Association](../entidades/american-psychological-association.md) (p. 57); normas-apa.org, origen del contenido (pp. 1, 5).
 
 ## Limitaciones
 

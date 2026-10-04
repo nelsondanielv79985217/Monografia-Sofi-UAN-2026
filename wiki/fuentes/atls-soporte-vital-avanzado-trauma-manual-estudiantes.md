@@ -293,7 +293,7 @@ Cada viñeta lleva (p. impresa; PDF N). Las cifras se copiaron tal como aparecen
 **Conceptos**
 - [Evaluación inicial ATLS / ABCDE](../conceptos/evaluacion-inicial-atls.md): secuencia de evaluación y revisión primaria (pp. 4–10).
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md): vía aérea definitiva, trauma de cuello y laríngeo (pp. 24–36).
-- [Cricotiroidotomía y vía aérea quirúrgica](../conceptos/cricotiroidotomia-via-aerea-quirurgica.md): indicaciones, técnica y límite de edad (p. 36; pp. 194, 342–343).
+- [Cricotiroidotomía y vía aérea quirúrgica](../conceptos/via-aerea-quirurgica.md): indicaciones, técnica y límite de edad (p. 36; pp. 194, 342–343).
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md): lesión penetrante o contusa, angio-TAC, Doppler y angiografía (p. 16).
 - [Lesión cerebrovascular contusa (carótida/vertebral)](../conceptos/lesion-cerebrovascular-contusa.md): criterios de fractura C1–C3, agujero transverso, ACV (p. 139); canal carotídeo (p. 110).
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md): laringe, tráquea y esófago asociado (pp. 25–26, 64–65).
@@ -302,22 +302,22 @@ Cada viñeta lleva (p. impresa; PDF N). Las cifras se copiaron tal como aparecen
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md): ATLS no usa la dicotomía para el cuello; hallazgos que requieren evaluación quirúrgica (p. 16; p. 243).
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md): ATLS no lo discute; solo "no explorar en urgencias" (p. 16).
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md): pp. 16, 110.
-- [Lesión de columna cervical](../conceptos/lesion-de-columna-cervical.md): cap. 7.
-- [Restricción del movimiento de la columna cervical](../conceptos/restriccion-movimiento-columna-cervical.md): pp. 7–8, 27, 142–144.
-- [Choque hemorrágico](../conceptos/choque-hemorragico.md): cap. 3, Tabla 3-1 (p. 49).
-- [Shock neurogénico](../conceptos/shock-neurogenico.md): pp. 44, 48, 134–135.
+- [Lesión de columna cervical](../conceptos/lesiones-de-la-columna-cervical.md): cap. 7.
+- [Restricción del movimiento de la columna cervical](../conceptos/inmovilizacion-cervical.md): pp. 7–8, 27, 142–144.
+- [Choque hemorrágico](../conceptos/shock-hemorragico.md): cap. 3, Tabla 3-1 (p. 49).
+- [Shock neurogénico](../conceptos/lesiones-de-la-columna-cervical.md): pp. 44, 48, 134–135.
 - [Trauma pediátrico](../conceptos/trauma-pediatrico.md): cap. 10.
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md): pp. 24, 64, 130.
 
 **Entidades**
-- [American College of Surgeons — Comité de Trauma (ACS COT)](../entidades/american-college-of-surgeons-cot.md): autor y titular (p. ii).
+- [American College of Surgeons — Comité de Trauma (ACS COT)](../entidades/atls.md): autor y titular (p. ii).
 - [ATLS (programa)](../entidades/atls.md): pp. vii, 4.
 - [PHTLS](../entidades/phtls.md): p. 4.
 - [NEXUS](../entidades/nexus.md) y [Canadian C-Spine Rule](../entidades/canadian-c-spine-rule.md): pp. 16, 139–140.
 - [Brain Trauma Foundation](../entidades/brain-trauma-foundation.md): guías de TCE, 4.ª ed. (p. 111).
-- [ASIA](../entidades/asia.md): estándares de clasificación de lesión medular (p. 132).
-- [PECARN](../entidades/pecarn.md): Fig. 10-7 (p. 204).
-- [ACS TQIP](../entidades/acs-tqip.md): transfusión masiva y TCE (pp. 55, 111).
+- ASIA: estándares de clasificación de lesión medular (p. 132).
+- PECARN: Fig. 10-7 (p. 204).
+- ACS TQIP: transfusión masiva y TCE (pp. 55, 111).
 
 ## Limitaciones / vacíos
 

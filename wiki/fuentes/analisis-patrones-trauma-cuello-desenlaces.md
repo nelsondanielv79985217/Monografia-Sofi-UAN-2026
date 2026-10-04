@@ -101,9 +101,9 @@ Estudio observacional ambispectivo, de un solo centro (AIIMS Delhi), de 156 paci
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 **Entidades**
-- [AIIMS Delhi](../entidades/aiims-delhi.md) — sede del estudio (p. 194).
+- AIIMS Delhi — sede del estudio (p. 194).
 - [ATLS](../entidades/atls.md) — protocolo estándar mencionado (p. 194).
-- [Organización Mundial de la Salud](../entidades/organizacion-mundial-de-la-salud.md) — fuente de la cifra 5–10 % (referencia 1, p. 201).
+- Organización Mundial de la Salud — fuente de la cifra 5–10 % (referencia 1, p. 201).
 - [Al-Thani et al. 2015](patrones-desenlaces-trauma-cuello.md) — estudio citado como base del cálculo muestral y en la comparación (p. 194, 198, 200); también es una ficha de este repo.
 
 ## Limitaciones / vacíos

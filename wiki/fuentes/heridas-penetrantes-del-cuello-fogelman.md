@@ -63,14 +63,14 @@ Todos de la revisión histórica de la p. 581 (cifras citadas por los autores de
 Conceptos:
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
-- [Platisma](../conceptos/platisma.md)
+- [Platisma](../conceptos/trauma-penetrante-de-cuello.md)
 - [Lesiones vasculares cervicales](../conceptos/lesiones-vasculares-cervicales.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
-- [Historia del manejo del trauma de cuello](../conceptos/historia-del-manejo-del-trauma-de-cuello.md)
+- [Historia del manejo del trauma de cuello](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 
 Entidades:
-- [University of Texas Southwestern Medical School](../entidades/university-of-texas-southwestern.md)
+- [University of Texas Southwestern Medical School](../entidades/ut-southwestern.md)
 
 ## Limitaciones / vacíos
 

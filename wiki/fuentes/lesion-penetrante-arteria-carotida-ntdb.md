@@ -71,7 +71,7 @@ Conceptos:
 
 Entidades:
 - [National Trauma Data Bank (NTDB)](../entidades/ntdb.md)
-- [R Adams Cowley Shock Trauma Center](../entidades/r-adams-cowley-shock-trauma-center.md)
+- R Adams Cowley Shock Trauma Center
 
 ## Limitaciones / vacíos
 

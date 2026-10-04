@@ -3,14 +3,14 @@ title: "Penetrating neck trauma and the need for surgical exploration: six-year 
 type: fuente
 tags: [trauma-penetrante-de-cuello, exploracion-quirurgica, manejo-selectivo, no-zone, otorrinolaringologia, reino-unido, liverpool, autolesion]
 fuente_pdf: "Penetrating_neck_trauma_and_th.pdf"
-texto_completo: "../texto/trauma-penetrante-cuello-y-otorrinolaringologo.md"
+texto_completo: "../texto/trauma-penetrante-cuello-necesidad-exploracion-quirurgica.md"
 status: ingerido
 last_updated: 2026-10-04
 ---
 
 # Kasbekar et al. (2017) — Trauma penetrante de cuello y necesidad de exploración quirúrgica: seis años en un centro regional
 
-> Nota sobre el slug: el nombre del archivo PDF ("Penetrating_neck_trauma_and_th") está truncado; el título real del artículo es el de arriba. El slug sugiere "otorrinolaringólogo" pero el artículo no lleva esa palabra en el título (sí es de un servicio de Otorrinolaringología y se publicó en *The Journal of Laryngology & Otology*).
+> Nota sobre el slug: el nombre del archivo PDF ("Penetrating_neck_trauma_and_th") está truncado; el título real del artículo es el de arriba. El slug se renombró a `trauma-penetrante-cuello-necesidad-exploracion-quirurgica` para que corresponda al título.
 
 ## Referencia bibliográfica (APA 7)
 
@@ -97,21 +97,21 @@ Conceptos:
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Manejo selectivo vs exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Enfoque "no zone"](../conceptos/enfoque-no-zone.md)
-- [Exploración cervical negativa / no terapéutica](../conceptos/exploracion-negativa-no-terapeutica.md)
+- [Exploración cervical negativa / no terapéutica](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
-- [Esofagografía / trago de contraste](../conceptos/esofagografia.md)
-- [Endoscopia aerodigestiva](../conceptos/endoscopia-aerodigestiva.md)
+- [Esofagografía / trago de contraste](../conceptos/estudios-diagnosticos-complementarios.md)
+- [Endoscopia aerodigestiva](../conceptos/estudios-diagnosticos-complementarios.md)
 - [Manejo de la vía aérea](../conceptos/manejo-de-la-via-aerea.md)
-- [Atención prehospitalaria](../conceptos/atencion-prehospitalaria.md)
+- [Atención prehospitalaria](../conceptos/manejo-prehospitalario.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
-- [Autolesión / intento de suicidio](../conceptos/autolesion.md)
+- [Autolesión / intento de suicidio](../conceptos/epidemiologia-y-mecanismos.md)
 
 Entidades:
-- [Aintree University Hospital](../entidades/aintree-university-hospital.md)
-- [Guías de Burgess et al. (2012)](../entidades/guias-burgess-2012.md)
-- [Office for National Statistics (Reino Unido)](../entidades/office-for-national-statistics.md)
+- Aintree University Hospital
+- Guías de Burgess et al. (2012)
+- Office for National Statistics (Reino Unido)
 
 ## Limitaciones / vacíos
 

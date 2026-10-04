@@ -65,7 +65,7 @@ Conceptos:
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
 
 Entidades:
-- [Universidad Autónoma de Nuevo León](../entidades/universidad-autonoma-de-nuevo-leon.md)
+- Universidad Autónoma de Nuevo León
 
 ## Limitaciones / vacíos
 

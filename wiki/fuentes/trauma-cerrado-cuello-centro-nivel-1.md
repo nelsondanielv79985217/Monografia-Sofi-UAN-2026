@@ -94,15 +94,15 @@ Conceptos:
 - [Lesión cerebrovascular contusa](../conceptos/lesion-cerebrovascular-contusa.md)
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Angiotomografía computarizada](../conceptos/angiotomografia-computarizada.md)
-- [Nasoendoscopia flexible](../conceptos/nasoendoscopia-flexible.md)
+- [Nasoendoscopia flexible](../conceptos/estudios-diagnosticos-complementarios.md)
 - [Epidemiología y mecanismos](../conceptos/epidemiologia-y-mecanismos.md)
 - [Lesiones neurológicas](../conceptos/lesiones-neurologicas.md)
 - [Mortalidad y complicaciones](../conceptos/mortalidad-y-complicaciones.md)
-- [Platisma](../conceptos/platisma.md)
+- [Platisma](../conceptos/trauma-penetrante-de-cuello.md)
 
 Entidades:
 - [Queen Elizabeth Hospital Birmingham](../entidades/queen-elizabeth-hospital-birmingham.md)
-- [University of Birmingham](../entidades/university-of-birmingham.md)
+- University of Birmingham
 
 ## Limitaciones / vacíos
 

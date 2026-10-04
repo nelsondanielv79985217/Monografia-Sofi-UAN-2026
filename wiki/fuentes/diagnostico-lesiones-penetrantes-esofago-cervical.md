@@ -69,16 +69,16 @@ Estudio prospectivo diseñado para evaluar la precisión del esofagograma con ba
 **Conceptos**
 - [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
 - [Manejo selectivo vs. exploración obligatoria](../conceptos/manejo-selectivo-vs-exploracion-obligatoria.md)
-- [Esofagografía](../conceptos/esofagografia.md)
-- [Endoscopia / esofagoscopia](../conceptos/esofagoscopia.md)
+- [Esofagografía](../conceptos/estudios-diagnosticos-complementarios.md)
+- [Endoscopia / esofagoscopia](../conceptos/estudios-diagnosticos-complementarios.md)
 - [Signos duros y blandos](../conceptos/signos-duros-y-blandos.md)
 - [Trauma penetrante de cuello](../conceptos/trauma-penetrante-de-cuello.md)
 - [Zonas anatómicas del cuello](../conceptos/zonas-anatomicas-del-cuello.md)
 
 **Entidades**
-- [Parkland Memorial Hospital](../entidades/parkland-memorial-hospital.md) — sede del estudio (p. 619).
+- Parkland Memorial Hospital — sede del estudio (p. 619).
 - [University of Texas Southwestern Medical School](../entidades/ut-southwestern.md) — afiliación de los autores (p. 619).
-- [Southwestern Surgical Congress](../entidades/southwestern-surgical-congress.md) — reunión donde se presentó (p. 619).
+- Southwestern Surgical Congress — reunión donde se presentó (p. 619).
 
 ## Limitaciones / vacíos
 

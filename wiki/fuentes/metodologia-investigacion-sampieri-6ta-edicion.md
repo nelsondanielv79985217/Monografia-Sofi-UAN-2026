@@ -126,11 +126,11 @@ Es un manual general de metodología que presenta tres rutas de investigación (
 
 ## Conceptos y entidades
 
-- [Revisión de la literatura](../conceptos/revision-de-la-literatura.md): selectividad, búsqueda y criterios de valoración (pp. 61-67).
-- [Marco teórico](../conceptos/marco-teorico.md): métodos de mapeo y por índices, extensión y número de referencias (pp. 76-82).
-- [Estructura del reporte de investigación](../conceptos/estructura-del-reporte-de-investigacion.md) (pp. 337-348).
-- [Estilos de citación](../conceptos/estilos-de-citacion.md): APA, Vancouver y regla de no mezclar estilos (p. 348).
-- Entidades: [McGraw-Hill/Interamericana](../entidades/mcgraw-hill-interamericana.md), editorial (p. PDF 5); [American Psychological Association](../entidades/american-psychological-association.md), citada por sus recomendaciones de reporte (p. 342).
+- Revisión de la literatura: selectividad, búsqueda y criterios de valoración (pp. 61-67).
+- Marco teórico: métodos de mapeo y por índices, extensión y número de referencias (pp. 76-82).
+- Estructura del reporte de investigación (pp. 337-348).
+- [Estilos de citación](../conceptos/normas-apa-7.md): APA, Vancouver y regla de no mezclar estilos (p. 348).
+- Entidades: McGraw-Hill/Interamericana, editorial (p. PDF 5); [American Psychological Association](../entidades/american-psychological-association.md), citada por sus recomendaciones de reporte (p. 342).
 
 ## Limitaciones
 
