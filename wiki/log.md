@@ -73,3 +73,8 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Sin número en Crossref (se retira el `[INCIERTO]` o se deja sin número): Abdou, Blitzer, Wang, Haran.
 - Discrepancias Crossref ↔ PDF, marcadas `[INCIERTO]` y no sobrescritas: Harris et al. (pp. 235–239 frente a 240–244; no se usó el n.º 4), Laher et al. (pp. 17–20 frente a 165–168 "Online first"), Mandavia et al. (DOI del PDF 10.1067/mem.2000.104888 frente al de Crossref 10.1016/S0196-0644(00)70071-0) y Al-Thani et al. (Crossref pone a El-Menyar primero y solo la p. 154). Diferencias de año en línea frente a impreso (Mohamed, Siau, Kasbekar) se anotaron sin cambiar el año del PDF.
 - Listas "Referencias de esta sección" de `monografia/` actualizadas con los mismos datos.
+
+## [2026-10-04] lint | Decisiones del usuario sobre Mandavia y Laher
+
+- Mandavia et al. (2000): la referencia usa el DOI vigente de Crossref, 10.1016/S0196-0644(00)70071-0, en lugar del DOI del PDF.
+- Laher et al. (2023): la referencia usa las pp. 17–20 de Crossref (versión publicada). Las citas en texto con pp. 165–168 (ficha y conceptos) no se cambiaron porque vienen del PDF "Online first" y la equivalencia de páginas no está verificada; quedan marcadas `[INCIERTO]` en la ficha.
