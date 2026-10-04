@@ -209,7 +209,7 @@ Organizados por sección de la estructura de la monografía. Formato de cita: (p
 - En la violencia doméstica, cabeza, cara y cuello se lesionan con más frecuencia que en los accidentes (P < .001) (cap. 47, p. 959; PDF 985).
 
 **1.3 Importancia clínica y quirúrgica**
-- Historia (pp. 521; PDF 547):
+- Historia (p. 521; PDF 547):
   - Ambroise Paré ligó la carótida derecha y la yugular de un soldado; el paciente sobrevivió con afasia y hemiplejía izquierda;
   - el primer tratamiento exitoso de una lesión vascular cervical mayor fue la ligadura de la carótida común por Fleming en 1803, a bordo del HMS Tonnant.
 - "Penetrating injuries to the neck are associated with high morbidity and mortality, primarily due to injuries of the cervical vasculature, upper aerodigestive tract, and spine" (cap. 19, p. 353; PDF 379).
@@ -475,7 +475,7 @@ Organizados por sección de la estructura de la monografía. Formato de cita: (p
   - si el paciente está intubado, se retira el tubo con el broncoscopio distal a él para ver la tráquea cervical.
 
 **4.8 Esofagografía**
-- Gastrografín (pp. 528; PDF 554):
+- Gastrografín (p. 528; PDF 554):
   - a pesar del riesgo de neumonitis necrosante y edema pulmonar si se aspira, "it remains the initial contrast agent of choice for esophagograms in most centers";
   - su exactitud para lesión del esófago cervical es de 57 % a 80 %;
   - si es negativo, se sigue de bario diluido.
@@ -485,7 +485,7 @@ Organizados por sección de la estructura de la monografía. Formato de cita: (p
 
 **4.9 Esofagoscopia**
 - La esofagoscopia flexible se hace si el estudio contrastado es negativo en el paciente en riesgo.
-- "The combination of a contrast study and esophagoscopy has an accuracy of nearly 100% in patients with esophageal injuries in zone II".
+- "The combination of a contrast study and esophagoscopy has an accuracy of nearly 100% in patients with esophageal injuries in zone II" (p. 528; PDF 554).
 - Esofagoscopia flexible en dos estudios a lo largo de 16 años: sensibilidad 98.5 % a 100 %, especificidad 96 % a 100 % y exactitud 97 % a 99.3 % (p. 528; PDF 554).
 - Cap. 29 (p. 593; PDF 619):
   - VPN de 100 % y VPP de "only approximately 33%";
@@ -635,7 +635,7 @@ Organizados por sección de la estructura de la monografía. Formato de cita: (p
   - en collar si el trayecto es bilateral;
   - en zona I, según la hemodinamia.
 - Exposición de la carótida interna distal en zona III: mandibulotomía "stepladder", subluxación temporomandibular o osteotomía vertical de la rama (p. 531; PDF 557).
-- Lesiones combinadas tráquea–esófago, tráquea–carótida o esófago–carótida: 74 % de complicaciones en una serie antigua de 23 lesiones traqueoesofágicas, la mayoría por fuga esofágica. Se recomienda colgajo vascularizado de esternocleidomastoideo (pp. 534; PDF 560; Atlas Fig. 11, p. 1322; PDF 1348).
+- Lesiones combinadas tráquea–esófago, tráquea–carótida o esófago–carótida: 74 % de complicaciones en una serie antigua de 23 lesiones traqueoesofágicas, la mayoría por fuga esofágica. Se recomienda colgajo vascularizado de esternocleidomastoideo (p. 534; PDF 560; Atlas Fig. 11, p. 1322; PDF 1348).
 - Zona I, incisiones (Atlas, pp. 1325–1326; PDF 1351–1352): esternotomía media con incisión cervical. "A neck incision or a median sternotomy, alone, is insufficient" para la carótida común izquierda proximal. Ver también la Tabla 30-7 (cap. 30, p. 620; PDF 646).
 
 **5.10 Tratamiento endovascular**

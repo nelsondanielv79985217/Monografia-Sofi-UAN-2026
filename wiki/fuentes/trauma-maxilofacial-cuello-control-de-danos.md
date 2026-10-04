@@ -62,7 +62,7 @@ Revisión narrativa ("REVIEW", p. 1) sobre el manejo del trauma maxilofacial y c
 - Entre 2–4 % de pacientes con fracturas maxilofaciales por trauma cerrado tienen fracturas de columna cervical concomitantes y 10–12 % lesiones ligamentarias cervicales (p. 5).
 - Las cánulas nasales no deben colocarse en lesiones mediofaciales y craneofaciales (riesgo de entrar a la bóveda craneal) (p. 5).
 - Razones para vía aérea definitiva: fallo de ventilación u oxigenación; incapacidad de mantener o proteger la vía aérea; riesgo de deterioro; facilitar evacuación y transporte (p. 6).
-- Secuencia rápida con inmovilización espinal en línea; intubación despierto; intubación "crash" (pp. 6).
+- Secuencia rápida con inmovilización espinal en línea; intubación despierto; intubación "crash" (p. 6).
 - Cricotiroidotomía preferida sobre traqueotomía en emergencia: más rápida, menor distancia a la piel (10 mm vs 20–30 mm) y menor riesgo de lesionar el istmo tiroideo (p. 6).
 - En trauma penetrante de cuello: intubación orotraqueal como método inicial de elección; cricotiroidotomía si la intubación rápida no es posible o está contraindicada; "Emergency tracheotomy is the preferred method of establishing a definitive airway in case of suspected tracheal disruption", ya que la intubación podría convertir una disrupción parcial en completa; en heridas anteriores grandes, intubación directa de la tráquea a través de la herida (p. 7).
 - "Rigorous spinal precautions should not be maintained at the expense of managing life-threatening airway or vascular injuries" (p. 7).

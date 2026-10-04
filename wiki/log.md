@@ -49,3 +49,10 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
   - `infecciones-relacionadas-con-fracturas-trauma-maxilofacial-metaanalisis` — Van der Cruyssen et al. (2025), J Clin Med. Profilaxis antibiótica en fracturas maxilofaciales: para 5.15 solo como extrapolación declarada.
   - `videolaringoscopia-vs-tecnica-ciega-sonda-eco-transesofagica-pediatria` — Singh et al. (2025), Indian J Anaesth. Lesión faríngea iatrogénica pediátrica; no aporta a la monografía.
 - Actualizados `conceptos/lesiones-aerodigestivas.md`, `conceptos/profilaxis-antibiotica.md`, el mapa de `sintesis/estructura-de-la-monografia.md` (regenerado: excluye las líneas donde una ficha declara que no aporta, y el ATLS en inglés), `sintesis/contradicciones-y-vacios.md` e `index.md`.
+
+## [2026-10-04] lint | Revisión mecánica de la wiki y cobertura de la estructura
+
+- Verificado: 0 enlaces rotos; 0 páginas huérfanas (las de `texto/` se enlazan desde el front matter de su ficha); marcadores de página de `texto/` correlativos en los 45 archivos; los 560 pares "(p. N; PDF M)" de las fichas coinciden con la etiqueta de página de `texto/`; transcripción de `Estructura del trabajo.docx` idéntica al DOCX.
+- Citas textuales: muestreo automático de las comillas de las fichas contra `texto/`; las diferencias halladas se deben a saltos de línea y columnas intercaladas de la extracción, no a citas alteradas.
+- Corregido: "pp." con página única → "p." (5 casos); página faltante en la cita "nearly 100%" de la ficha de *Trauma* (p. 528); `index.md` ya no dice que los PDF de ATLS en español y *Trauma* "llegan con el PR #1" (ya están en `main`); el mapa fuentes ↔ secciones ya no cuenta la guía APA ni Sampieri como sustento de secciones clínicas (1.1, 1.2, 4.1, 4.2, 4.6) y tiene una tabla aparte para Resumen, Objetivos, Conclusiones, Referencias y Anexos.
+- Reportado sin corregir (requiere decisión o lectura): ver el informe del hilo de lint.
