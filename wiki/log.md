@@ -85,3 +85,11 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Se descartaron como fuente los errores de importación de Mendeley: autores y revista de Hadjizacharia, "Lather" y "Trauma Surgery" en Laher, autores personales e ISBN truncado en ATLS, y SP = EP. El detalle está en `/mnt/project-files/.notes/inputs.md`.
 - Singerman et al. (2025) está en Mendeley pero no tiene PDF en el repo: no se puede citar su contenido mientras no se suba.
 - Nueva `monografia/referencias.md`: lista maestra APA 7 generada desde las fichas, con "y" entre autores y la mayúscula inicial tras dos puntos en los títulos. Excluye el ATLS en inglés y la guía APA.
+
+## [2026-10-04] query | Capítulo 1 (1.1–1.6 y 1.8–1.10) y borrador 3 en Word
+
+- Nuevo `monografia/cap1-generalidades-y-anatomia.md`, con las Tablas 2 (frecuencia y mortalidad del trauma penetrante) y 5 (zonas según Sperry et al., 2021, p. 522). Se verificaron 147 citas con página contra `texto/`. Se corrigieron nueve: el alcance de Olding (p. 133, marcado `[INCIERTO]`), el alcance de Ahmad y Singh (trauma cerrado de cuello, no laringe), los rangos de Siau (pp. 2126–2127), Al-Thani (pp. 154–155) y Sims y Reilly (pp. 5–6), "proyectil" en Loss, la nota de la Tabla 2, el "8 %" de Isaza-Restrepo y el género supuesto de Kose.
+- Convención nueva: las citas textuales de fuentes en inglés se traducen al español (traducción propia), entre comillas y con página. Se aplicó en 1.7 y en la Introducción, incluidas dos traducciones de la autora corregidas (Steenburg, 2021, p. 353; Loss et al., 2025, p. 1). La guía APA del proyecto no trata las traducciones, así que la convención queda pendiente de validar con el director(a).
+- Tablas renumeradas en orden de aparición: las de 1.7 pasan a ser las Tablas 3 y 4.
+- Vacíos declarados: no hay datos de lesión de la glándula tiroides ni una descripción de fascias y espacios profundos del cuello. Laher et al. (2023) no se cita hasta resolver su paginación.
+- Borrador 3 en Word, a partir del borrador 2 de la autora: `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-3.docx`.
