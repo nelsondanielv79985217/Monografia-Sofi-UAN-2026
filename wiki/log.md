@@ -12,3 +12,8 @@ Registro cronológico, append-only. No editar entradas pasadas — solo agregar 
 - **PDFs incompletos detectados:** 10 PDFs tienen una sola página de artículos más largos (p. ej. `Management of Penetrating Neck Injuries.pdf`, J Oral Maxillofac Surg 65:691-705, trae solo la p. 691). Sus fichas lo declaran.
 - `Estructura del trabajo.docx` se transcribió en `sintesis/estructura-de-la-monografia.md`.
 - Los PDFs y el DOCX originales no se modificaron.
+
+## [2026-10-04] setup | Dos libros nuevos agregados desde otro hilo del proyecto
+
+- Otro hilo del proyecto subió al repo (rama `claude/project-thread-cbouir`, PR #1, sin fusionar todavía) versiones reducidas de dos libros: `ATLS_Soporte_Vital_Avanzado_en_Trauma_Manual_del_Curso_para_Estudiantes_reducido.pdf` (443 págs.) y `Trauma_9th_Edition_Feliciano_reducido.pdf` (1441 págs.).
+- El texto se extrajo de los originales sin comprimir (`/mnt/project-files/`), con la misma cantidad de páginas que las versiones reducidas (verificado con `pdfinfo`): `texto/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md` (OCR: 1 pág.; sin texto: 40) y `texto/trauma-9th-edition-feliciano.md` (sin texto: 37). El front matter registra `extraido_de`.
