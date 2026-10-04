@@ -57,6 +57,16 @@ last_updated: 2026-10-04
 - Esófago: antibióticos IV y nada por boca; dentro de 12 horas, sutura directa y drenaje; después de 12 horas aumentan morbilidad y mortalidad y se prefiere desbridamiento y drenaje con reparación diferida (Nowicki et al., 2018, p. 9). Tabla 25-3: reparación en una o dos capas con sutura absorbible; esofagostomía en asa si hay pérdida de pared o diagnóstico tardío; músculo interpuesto en lesiones combinadas; fuga de "5% to 25%" (Sperry et al., 2021, p. 533). El cap. 29 repara en dos capas con sutura **no absorbible** en la muscular (DuBose et al., 2021, p. 593). Loss et al. (2025, p. 8): reparación primaria de lesiones pequeñas; ">50%" requiere resección segmentaria.
 - Laringe y tráquea: panendoscopia y broncoscopia antes de explorar; defectos mucosos pequeños o fracturas no desplazadas pueden manejarse de forma conservadora (Nowicki et al., 2018, p. 8). Grupos 1–2 de Schaefer con manejo médico y grupos 3–5 con cirugía y traqueostomía (Sperry et al., 2021, p. 536; Ahmad & Singh, 2024, p. 4774). Tráquea: reparación primaria con sutura absorbible; ">50% tissue loss" requiere resección y anastomosis (Loss et al., 2025, p. 8). Zakaria et al. (2019, p. 946) citan resultados favorables de vía aérea y voz en 87 per cent si la cirugía es en 24 horas frente a 27 per cent tras una semana.
 
+**Lesión faríngea por trauma cerrado (agregado 2026-10-04)**
+
+- [perforacion-faringea-lesion-columna-cervical-trauma-cerrado](../fuentes/perforacion-faringea-lesion-columna-cervical-trauma-cerrado.md) — reporte de **un solo caso** (Wang et al., 2025):
+  - Hallazgo: laceración longitudinal de unos 3 cm en la pared faríngea posterior derecha, "just below the base of the tongue", comunicada con el espacio prevertebral y asociada a rotura disco-ligamentaria C5–C6 (p. e947274-4).
+  - Diagnóstico: la TC no mostró enfisema cervical (p. e947274-2). En la fibroscopia "mucosal folds may obscure the injury"; la lesión se identificó con laringoscopia/faringoscopia directa intraoperatoria (p. e947274-5).
+  - Reparación: por vía cervical, con sutura de la fascia bucofaríngea a la prevertebral. La vía endoscópica se juzgó impracticable por la longitud de la laceración (pp. e947274-4, e947274-5).
+  - Riesgos sin tratamiento: "emphysema, posterior pharyngeal space abscesses, and life-threatening mediastinal infections" (p. e947274-2).
+  - Incidencia de la perforación faringoesofágica por trauma cerrado: "less than 2%" (p. e947274-2). Es una **cita secundaria** (Berry et al.), artículo que no está en el repo.
+- [videolaringoscopia-vs-tecnica-ciega-sonda-eco-transesofagica-pediatria](../fuentes/videolaringoscopia-vs-tecnica-ciega-sonda-eco-transesofagica-pediatria.md) — estudia lesión faríngea **iatrogénica** por sonda de ecocardiografía transesofágica en niños en cirugía cardíaca, no traumática. No aporta a la monografía (Singh et al., 2025).
+
 ## Coincidencias y discrepancias entre fuentes
 
 - **Frecuencia:** coinciden en 23–30 % para el trauma penetrante Nowicki et al. (2018, p. 6), Loss et al. (2025, p. 8) y Al-Thani et al. (2015, p. 155, citado); Kose (2025, pp. 398–399) da cifras mucho menores porque las separa por órgano (laringotraqueal 1–7 %, esófago 0.9–6.6 %). Siau et al. (2013, p. 2126) dicen "over 20 %". Todas son cifras citadas de la literatura.
@@ -69,7 +79,7 @@ last_updated: 2026-10-04
 
 ## Vacíos
 
-- No hay en el proyecto una serie propia grande de lesiones faríngeas aisladas; las cifras faríngeas son recuentos pequeños (Weigelt et al., 1987; Al-Thani et al., 2015; Teixeira et al., 2016).
+- No hay en el proyecto una serie propia de lesiones faríngeas: lo único específico es un reporte de caso de trauma cerrado (Wang et al., 2025); las cifras faríngeas son recuentos pequeños (Weigelt et al., 1987; Al-Thani et al., 2015; Teixeira et al., 2016).
 - La exactitud de la TC para el esófago "has not been studied extensively" (Sperry et al., 2021, p. 528); el proyecto no tiene más datos sobre esto.
 - Datos colombianos: solo Isaza-Restrepo et al. (2020), sin lesiones gastrointestinales en su serie.
 - La resolución del escenario de triaje ATLS con herida cervical y voz ronca no está en el manual del estudiante (ACS, 2018, ficha EN).

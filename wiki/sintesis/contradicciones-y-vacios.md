@@ -52,8 +52,8 @@ Además, [Harris et al. (2012)](../fuentes/cambios-incidencia-manejo-heridas-pen
 
 ## Vacíos (esto no está en las fuentes del proyecto)
 
-- **3.3.1 Lesiones faríngeas:** ninguna ficha declara aporte específico. Ver el [mapa de la estructura](estructura-de-la-monografia.md).
-- **5.15 Profilaxis antibiótica:** no hay recomendación con agente, dosis y duración. → [Profilaxis antibiótica](../conceptos/profilaxis-antibiotica.md)
+- **3.3.1 Lesiones faríngeas:** la única fuente específica es un reporte de un caso de trauma cerrado ([Wang et al., 2025](../fuentes/perforacion-faringea-lesion-columna-cervical-trauma-cerrado.md)). No hay series ni cifras propias de lesión faríngea traumática; el dato de incidencia que trae es una cita secundaria. → [Lesiones aerodigestivas](../conceptos/lesiones-aerodigestivas.md)
+- **5.15 Profilaxis antibiótica:** no hay una recomendación con agente, dosis y duración para el cuello. El metaanálisis de [Van der Cruyssen et al. (2025)](../fuentes/infecciones-relacionadas-con-fracturas-trauma-maxilofacial-metaanalisis.md) trata fracturas maxilofaciales; si se usa, hay que decir que es extrapolación. → [Profilaxis antibiótica](../conceptos/profilaxis-antibiotica.md)
 - **Pediatría:** no hay series pediátricas de trauma penetrante de cuello. → [Trauma pediátrico](../conceptos/trauma-pediatrico.md)
 - **Guías WTA y EAST:** varias fuentes las citan, pero no están en el repo; no se les puede atribuir recomendaciones. → [WTA](../entidades/western-trauma-association.md), [EAST](../entidades/east.md)
 - **Datos de Colombia/Latinoamérica:** solo Isaza-Restrepo et al. (2020), un hospital de Bogotá.

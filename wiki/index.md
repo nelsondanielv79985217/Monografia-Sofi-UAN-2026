@@ -65,6 +65,12 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 - [Penetrating head & neck trauma: epidemiology](fuentes/trauma-penetrante-cabeza-cuello-epidemiologia-violencia.md) — Olding et al. (2019), Londres. **PARCIAL** (solo p. 133). (ingerido)
 - [Gymnastics-related head & neck trauma (NEISS)](fuentes/epidemiologia-lesiones-cabeza-cuello-gimnasia.md) — Abdou et al. (2024); mayoría pediátrica. (ingerido)
 
+### Agregadas el 2026-10-04 (3)
+
+- [Pharyngeal perforation with cervical spine injury after blunt trauma](fuentes/perforacion-faringea-lesion-columna-cervical-trauma-cerrado.md) — Wang et al. (2025). Reporte de caso. Es la única fuente específica de lesión faríngea traumática (3.3.1, 5.7). (ingerido)
+- [Fracture-related infections in maxillofacial trauma (meta-análisis)](fuentes/infecciones-relacionadas-con-fracturas-trauma-maxilofacial-metaanalisis.md) — Van der Cruyssen et al. (2025). Trata la profilaxis antibiótica, pero en fracturas maxilofaciales, no de cuello; para 5.15 solo sirve como extrapolación declarada. (ingerido)
+- [Video laryngoscopy vs. blind TEE probe insertion in children](fuentes/videolaringoscopia-vs-tecnica-ciega-sonda-eco-transesofagica-pediatria.md) — Singh et al. (2025). Lesión faríngea iatrogénica en cirugía cardíaca pediátrica, sin trauma: **no aporta a la monografía**. (ingerido)
+
 ### Pediatría (1)
 
 - [Pediatric head and neck trauma in the United States (NTDB)](fuentes/trauma-pediatrico-cabeza-cuello-eeuu-ntdb.md) — Sarathy et al. (2024); agrupa cabeza, cara y cuello, sin cifras propias del cuello. (incierto)
@@ -137,4 +143,4 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 ## Texto completo (`texto/`)
 
-43 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.
+45 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.

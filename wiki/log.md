@@ -41,3 +41,11 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
   - se cita solo el ATLS en español;
   - de los PDFs parciales se cita únicamente lo presente.
 - Por pedido del usuario se eliminaron `Suture like a surgeon.pdf` (raíz), `texto/suture-like-a-surgeon.md` y `fuentes/suture-like-a-surgeon.md`, junto con sus referencias en `index.md` y en el mapa de `sintesis/estructura-de-la-monografia.md` (conteos recalculados). Las entradas anteriores de este log que lo mencionan se conservan, porque el log es append-only.
+
+## [2026-10-04] ingest | Tres PDFs subidos a `main` el 2026-10-04
+
+- Se fusionó `origin/main` en la rama de la wiki. Se extrajo el texto (`texto/`) y se escribieron las fichas de:
+  - `perforacion-faringea-lesion-columna-cervical-trauma-cerrado` — Wang et al. (2025), Am J Case Rep. Reporte de caso. Única fuente específica para 3.3.1.
+  - `infecciones-relacionadas-con-fracturas-trauma-maxilofacial-metaanalisis` — Van der Cruyssen et al. (2025), J Clin Med. Profilaxis antibiótica en fracturas maxilofaciales: para 5.15 solo como extrapolación declarada.
+  - `videolaringoscopia-vs-tecnica-ciega-sonda-eco-transesofagica-pediatria` — Singh et al. (2025), Indian J Anaesth. Lesión faríngea iatrogénica pediátrica; no aporta a la monografía.
+- Actualizados `conceptos/lesiones-aerodigestivas.md`, `conceptos/profilaxis-antibiotica.md`, el mapa de `sintesis/estructura-de-la-monografia.md` (regenerado: excluye las líneas donde una ficha declara que no aporta, y el ATLS en inglés), `sintesis/contradicciones-y-vacios.md` e `index.md`.

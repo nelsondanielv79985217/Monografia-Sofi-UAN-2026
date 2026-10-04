@@ -28,6 +28,12 @@ last_updated: 2026-10-04
 - [trauma-cerrado-cuello-subluxacion-cartilago-tiroides](../fuentes/trauma-cerrado-cuello-subluxacion-cartilago-tiroides.md) — en la clasificación de Schaefer, el grupo de manejo médico tiene como tratamientos adyuvantes "steroids, antibiotics, humidification, voice rest" (Ahmad & Singh, 2024, p. 4774). Esta ficha no enlaza todavía este concepto.
 - [atls-soporte-vital-avanzado-trauma-manual-estudiantes](../fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md) — la profilaxis con antibióticos de amplio espectro aparece solo para lesiones **craneales** penetrantes, fracturas abiertas y fuga de LCR (American College of Surgeons [ACS], 2018, p. 123); la ficha anota que no hay recomendación para cuello. La [ficha EN](../fuentes/atls-advanced-trauma-life-support.md) registra la profilaxis antibiótica en trauma de cuello entre los temas que ATLS no trata.
 
+- [infecciones-relacionadas-con-fracturas-trauma-maxilofacial-metaanalisis](../fuentes/infecciones-relacionadas-con-fracturas-trauma-maxilofacial-metaanalisis.md) — revisión sistemática y metaanálisis de **fracturas maxilofaciales, no de cuello** (Van der Cruyssen et al., 2025). Cualquier uso para el cuello es extrapolación y debe decirse así:
+  - Infección de 7.1 % en los estudios que reportaron profilaxis frente a 6.4 % en los que no, "t = 0.14, p = 0.89" (p. 6). Es una comparación entre estudios.
+  - Para los autores, una dosis única preoperatoria seguida de 24–48 h de antibiótico "have been shown to be effective", y una dosis única "might be equally effective or better compared to a prolonged course" (p. 12). Ambas frases se apoyan en referencias que no están en el repo.
+  - Antibióticos más usados: cefalosporinas de primera generación, amoxicilina-clavulánico, metronidazol y penicilinas (p. 8).
+- [perforacion-faringea-lesion-columna-cervical-trauma-cerrado](../fuentes/perforacion-faringea-lesion-columna-cervical-trauma-cerrado.md) — no menciona profilaxis. Los antibióticos se usaron solo para tratar una neumonía aspirativa ("a 2-week course of antibiotics", p. e947274-4). Los autores atribuyen la prevención de la infección del implante a la técnica de sutura de fascias (p. e947274-5) (Wang et al., 2025).
+
 ## Coincidencias y discrepancias entre fuentes
 
 - **Coinciden** en usar antibióticos de amplio espectro o IV en el paciente con exploración o sospecha de lesión de la vía digestiva (Borsetto et al., 2019, p. 2544; Nowicki et al., 2018, p. 9; Krausz et al., 2015, p. 8), y en "considerar" antibióticos en el trauma laríngeo con manejo médico (Sperry et al., 2021, p. 536; Ahmad & Singh, 2024, p. 4774).
@@ -37,7 +43,7 @@ last_updated: 2026-10-04
 ## Vacíos
 
 - Agente de elección, dosis, momento de inicio y duración de la profilaxis antibiótica en el trauma de cuello: esto no está en las fuentes del proyecto.
-- Evidencia comparativa (con vs. sin antibiótico) en heridas penetrantes de cuello: esto no está en las fuentes del proyecto.
+- Evidencia comparativa (con vs. sin antibiótico) en heridas de cuello: esto no está en las fuentes del proyecto. La única comparación del corpus es en fracturas maxilofaciales (Van der Cruyssen et al., 2025, p. 6), entre estudios, y no se puede trasladar al cuello sin decirlo.
 - Profilaxis en heridas superficiales que no violan el platisma: esto no está en las fuentes del proyecto.
 - Infección profunda del cuello y mediastinitis como desenlace de la profilaxis: las fuentes las mencionan como complicaciones de la lesión esofágica (p. ej. Nowicki et al., 2018, p. 9; Laher et al., 2023, p. 167), no como resultado de un esquema antibiótico.
 
