@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Laher, N., Monzon-Torres, B., & Mauser, M. (2023). Surgical exploration for penetrating neck trauma – an audit of results in 145 patients. *South African Journal of Surgery*, *61*(3), 165–168. https://doi.org/10.36303/SAJS.4020
+Laher, N., Monzon-Torres, B., & Mauser, M. (2023). Surgical exploration for penetrating neck trauma – an audit of results in 145 patients. *South African Journal of Surgery*, *61*(3), 165–168 [INCIERTO: Crossref registra pp. 17–20]. https://doi.org/10.36303/SAJS.4020
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): sin cambios. [INCIERTO: Crossref registra vol. 61, n.º 3, pp. 17–20, mientras el PDF dice "S Afr J Surg. 2023;61:165-168. Online first". Se conserva la paginación del PDF; conviene verificar en la versión final publicada cuál es la definitiva antes de entregar.]
 - Datos de la p. PDF 1: "S Afr J Surg. 2023;61:165-168. Online first", DOI "https://doi.org/10.36303/SAJS.4020", autores "N Laher, B Monzon-Torres, M Mauser"; el pie de página indica "South African Journal of Surgery 2023;61(3)".
 - [INCIERTO: el segundo autor figura como "B Monzon-Torres" en la cabecera y como "B Ignacio Monzon" en la lista ORCID (p. 167); se usa la forma de la cabecera.]
 - Cita en texto modelo: (Laher et al., 2023, p. 166).

@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Teixeira, F., Menegozzo, C. A. M., Couto Netto, S. D. do, Poggeti, R. S., Collet e Silva, F. de S., Birolini, D., Bernini, C. de O., & Utiyama, E. M. (2016). Safety in selective surgical exploration in penetrating neck trauma. *World Journal of Emergency Surgery*, *11*, Article 32. https://doi.org/10.1186/s13017-016-0091-4
+Teixeira, F., Menegozzo, C. A. M., Couto Netto, S. D. do, Poggeti, R. S., Collet e Silva, F. de S., Birolini, D., Bernini, C. de O., & Utiyama, E. M. (2016). Safety in selective surgical exploration in penetrating neck trauma. *World Journal of Emergency Surgery*, *11*(1), Article 32. https://doi.org/10.1186/s13017-016-0091-4
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y número de artículo coinciden con el PDF.
 - Datos de la p. PDF 1 (= p. 1): "Teixeira et al. World Journal of Emergency Surgery (2016) 11:32", DOI "10.1186/s13017-016-0091-4", autores "Frederico Teixeira, Carlos Augusto Metidieri Menegozzo*, Sérgio Dias do Couto Netto, Renato S. Poggeti, Francisco de Sales Collet e Silva, Dario Birolini, Celso de Oliveira Bernini and Edivaldo Massazo Utiyama". "Received: 11 May 2016 Accepted: 8 July 2016" (p. 6).
 - [INCIERTO: el orden apellido/iniciales de los autores con apellidos compuestos portugueses (Couto Netto, Collet e Silva, de Oliveira Bernini) se construyó a partir de los nombres completos; el PDF no muestra su forma bibliográfica. Las abreviaturas de contribución (FT, CAMM, SDN, RSP, FCS, DB, COB, EMU, p. 6) sugieren esa división, pero conviene verificarla.]
 - La revista usa número de artículo (11:32) y paginación propia "Page N of 7".

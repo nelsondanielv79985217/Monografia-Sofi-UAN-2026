@@ -12,11 +12,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Simpson, C., Tucker, H., & Hudson, A. (2021). Pre-hospital management of penetrating neck injuries: A scoping review of current evidence and guidance. *Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 29*, Article 137. https://doi.org/10.1186/s13049-021-00949-4
+Simpson, C., Tucker, H., & Hudson, A. (2021). Pre-hospital management of penetrating neck injuries: A scoping review of current evidence and guidance. *Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 29*(1), Article 137. https://doi.org/10.1186/s13049-021-00949-4
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y número de artículo coinciden con el PDF.
 - Título, autores, tipo ("REVIEW"), revista abreviada, año, volumen y número de artículo ("(2021) 29:137") y DOI: p. 1.
 - Afiliaciones: Emergency Department, St. George's Hospital Trust, London; Air Ambulance Kent Surrey Sussex (pp. 1, 8). Recibido 7 June 2021, aceptado 2 September 2021 (p. 8).
-- [INCIERTO: el PDF muestra solo la abreviatura "Scand J Trauma Resusc Emerg Med"; el nombre completo es su expansión, no escrita en el PDF.]
+- [RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: el PDF muestra solo la abreviatura "Scand J Trauma Resusc Emerg Med"; el nombre completo es su expansión, no escrita en el PDF.]
 
 Cita en texto modelo: (Simpson et al., 2021, p. 2).
 

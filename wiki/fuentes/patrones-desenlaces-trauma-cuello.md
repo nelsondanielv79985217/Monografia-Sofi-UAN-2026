@@ -14,6 +14,7 @@ last_updated: 2026-10-04
 
 Al-Thani, H., El-Menyar, A., Mathew, S., Khawar, M., Asim, M., Abdelrahman, H., Peralta, R., Parchani, A., & Zarour, A. (2015). Patterns and outcomes of traumatic neck injuries: A population-based observational study. *Journal of Emergencies, Trauma, and Shock, 8*(3), 154–158. https://doi.org/10.4103/0974-2700.160723
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): sin cambios. [INCIERTO: Crossref lista a El-Menyar como primer autor y a Al-Thani como segundo, y solo la página inicial 154; el PDF (p. 154) muestra a Al-Thani primero y el rango 154–158. Se conserva el orden y la paginación del PDF.]
 - Datos: título, autores y afiliaciones (Hamad Medical Corporation; Weill Cornell Medical College, Doha, Qatar) y DOI en la p. PDF 1 (impresa 154); pie de página "Journal of Emergencies, Trauma, and Shock I 8:3 I Jul - Sep 2015" en todas las páginas; "How to cite this article: … J Emerg Trauma Shock 2015;8:154-8" en la p. PDF 5 (impresa 158).
 - Cita en texto modelo: (Al-Thani et al., 2015, p. 155).
 

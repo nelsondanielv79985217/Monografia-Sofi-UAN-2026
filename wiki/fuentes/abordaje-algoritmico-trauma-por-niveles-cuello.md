@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Qureshi, M., Patel, K., & Simon, R. (2020). Neck level algorithmic approach to trauma. *Operative Techniques in Otolaryngology, 31*[INCIERTO: número del fascículo no figura en el PDF], 289–294. https://doi.org/10.1016/j.otot.2020.10.005
+Qureshi, M., Patel, K., & Simon, R. (2020). Neck level algorithmic approach to trauma. *Operative Techniques in Otolaryngology–Head and Neck Surgery, 31*(4), 289–294. https://doi.org/10.1016/j.otot.2020.10.005
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 4 y nombre completo de la revista ("Operative Techniques in Otolaryngology-Head and Neck Surgery"; el encabezado del PDF muestra la forma corta "Operative Techniques in Otolaryngology"). Volumen y páginas coinciden con el PDF.
 - Todos los datos están en la p. PDF 1 (= p. 289 impresa): revista, volumen, año y rango de páginas en el encabezado ("Operative Techniques in Otolaryngology 31 (2020) 289–294"); autores y afiliación (Division of Acute Care Surgery, Department of Surgery, Maimonides Medical Center, Brooklyn, New York); DOI en el pie ("http://doi.org/10.1016/j.otot.2020.10.005").
 - El nombre de la revista se transcribe tal como aparece en el encabezado del PDF.
 

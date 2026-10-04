@@ -14,10 +14,11 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Borsetto, D., Fussey, J., Mavuti, J., Colley, S., & Pracy, P. (2019). Penetrating neck trauma: Radiological predictors of vascular injury. *European Archives of Oto-Rhino-Laryngology, 276*, 2541–2547. https://doi.org/10.1007/s00405-019-05517-2
+Borsetto, D., Fussey, J., Mavuti, J., Colley, S., & Pracy, P. (2019). Penetrating neck trauma: Radiological predictors of vascular injury. *European Archives of Oto-Rhino-Laryngology, 276*(9), 2541–2547. https://doi.org/10.1007/s00405-019-05517-2
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 9. Volumen y páginas coinciden con el PDF.
 - Datos de la p. PDF 1 (impresa 2541): encabezado "European Archives of Oto-Rhino-Laryngology (2019) 276:2541–2547", DOI, sección "HEAD AND NECK", título y autores (Queen Elizabeth University Hospital / Queen Elizabeth Hospital, Birmingham, UK). Recibido 23 abr. 2019, aceptado 13 jun. 2019, publicado en línea 19 jun. 2019.
-- Número (issue): `[INCIERTO: no figura en el PDF]`.
+- Número (issue): `[RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: no figura en el PDF]`.
 - Cita en texto modelo: (Borsetto et al., 2019, p. 2544).
 
 ## Cobertura del PDF

@@ -22,15 +22,15 @@ Esta monografía es una revisión documental de las fuentes reunidas en el proye
 
 ## Referencias de esta sección
 
-Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J. y Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*, Artículo 17. https://doi.org/10.1186/s12873-020-00311-4
+Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J. y Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*(1), Artículo 17. https://doi.org/10.1186/s12873-020-00311-4
 
 Kose, S. I. (2025). Imaging in penetrating neck injuries. *Emergency Radiology, 32*(3), 395–408. https://doi.org/10.1007/s10140-025-02345-2
 
-Loss, L., Henry, R., White, A., Matsushima, K., Barrett, C., Lammers, D., Schreiber, M. e Inaba, K. (2025). Penetrating neck trauma: A comprehensive review. *Trauma Surgery & Acute Care Open, 10*, Artículo e001619. https://doi.org/10.1136/tsaco-2024-001619
+Loss, L., Henry, R., White, A., Matsushima, K., Barrett, C., Lammers, D., Schreiber, M. e Inaba, K. (2025). Penetrating neck trauma: A comprehensive review. *Trauma Surgery & Acute Care Open, 10*(1), Artículo e001619. https://doi.org/10.1136/tsaco-2024-001619
 
 Nowicki, J. L., Stew, B. y Ooi, E. (2018). Penetrating neck injuries: A guide to evaluation and management. *Annals of the Royal College of Surgeons of England, 100*(1), 6–11. https://doi.org/10.1308/rcsann.2017.0191
 
-Simpson, C., Tucker, H. y Hudson, A. (2021). Pre-hospital management of penetrating neck injuries: A scoping review of current evidence and guidance. *Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 29*, Artículo 137. https://doi.org/10.1186/s13049-021-00949-4
+Simpson, C., Tucker, H. y Hudson, A. (2021). Pre-hospital management of penetrating neck injuries: A scoping review of current evidence and guidance. *Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 29*(1), Artículo 137. https://doi.org/10.1186/s13049-021-00949-4
 
 Sperry, J. L., Guardiani, E., Snow, G., Meenan, K. y Feliciano, D. V. (2021). Neck and larynx. En D. V. Feliciano, K. L. Mattox y E. E. Moore (Eds.), *Trauma* (9.ª ed., pp. 521–542). McGraw Hill.
 

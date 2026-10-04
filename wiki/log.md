@@ -63,3 +63,13 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Metadatos bibliográficos completados desde Crossref (decisión del usuario) en 6 fichas: Ranwa (n.º 1), Noh y Choi (nombre de revista), Nowicki (n.º 1), Kose (n.º 3), Van der Cruyssen (n.º 4 y revista), Blitzer (revista; sin número). En Harris et al. (2012) Crossref da pp. 235–239 frente a 240–244 del PDF: se dejó `[INCIERTO]` y no se cambió. El resto no se pudo consultar: la red del entorno rechazó api.crossref.org.
 - Nuevos borradores en `monografia/`: introducción, metodología de la revisión (con la búsqueda pendiente de la autora) y 1.7 Clasificación. Citas verificadas en `texto/`.
 - Registradas en `CLAUDE.md` la estructura ampliada y la definición operativa de 7.4.
+
+## [2026-10-04] lint | Metadatos bibliográficos desde Crossref (resto de las referencias)
+
+- Consulta a api.crossref.org por DOI (y por título, autores y año para los cuatro artículos sin DOI en el PDF), autorizada por el usuario solo para datos bibliográficos. Cada ficha completada tiene la viñeta "Metadatos completados desde el registro Crossref…" y `last_updated` al día.
+- Número de fascículo añadido: Qureshi (4), Kohan y Wirth (1), Mohamed (1), Bell (4), Siau (7), de Bakker (4), Munera (3), Zakaria (11), Ahmad y Singh (5), Olding (3), Kasbekar (1), Borsetto (9), Simpson (1), Teixeira (1), Krausz (1), Isaza-Restrepo (1), Loss (1).
+- Nombre completo de la revista: Qureshi (*Operative Techniques in Otolaryngology–Head and Neck Surgery*), Harris, Cohnert, Siau, Munera, Biffl y Weigelt (*The American Journal of Surgery*).
+- DOI añadido: Hadjizacharia, Weigelt, Fogelman y Biffl. Página final: Weigelt (622), Fogelman (596), Mandavia (225). Crossref confirma el volumen 91 de Fogelman (el PDF decía "9r").
+- Sin número en Crossref (se retira el `[INCIERTO]` o se deja sin número): Abdou, Blitzer, Wang, Haran.
+- Discrepancias Crossref ↔ PDF, marcadas `[INCIERTO]` y no sobrescritas: Harris et al. (pp. 235–239 frente a 240–244; no se usó el n.º 4), Laher et al. (pp. 17–20 frente a 165–168 "Online first"), Mandavia et al. (DOI del PDF 10.1067/mem.2000.104888 frente al de Crossref 10.1016/S0196-0644(00)70071-0) y Al-Thani et al. (Crossref pone a El-Menyar primero y solo la p. 154). Diferencias de año en línea frente a impreso (Mohamed, Siau, Kasbekar) se anotaron sin cambiar el año del PDF.
+- Listas "Referencias de esta sección" de `monografia/` actualizadas con los mismos datos.

@@ -14,11 +14,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Weigelt, J. A., Thal, E. R., Snyder, W. H., III, Fry, R. E., Meier, D. E., & Kilman, W. J. (1987). Diagnosis of penetrating cervical esophageal injuries. *[INCIERTO: el nombre de la revista no figura en la página del PDF], 154*, 619–[INCIERTO: página final no figura en el PDF].
+Weigelt, J. A., Thal, E. R., Snyder, W. H., III, Fry, R. E., Meier, D. E., & Kilman, W. J. (1987). Diagnosis of penetrating cervical esophageal injuries. *The American Journal of Surgery, 154*(6), 619–622. https://doi.org/10.1016/0002-9610(87)90228-5
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): revista (*The American Journal of Surgery*), número 6, página final 622 y DOI 10.1016/0002-9610(87)90228-5 (localizado por título, autores, año y volumen 154, que coinciden con el PDF). El PDF sigue conteniendo solo la p. 619: la página final no autoriza a citar contenido de pp. 620–622.
 - Datos visibles en la p. PDF 1 (impresa 619): título; autores (impresos con errores de reconocimiento: "John A. Welgelt, MD, FACS, Erwin Ft. l'hal, MD, FACS, Wllllam H. Snyder, Ill, MD, FACS, Richard E. Fry, MD, Donald E. Meler, MD, FACS, and Wllllam J. Kllman, MD, Dallas, Texas"; la dirección de correspondencia escribe "John A. Weigeit"); "Volume 154, December 1987"; número de página impreso "619"; presentado en el 39th Annual Meeting of the Southwestern Surgical Congress, Coronado, California, 26–29 de abril de 1987; Departments of Surgery and Radiology, Southwestern Medical School, The University of Texas Health Science Center, Dallas.
 - La normalización de los apellidos (Weigelt, Thal, Snyder, Meier, Kilman) se apoya en la referencia 23 de otra fuente del repo, Al-Thani et al. (2015, p. 158), que cita este artículo como "Weigelt JA, Thal ER, Snyder WH 3rd, Fry RE, Meier DE, Kilman WJ. Diagnosis of penetrating cervical esophageal injuries. Am J Surg 1987;154:619-22." **Ese dato (Am J Surg, pp. 619–622) no figura en este PDF**: si se usa, debe quedar claro que proviene de la cita secundaria.
-- DOI y número (issue): `[INCIERTO: no figuran en el PDF]`.
+- DOI y número (issue): `[RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: no figuran en el PDF]`.
 - Cita en texto modelo: (Weigelt et al., 1987, p. 619).
 
 ## Cobertura del PDF

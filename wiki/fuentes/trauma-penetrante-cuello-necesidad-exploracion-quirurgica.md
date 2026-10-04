@@ -14,8 +14,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Kasbekar, A. V., Combellack, E. J., Derbyshire, S. G., & Swift, A. C. (2017). Penetrating neck trauma and the need for surgical exploration: six-year experience within a regional trauma centre. *The Journal of Laryngology & Otology*, *131*[INCIERTO: número de fascículo no figura en el PDF], 8–12. https://doi.org/10.1017/S0022215116009506
+Kasbekar, A. V., Combellack, E. J., Derbyshire, S. G., & Swift, A. C. (2017). Penetrating neck trauma and the need for surgical exploration: six-year experience within a regional trauma centre. *The Journal of Laryngology & Otology, 131*(1), 8–12. https://doi.org/10.1017/S0022215116009506
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y páginas coinciden con el PDF. Crossref fecha el registro en 2016 (publicación en línea); se conserva el año 2017 tomado del PDF.
 - Datos de la p. PDF 1 (= p. 8): "The Journal of Laryngology & Otology (2017), 131, 8–12", "doi:10.1017/S0022215116009506", autores "A V KASBEKAR, E J COMBELLACK, S G DERBYSHIRE, A C SWIFT", "Accepted for publication 21 July 2016 First published online 5 December 2016".
 - Cita en texto modelo: (Kasbekar et al., 2017, p. 10).
 

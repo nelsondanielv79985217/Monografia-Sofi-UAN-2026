@@ -80,4 +80,4 @@ American College of Surgeons. (2018). *ATLS® Soporte vital avanzado en trauma®
 
 Hernández Sampieri, R., Fernández Collado, C. y Baptista Lucio, M. del P. (2014). *Metodología de la investigación* (6.ª ed.). McGraw-Hill/Interamericana Editores.
 
-Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J. y Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*, Artículo 17. https://doi.org/10.1186/s12873-020-00311-4
+Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J. y Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*(1), Artículo 17. https://doi.org/10.1186/s12873-020-00311-4

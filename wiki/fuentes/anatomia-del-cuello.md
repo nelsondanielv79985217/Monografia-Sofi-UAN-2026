@@ -12,11 +12,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Kohan, E. J., & Wirth, G. A. (2014). Anatomy of the neck. *Clinics in Plastic Surgery, 41*[INCIERTO: número del fascículo no figura en el PDF], 1–6. https://doi.org/10.1016/j.cps.2013.09.016
+Kohan, E. J., & Wirth, G. A. (2014). Anatomy of the neck. *Clinics in Plastic Surgery, 41*(1), 1–6. https://doi.org/10.1016/j.cps.2013.09.016
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y páginas coinciden con el PDF.
 - Título, autores ("Emil J. Kohan, MD, Garrett A. Wirth, MD, MS") y afiliación (Aesthetic and Plastic Surgery Institute, University of California - Irvine Medical Center): p. PDF 1 (p. 1).
 - Revista, volumen, año y rango de páginas: pie de p. PDF 1, "Clin Plastic Surg 41 (2014) 1–6"; DOI "http://dx.doi.org/10.1016/j.cps.2013.09.016" (p. PDF 1).
-- [INCIERTO: el PDF muestra solo la abreviatura "Clin Plastic Surg" y el sitio "plasticsurgery.theclinics.com"; el nombre completo *Clinics in Plastic Surgery* es la expansión de esa abreviatura y no aparece escrito en el PDF.]
+- [RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: el PDF muestra solo la abreviatura "Clin Plastic Surg" y el sitio "plasticsurgery.theclinics.com"; el nombre completo *Clinics in Plastic Surgery* es la expansión de esa abreviatura y no aparece escrito en el PDF.]
 
 Cita en texto modelo: (Kohan & Wirth, 2014, p. 1).
 

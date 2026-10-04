@@ -16,7 +16,7 @@ Resumen navegable de los desacuerdos y huecos que aparecieron al escribir las fi
 2. **ATLS:** se cita **solo el manual en español** ([ficha](../fuentes/atls-soporte-vital-avanzado-trauma-manual-estudiantes.md)), con su paginación. El manual en inglés queda en el repo como consulta y no va en las referencias. Ver [ATLS](../entidades/atls.md).
 3. **Artículos incompletos:** se citan solo con lo que contiene la página disponible, sin inferir el resto (lista abajo).
 4. ***Suture like a surgeon*:** se eliminó del repo, de la wiki y de las referencias.
-5. **Metadatos bibliográficos:** se pueden completar desde fuera del repo (Crossref), solo datos de la referencia. Completadas el 2026-10-04: Ranwa, Noh y Choi, Nowicki, Kose, Van der Cruyssen y Blitzer. Pendientes las demás (la red del entorno bloqueó la consulta).
+5. **Metadatos bibliográficos:** se pueden completar desde fuera del repo (Crossref), solo datos de la referencia. Completadas el 2026-10-04 en todas las fichas de artículos con registro en Crossref (ver `log.md`). Quedan cuatro discrepancias entre Crossref y el PDF, marcadas `[INCIERTO]` sin sobrescribir: páginas de Harris et al. (2012) y de Laher et al. (2023), DOI de Mandavia et al. (2000) y orden de autores de Al-Thani et al. (2015). Los libros (ATLS, *Trauma*, Sampieri) y la guía APA no tienen registro en Crossref y conservan sus datos del PDF.
 6. **Estructura:** se añaden INTRODUCCIÓN y METODOLOGÍA DE LA REVISIÓN; 7.4 usa la definición operativa de la autora (ver `CLAUDE.md`).
 
 Pendiente: la guía APA del repo menciona Vancouver como estilo frecuente en medicina (p. 55). El proyecto mantiene APA 7.

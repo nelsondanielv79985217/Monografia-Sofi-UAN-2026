@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Loss, L., Henry, R., White, A., Matsushima, K., Barrett, C., Lammers, D., Schreiber, M., & Inaba, K. (2025). Penetrating neck trauma: A comprehensive review. *Trauma Surgery & Acute Care Open, 10*, Article e001619. https://doi.org/10.1136/tsaco-2024-001619
+Loss, L., Henry, R., White, A., Matsushima, K., Barrett, C., Lammers, D., Schreiber, M., & Inaba, K. (2025). Penetrating neck trauma: A comprehensive review. *Trauma Surgery & Acute Care Open, 10*(1), Article e001619. https://doi.org/10.1136/tsaco-2024-001619
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y número de artículo coinciden con el PDF.
 - Título, autores y afiliaciones (Oregon Health & Science University; University of Nebraska Medical Center; University of Southern California; University of North Carolina): p. 1.
 - Cita sugerida por la propia revista: "Loss L, Henry R, White A, et al. Trauma Surg Acute Care Open 2025;10:e001619" (p. 1); nombre completo de la revista en el pie: "Trauma Surgery & Acute Care Open: first published as 10.1136/tsaco-2024-001619 on 26 March 2025" (pp. 1–9).
 - Recibido 30 August 2024; aceptado 2 March 2025 (p. 1). Tipo: "Review", "Open access" (p. 1).

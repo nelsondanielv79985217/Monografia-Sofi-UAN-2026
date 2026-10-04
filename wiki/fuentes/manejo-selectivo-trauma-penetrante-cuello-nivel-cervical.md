@@ -14,11 +14,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Biffl, W. L., Moore, E. E., Rehse, D. H., Offner, P. J., Franciose, R. J., & Burch, J. M. (1997). Selective management of penetrating neck trauma based on cervical level of injury. *Am J Surg*, *174*[INCIERTO: número de fascículo no figura en el PDF], 678–682. [INCIERTO: DOI no figura en el PDF]
+Biffl, W. L., Moore, E. E., Rehse, D. H., Offner, P. J., Franciose, R. J., & Burch, J. M. (1997). Selective management of penetrating neck trauma based on cervical level of injury. *The American Journal of Surgery, 174*(6), 678–682. https://doi.org/10.1016/S0002-9610(97)00195-5
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): nombre completo de la revista (*The American Journal of Surgery*), número 6 y DOI 10.1016/S0002-9610(97)00195-5 (localizado por título, autores, año, volumen y páginas, que coinciden con el PDF).
 - Datos de la p. PDF 1: título, autores ("Walter L. Bill, MD, Ernest E. Moore, MD, Dagmar H. Rehse, BA, Patrick J. Offner, MD, Reginald J. Franciose, MD, Jon M. Burch, MD, Denver, Colorado"), "Am J Surg. 1997;174:678-682", "1997 by Excerpta Medica, Inc.", identificador "PII S0002-9610(97)00195-5".
 - [INCIERTO: el texto extraído dice "Walter L. Bill"; otras fuentes del repo citan este mismo artículo como "Biffl WL, Moore EE, Rehse DH, Offner PJ, Franciose RJ, Burch JM ... Am J Surg 1997;174:678–82" (Teixeira et al., 2016, ref. 1; Kasbekar et al., 2017, ref. 16), y Laher et al. (2023, ref. 27) le asignan el DOI 10.1016/S0002-9610(97)00195-5. Lo más probable es que "Bill" sea una pérdida de la ligadura "ffl" en la extracción, pero debe verificarse en el PDF.]
-- [INCIERTO: el PDF solo muestra la abreviatura "Am J Surg", no el nombre completo de la revista.]
+- [RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: el PDF solo muestra la abreviatura "Am J Surg", no el nombre completo de la revista.]
 - Cita en texto modelo: (Biffl et al., 1997, p. 678).
 
 ## Cobertura del PDF

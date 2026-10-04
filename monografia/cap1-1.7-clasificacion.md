@@ -76,25 +76,25 @@ Para la columna cervical subaxial, Stahel et al. (2021) mencionan la escala SLIC
 
 ## Referencias de esta sección
 
-Ahmad, Z. y Singh, K. (2024). Blunt trauma neck with thyroid cartilage subluxation with no external sign. *Indian Journal of Otolaryngology and Head & Neck Surgery, 76*, 4770–4775. https://doi.org/10.1007/s12070-024-04841-2 [INCIERTO: número del fascículo]
+Ahmad, Z. y Singh, K. (2024). Blunt trauma neck with thyroid cartilage subluxation with no external sign. *Indian Journal of Otolaryngology and Head & Neck Surgery, 76*(5), 4770–4775. https://doi.org/10.1007/s12070-024-04841-2
 
 Kose, S. I. (2025). Imaging in penetrating neck injuries. *Emergency Radiology, 32*(3), 395–408. https://doi.org/10.1007/s10140-025-02345-2
 
-Krausz, A. A., Krausz, M. M. y Picetti, E. (2015). Maxillofacial and neck trauma: A damage control approach. *World Journal of Emergency Surgery, 10*, Artículo 31. https://doi.org/10.1186/s13017-015-0022-9
+Krausz, A. A., Krausz, M. M. y Picetti, E. (2015). Maxillofacial and neck trauma: A damage control approach. *World Journal of Emergency Surgery, 10*(1), Artículo 31. https://doi.org/10.1186/s13017-015-0022-9
 
-Loss, L., Henry, R., White, A., Matsushima, K., Barrett, C., Lammers, D., Schreiber, M. e Inaba, K. (2025). Penetrating neck trauma: A comprehensive review. *Trauma Surgery & Acute Care Open, 10*, Artículo e001619. https://doi.org/10.1136/tsaco-2024-001619
+Loss, L., Henry, R., White, A., Matsushima, K., Barrett, C., Lammers, D., Schreiber, M. e Inaba, K. (2025). Penetrating neck trauma: A comprehensive review. *Trauma Surgery & Acute Care Open, 10*(1), Artículo e001619. https://doi.org/10.1136/tsaco-2024-001619
 
-Munera, F., Danton, G., Rivas, L. A., Henry, R. P. y Ferrari, M. G. (2009). Multidetector row computed tomography in the management of penetrating neck injuries. *Seminars in Ultrasound, CT and MRI, 30*, 195–204. https://doi.org/10.1053/j.sult.2009.02.004 [INCIERTO: nombre completo de la revista y número del fascículo]
+Munera, F., Danton, G., Rivas, L. A., Henry, R. P. y Ferrari, M. G. (2009). Multidetector row computed tomography in the management of penetrating neck injuries. *Seminars in Ultrasound, CT and MRI, 30*(3), 195–204. https://doi.org/10.1053/j.sult.2009.02.004
 
 Nowicki, J. L., Stew, B. y Ooi, E. (2018). Penetrating neck injuries: A guide to evaluation and management. *Annals of the Royal College of Surgeons of England, 100*(1), 6–11. https://doi.org/10.1308/rcsann.2017.0191
 
-Qureshi, M., Patel, K. y Simon, R. (2020). Neck level algorithmic approach to trauma. *Operative Techniques in Otolaryngology, 31*, 289–294. https://doi.org/10.1016/j.otot.2020.10.005 [INCIERTO: número del fascículo]
+Qureshi, M., Patel, K. y Simon, R. (2020). Neck level algorithmic approach to trauma. *Operative Techniques in Otolaryngology–Head and Neck Surgery, 31*(4), 289–294. https://doi.org/10.1016/j.otot.2020.10.005
 
 Raghunathan, N., Thangavel, S., Kalyanasundaram, A., Ganesan, S. y Saxena, S. K. (2022). How can we manage penetrating neck injury with blunt carotid injury and spinal injury: Case report and review of literature. *Indian Journal of Otolaryngology and Head & Neck Surgery, 74*(Supl. 3), S5817–S5822. https://doi.org/10.1007/s12070-021-02415-0
 
-Siau, R. T. K., Moore, A., Ahmed, T., Lee, M. S. W. y Tostevin, P. (2013). Management of penetrating neck injuries at a London trauma centre. *European Archives of Oto-Rhino-Laryngology, 270*, 2123–2128. https://doi.org/10.1007/s00405-012-2324-9 [INCIERTO: nombre completo de la revista y número del fascículo]
+Siau, R. T. K., Moore, A., Ahmed, T., Lee, M. S. W. y Tostevin, P. (2013). Management of penetrating neck injuries at a London trauma centre. *European Archives of Oto-Rhino-Laryngology, 270*(7), 2123–2128. https://doi.org/10.1007/s00405-012-2324-9
 
-Simpson, C., Tucker, H. y Hudson, A. (2021). Pre-hospital management of penetrating neck injuries: A scoping review of current evidence and guidance. *Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 29*, Artículo 137. https://doi.org/10.1186/s13049-021-00949-4
+Simpson, C., Tucker, H. y Hudson, A. (2021). Pre-hospital management of penetrating neck injuries: A scoping review of current evidence and guidance. *Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 29*(1), Artículo 137. https://doi.org/10.1186/s13049-021-00949-4
 
 Sperry, J. L., Guardiani, E., Snow, G., Meenan, K. y Feliciano, D. V. (2021). Neck and larynx. En D. V. Feliciano, K. L. Mattox y E. E. Moore (Eds.), *Trauma* (9.ª ed., pp. 521–542). McGraw Hill.
 
@@ -102,4 +102,4 @@ Stahel, P. F., Dorenkamp, B. C. y Janssen, M. E. (2021). Spinal cord and spine. 
 
 Steenburg, S. D. (2021). Diagnostic and interventional radiology. En D. V. Feliciano, K. L. Mattox y E. E. Moore (Eds.), *Trauma* (9.ª ed., pp. 341–408). McGraw Hill.
 
-Zakaria, B. A., Muzaffar, J., Orr, L. E., Coulson, C. J. y Sharma, N. (2019). Blunt neck trauma at a level I trauma centre: Six-year retrospective case note review. *The Journal of Laryngology & Otology, 133*, 943–947. https://doi.org/10.1017/S0022215119001993 [INCIERTO: número del fascículo]
+Zakaria, B. A., Muzaffar, J., Orr, L. E., Coulson, C. J. y Sharma, N. (2019). Blunt neck trauma at a level I trauma centre: Six-year retrospective case note review. *The Journal of Laryngology & Otology, 133*(11), 943–947. https://doi.org/10.1017/S0022215119001993

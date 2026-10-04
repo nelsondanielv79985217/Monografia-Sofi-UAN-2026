@@ -12,10 +12,11 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Bell, R. B., Osborn, T., Dierks, E. J., Potter, B. E., & Long, W. B. (2007). Management of penetrating neck injuries: A new paradigm for civilian trauma. *Journal of Oral and Maxillofacial Surgery, 65*, 691–705. https://doi.org/10.1016/j.joms.2006.04.044
+Bell, R. B., Osborn, T., Dierks, E. J., Potter, B. E., & Long, W. B. (2007). Management of penetrating neck injuries: A new paradigm for civilian trauma. *Journal of Oral and Maxillofacial Surgery, 65*(4), 691–705. https://doi.org/10.1016/j.joms.2006.04.044
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 4. Volumen y páginas coinciden con el PDF.
 - Datos de la p. PDF 1 (impresa 691): "J Oral Maxillofac Surg 65:691-705, 2007"; título; autores R. Bryan Bell, Timothy Osborn, Eric J. Dierks, Bryce E. Potter y William B. Long (Oregon Health & Sciences University; Legacy Emanuel Hospital and Health Center, Portland, OR); "doi:10.1016/j.joms.2006.04.044"; © 2007 American Association of Oral and Maxillofacial Surgeons.
-- Nombre completo de la revista: el PDF solo trae la abreviatura "J Oral Maxillofac Surg"; la forma desarrollada es una expansión de esa abreviatura. Número (issue): `[INCIERTO: no figura explícitamente en el PDF]` (otra ficha del repo, Kose 2025, p. 406, lo cita como 65(4)).
+- Nombre completo de la revista: el PDF solo trae la abreviatura "J Oral Maxillofac Surg"; la forma desarrollada es una expansión de esa abreviatura. Número (issue): `[RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: no figura explícitamente en el PDF]` (otra ficha del repo, Kose 2025, p. 406, lo cita como 65(4)).
 - Cita en texto modelo: (Bell et al., 2007, p. 691).
 
 ## Cobertura del PDF

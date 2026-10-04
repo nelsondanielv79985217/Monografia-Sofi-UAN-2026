@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Siau, R. T. K., Moore, A., Ahmed, T., Lee, M. S. W., & Tostevin, P. (2013). Management of penetrating neck injuries at a London trauma centre. *European Archives of Oto-Rhino-Laryngology*[INCIERTO: el PDF solo muestra la abreviatura "Eur Arch Otorhinolaryngol"]*, 270*[INCIERTO: número del fascículo no figura en el PDF], 2123–2128. https://doi.org/10.1007/s00405-012-2324-9
+Siau, R. T. K., Moore, A., Ahmed, T., Lee, M. S. W., & Tostevin, P. (2013). Management of penetrating neck injuries at a London trauma centre. *European Archives of Oto-Rhino-Laryngology, 270*(7), 2123–2128. https://doi.org/10.1007/s00405-012-2324-9
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): nombre completo de la revista y número 7. Volumen y páginas coinciden con el PDF. Crossref fecha el registro en 2012 (publicación en línea); se conserva el año 2013 tomado del PDF.
 - p. PDF 1 (= p. 2123): "Eur Arch Otorhinolaryngol (2013) 270:2123–2128", "DOI 10.1007/s00405-012-2324-9", sección "HEAD AND NECK", autores, afiliación (ENT Department, St George's Hospital, Tooting, London), fechas (recibido 18 ago. 2012; aceptado 11 dic. 2012; publicado en línea 23 dic. 2012).
 - Encabezados de pp. PDF 2–6 repiten la línea de cita con el número de página.
 

@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Hadjizacharia, P., Rhee, P., Pandit, V., Aziz, H., Green, D., & Joseph, B. (2014). Blunt assault: 'Million dollar baby'. *The American Surgeon, 80*(1), 72–75. [INCIERTO: DOI no figura en el PDF]
+Hadjizacharia, P., Rhee, P., Pandit, V., Aziz, H., Green, D., & Joseph, B. (2014). Blunt assault: 'Million dollar baby'. *The American Surgeon, 80*(1), 72–75. https://doi.org/10.1177/000313481408000127
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): DOI 10.1177/000313481408000127 (el PDF no lo muestra; se localizó por título, autores, revista, volumen 80, número 1 y pp. 72–75, que coinciden con el PDF).
 - Autores, título y afiliación (University of Arizona, Tucson): p. PDF 1 (p. 72).
 - Revista ("THE AMERICAN SURGEON"), fecha ("January 2014"), volumen ("Vol. 80") y número ("No. 1"): encabezados de p. PDF 2–4 (pp. 73–75).
 - Rango de páginas 72–75: pies/encabezados impresos de cada página.

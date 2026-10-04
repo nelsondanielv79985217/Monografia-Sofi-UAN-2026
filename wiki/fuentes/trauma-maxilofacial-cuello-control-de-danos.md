@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Krausz, A. A., Krausz, M. M., & Picetti, E. (2015). Maxillofacial and neck trauma: a damage control approach. *World Journal of Emergency Surgery*, *10*, Article 31. https://doi.org/10.1186/s13017-015-0022-9
+Krausz, A. A., Krausz, M. M., & Picetti, E. (2015). Maxillofacial and neck trauma: a damage control approach. *World Journal of Emergency Surgery*, *10*(1), Article 31. https://doi.org/10.1186/s13017-015-0022-9
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y número de artículo coinciden con el PDF.
 - Datos de la p. PDF 1 (= p. 1): "Krausz et al. World Journal of Emergency Surgery (2015) 10:31", DOI "10.1186/s13017-015-0022-9", autores "Amir A. Krausz, Michael M. Krausz* and Edoardo Picetti", tipo "REVIEW". "Received: 19 May 2015 Accepted: 22 June 2015" (p. 8).
 - Cita en texto modelo: (Krausz et al., 2015, p. 7).
 

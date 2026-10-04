@@ -12,11 +12,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J., & Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*, Article 17. https://doi.org/10.1186/s12873-020-00311-4
+Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J., & Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*(1), Article 17. https://doi.org/10.1186/s12873-020-00311-4
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y número de artículo coinciden con el PDF.
 - p. PDF 1 ("Page 1 of 8" implícita; encabezado "Isaza-Restrepo et al. BMC Emergency Medicine (2020) 20:17"): título, autores, DOI, afiliaciones (Escuela de Medicina y Ciencias de la Salud, Grupo de Investigación Clínica, Universidad del Rosario, Bogotá; Méderi Hospital Universitario Mayor, Bogotá; Hospital Emiro Quintero Cañizares, Ocaña — esta última en p. 7), licencia CC BY 4.0.
 - Recibido 23 julio 2019; aceptado 14 febrero 2020 (p. 7).
-- [INCIERTO: número de fascículo no figura en el PDF; la revista usa número de artículo (17).]
+- [RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: número de fascículo no figura en el PDF; la revista usa número de artículo (17).]
 
 Cita en texto modelo: (Isaza-Restrepo et al., 2020, p. 5).
 
