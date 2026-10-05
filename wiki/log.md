@@ -103,3 +103,13 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
   - `sintesis/guia-de-redaccion-de-la-monografia.md`, que separa lo que se adopta del modelo de lo que no se copia, con un ejemplo de reescritura del primer párrafo de 1.3.
 - `CLAUDE.md`: la sección de borradores remite a la nueva guía de redacción.
 - Pendiente de la autora: decidir entre texto justificado y alineado a la izquierda, y si se reescribe el capítulo 1 con este estilo.
+
+## [2026-10-05] query | Borrador 4: capítulo 1 en síntesis y con extensión mínima
+
+- La base fue el borrador 3 con los ajustes de la autora: 1.1 acortada, nota de la Tabla 2 retirada y tabla de contenido actualizada.
+- El capítulo 1 se reescribió con la pauta de `sintesis/guia-de-redaccion-de-la-monografia.md`: párrafo temático, cita parentética agrupada, conectores de consecuencia y un numeral por idea. El cuerpo pasó de 5860 a 2525 palabras, sin contar las tablas.
+- No se añadió ningún dato nuevo. Todas las cifras y páginas vienen del texto verificado en el borrador 3.
+- Las citas de 1.1 se restituyeron. En la edición de la autora habían quedado sin página la de Simpson y la de Zakaria.
+- Dejaron de citarse Olding, Kasbekar, Mohamed, Hadjizacharia, de Bakker y Noh, que volvieron al Anexo A. La lista de referencias se recalculó a partir de las citas del texto: quedan 25 obras.
+- Se eliminó un título vacío bajo "Objetivo general".
+- Archivo: `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-4.docx`.

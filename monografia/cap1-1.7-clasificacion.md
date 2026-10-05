@@ -3,34 +3,28 @@ title: "1.7 Clasificación del trauma de cuello (borrador)"
 type: borrador
 seccion: "1.7"
 status: borrador
-last_updated: 2026-10-04
+last_updated: 2026-10-05
 ---
 
 # 1.7 Clasificación del trauma de cuello
 
-Las fuentes del proyecto no ofrecen una clasificación general y única del trauma de cuello: esto no está en las fuentes del proyecto. Lo que contienen son varios sistemas parciales, cada uno construido sobre un eje distinto: el mecanismo, la localización de la herida, la forma de presentación clínica y la gravedad de la lesión de una estructura concreta. Esta sección los presenta en ese orden. Su uso conjunto, y no la elección de uno solo, es una propuesta de organización de la autora, no una recomendación de las fuentes.
+Las fuentes no ofrecen una clasificación única del trauma de cuello: esto no está en las fuentes del proyecto. Contienen sistemas parciales que lo ordenan según el mecanismo, la localización, la presentación clínica y la gravedad de la lesión de una estructura concreta.
 
 ## 1.7.1 Según el mecanismo: penetrante y cerrado
 
-El primer eje distingue el trauma penetrante del cerrado. Las fuentes coinciden en usar el músculo platisma como límite. Simpson et al. (2021) definen la herida penetrante de cuello como "cualquier trauma del cuello que viola la capa del músculo platisma" (p. 1), y Sperry et al. (2021) describen el platisma como "la referencia anatómica que se cita a menudo para determinar si una herida penetrante del cuello es superficial o profunda" (p. 522). Krausz et al. (2015) precisan que, si la herida no atraviesa el platisma, "no se clasifica como una herida penetrante significativa del cuello" (p. 4). De forma simétrica, Zakaria et al. (2019) definen el trauma cerrado como la lesión por mecanismo no penetrante "que no atraviesa el músculo platisma" (p. 943).
-
-Dentro del trauma penetrante, Kose (2025) distingue lesiones de baja energía (proyectiles de baja velocidad, como los de arma corta, y objetos cortantes, como cuchillos o clavos) y de alta energía (proyectiles de alta velocidad de fusiles militares) (p. 397).
+El músculo platisma separa el trauma penetrante del cerrado (sección 1.1), por lo que es "la referencia anatómica que se cita a menudo para determinar si una herida penetrante del cuello es superficial o profunda" (Sperry et al., 2021, p. 522). Dentro del trauma penetrante se distinguen las lesiones de baja energía y las de alta energía (Kose, 2025, p. 397; sección 1.4).
 
 ## 1.7.2 Según la localización: zonas anatómicas
 
-La clasificación más usada para el trauma penetrante divide la cara anterior del cuello en tres zonas. Loss et al. (2025) atribuyen la primera descripción a Monson et al. en 1969, refinada después por Roon y Christensen en 1979 (p. 1). Siau et al. (2013) advierten que "estas zonas solo se aplican al cuello anterior" (p. 2124). La definición más repetida en el corpus ubica la zona I entre las clavículas y la escotadura esternal y el cartílago cricoides, la zona II entre el cricoides y el ángulo de la mandíbula, y la zona III entre el ángulo de la mandíbula y la base del cráneo (Kose, 2025, p. 396; Nowicki et al., 2018, p. 7; Qureshi et al., 2020, p. 289).
-
-Los límites no son idénticos en todas las fuentes. Munera et al. (2009) sitúan el límite entre las zonas I y II en la membrana cricotiroidea (p. 195), y el mismo tratado de Feliciano et al. ofrece dos definiciones: Sperry et al. (2021) describen la zona I como el área "inferior a las clavículas y al manubrio esternal" que abarca el opérculo torácico (p. 522), mientras que Steenburg (2021) la ubica entre el cartílago cricoides y la escotadura esternal (p. 353). Sperry et al. (2021) consideran además que la modificación de Roon y Christensen "no tiene importancia clínica" (p. 522). El desarrollo de cada zona y su contenido corresponde a la sección 1.9.
-
-Este sistema tiene un límite reconocido por las fuentes: la herida externa no siempre refleja la lesión interna. Steenburg (2021) señala que la lesión puede estar "en una zona distinta de la del examen físico" (p. 353), y Loss et al. (2025) afirman que la trayectoria del proyectil "no puede evaluarse con precisión a partir de las heridas externas" (p. 1).
+Divide la cara anterior del cuello en tres zonas: la I, entre las clavículas y el cartílago cricoides; la II, entre el cricoides y el ángulo de la mandíbula, y la III, entre el ángulo de la mandíbula y la base del cráneo (Kose, 2025, p. 396; Nowicki et al., 2018, p. 7; Qureshi et al., 2020, p. 289). Los límites varían entre fuentes, sobre todo los de la zona I (Munera et al., 2009, p. 195; Sperry et al., 2021, p. 522; Steenburg, 2021, p. 353). Además, la herida externa no siempre corresponde a la zona de la lesión interna, porque la trayectoria del proyectil "no puede evaluarse con precisión a partir de las heridas externas" (Loss et al., 2025, p. 1). El contenido de cada zona se describe en la sección 1.9.
 
 ## 1.7.3 Según la presentación clínica
 
-Sperry et al. (2021) proponen clasificar a los pacientes, tanto con trauma penetrante como cerrado, en tres grupos: con síntomas o signos evidentes de lesión, con síntomas o signos modestos o moderados, y asintomáticos (p. 523). Los autores sostienen que "el manejo del paciente depende de la presentación" (p. 523). El paciente asintomático es el que tiene penetración del platisma por arma de fuego o arma blanca, o equimosis o contusión tras un trauma cerrado, sin síntomas ni signos de lesión aerodigestiva, vascular, de la columna o de la médula espinal (Sperry et al., 2021, p. 523). Los signos duros y blandos que sustentan esta clasificación se tratan en las secciones 2.10 y 2.11.
+Sperry et al. (2021) clasifican a los pacientes con trauma penetrante o cerrado en tres grupos: con signos evidentes de lesión, con signos modestos o moderados y asintomáticos, porque "el manejo del paciente depende de la presentación" (p. 523). Los signos se tratan en las secciones 2.10 y 2.11.
 
 ## 1.7.4 Según la gravedad de la lesión vascular contusa: escala de Denver
 
-Para la lesión cerebrovascular contusa (*blunt cerebrovascular injury*, BCVI), Sperry et al. (2021) presentan la escala de Biffl et al. (Denver, 1999), con cinco grados (p. 530). En la Tabla 3 se resume esa escala junto con la versión de Raghunathan et al. (2022, p. S5820), que difiere en detalles de redacción.
+La escala de Denver gradúa la lesión cerebrovascular contusa en cinco grados (Tabla 3) y orienta el tratamiento: heparina en los grados III y IV, y *stent* endovascular con *coils* o, rara vez, cirugía en el grado V (Sperry et al., 2021, p. 530).
 
 **Tabla 3**
 *Escala de Denver para la lesión cerebrovascular contusa*
@@ -45,11 +39,9 @@ Para la lesión cerebrovascular contusa (*blunt cerebrovascular injury*, BCVI), 
 
 *Nota.* Adaptado de Sperry et al. (2021, p. 530) y de Raghunathan et al. (2022, Tabla 2, p. S5820). Las diferencias entre columnas reproducen las de las fuentes.
 
-La escala orienta el tratamiento: Sperry et al. (2021) indican heparina en los grados III y IV, y stent endovascular con *coils* o, rara vez, cirugía en el grado V (p. 530). El manejo se desarrolla en la sección 5.5.
-
 ## 1.7.5 Según la gravedad de la lesión laríngea: sistema de Schaefer-Fuhrman
 
-Para el trauma laríngeo, Sperry et al. (2021) señalan que el sistema más usado es el de Schaefer-Fuhrman, descrito para el trauma cerrado, pero que "puede extrapolarse a las lesiones penetrantes" (p. 535). Ahmad y Singh (2024) añaden que la American Academy of Otolaryngology-Head and Neck Surgery lo aceptó como el más útil porque "permite al clínico tomar decisiones de tratamiento según la gravedad de la lesión" (p. 4774). La Tabla 4 resume los cinco grupos.
+Clasifica la lesión laríngea en cinco grupos (Tabla 4). Se describió para el trauma cerrado, pero "puede extrapolarse a las lesiones penetrantes" (Sperry et al., 2021, p. 535), y "permite al clínico tomar decisiones de tratamiento según la gravedad de la lesión" (Ahmad y Singh, 2024, p. 4774).
 
 **Tabla 4**
 *Sistema de Schaefer-Fuhrman para la lesión laríngea*
@@ -66,11 +58,11 @@ Para el trauma laríngeo, Sperry et al. (2021) señalan que el sistema más usad
 
 ## 1.7.6 Otras clasificaciones de estructura específica
 
-Para la columna cervical subaxial, Stahel et al. (2021) mencionan la escala SLIC (*Subaxial Injury Classification*), que orienta la decisión entre manejo operatorio y no operatorio (p. 552). Su desarrollo corresponde a las secciones 3.5 y 5.8.
+Para la columna cervical subaxial, la escala SLIC (*Subaxial Injury Classification*) orienta la decisión entre manejo operatorio y no operatorio (Stahel et al., 2021, p. 552); se desarrolla en las secciones 3.5 y 5.8.
 
 ## Síntesis
 
-[NOTA DE LA AUTORA, propuesta de redacción: los sistemas descritos no son excluyentes. El mecanismo y la zona describen la herida; la presentación clínica orienta la conducta inicial; las escalas de Denver y de Schaefer-Fuhrman gradúan la lesión de una estructura ya identificada. Ninguna fuente del proyecto los integra en un solo esquema.]
+[NOTA DE LA AUTORA: los sistemas no son excluyentes. El mecanismo y la zona describen la herida, la presentación clínica orienta la conducta inicial y las escalas de Denver y de Schaefer-Fuhrman gradúan la lesión de una estructura ya identificada. Ninguna fuente del proyecto los integra en un solo esquema.]
 
 ---
 
