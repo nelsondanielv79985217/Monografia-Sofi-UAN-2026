@@ -72,6 +72,11 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 - [Penetrating head & neck trauma: epidemiology](fuentes/trauma-penetrante-cabeza-cuello-epidemiologia-violencia.md) — Olding et al. (2019), Londres. **PARCIAL** (solo p. 133). (ingerido)
 - [Gymnastics-related head & neck trauma (NEISS)](fuentes/epidemiologia-lesiones-cabeza-cuello-gimnasia.md) — Abdou et al. (2024); mayoría pediátrica. (ingerido)
 
+### Agregadas el 2026-10-05 (2)
+
+- [Epidemiología del trauma en Bucaramanga (Quiroga-Centeno et al., 2022)](fuentes/epidemiologia-trauma-bucaramanga-registro-hus.md) — registro de trauma general del HUS; la región cabeza y cuello se lesiona en el 20.2 % de los pacientes. (ingerido)
+- [Traumatismos cervicales (Trouboul y De Gracia, Manual de Cirugía del Trauma, cap. 3)](fuentes/manual-cirugia-trauma-cap3-traumatismos-cervicales.md) — revisión con frecuencia, clasificación (criterios, zonas, estables o inestables) y manejo; la referencia está incompleta. (incierto)
+
 ### Agregadas el 2026-10-04 (3)
 
 - [Pharyngeal perforation with cervical spine injury after blunt trauma](fuentes/perforacion-faringea-lesion-columna-cervical-trauma-cerrado.md) — Wang et al. (2025). Reporte de caso. Es la única fuente específica de lesión faríngea traumática (3.3.1, 5.7). (ingerido)
@@ -151,4 +156,4 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 ## Texto completo (`texto/`)
 
-46 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.
+48 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.

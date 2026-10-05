@@ -113,3 +113,32 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Dejaron de citarse Olding, Kasbekar, Mohamed, Hadjizacharia, de Bakker y Noh, que volvieron al Anexo A. La lista de referencias se recalculó a partir de las citas del texto: quedan 25 obras.
 - Se eliminó un título vacío bajo "Objetivo general".
 - Archivo: `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-4.docx`.
+
+## [2026-10-05] ingest | Quiroga-Centeno et al. (2022) y Trouboul y De Gracia (cap. 3, Manual de Cirugía del Trauma)
+
+- La autora subió a `main` `2128_stamped.pdf` y `06.Capítulo 3.pdf`, que se trajeron con un merge.
+- Se generaron `texto/` con pdftotext por página y las dos fichas.
+- Quiroga-Centeno et al. (2022):
+  - la página impresa es la página PDF + 619;
+  - los metadatos se completaron desde Crossref; el fascículo no consta en el PDF ni en Crossref;
+  - el registro es de trauma general y agrupa cabeza y cuello.
+- Trouboul y De Gracia:
+  - la página impresa es la página PDF + 24;
+  - año, editor y editorial son inciertos y no se completaron desde la web, porque no hay un registro bibliográfico verificable.
+- Ficha de Isaza-Restrepo et al. (2020): se añadieron los datos de la Tabla 1 (p. 3), transcritos de la imagen de la página. Incluye un 87.9 % de hombres y un 85 % de heridas por arma blanca.
+
+## [2026-10-05] query | Borrador 5: 1.2 Epidemiología y 1.7 Clasificación
+
+- Se partió del borrador 4 editado por la autora.
+- En 1.2, la autora había escrito dos párrafos sin cita, con estilo de título. Se verificaron contra las fuentes y se reescribieron como texto con cita y página:
+  - "8 al 10 %" en Bogotá: la fuente dice 8 % en un solo hospital (Isaza-Restrepo et al., 2020, p. 2).
+  - "75 al 80 %" de hombres: es 87.9 % en el cuello en Bogotá y 78.1 % en el trauma general de Bucaramanga.
+  - "16 a 35 años": esto no está en las fuentes del proyecto; se usó la edad media de 29.22 años.
+  - "hasta 70 %" por arma blanca: no está en las fuentes; Isaza-Restrepo et al. dan un 85 %.
+- En 1.7 se añadió Trouboul y De Gracia:
+  - dos criterios de clasificación y cuatro grupos de estructuras (pp. 25–26);
+  - zonas de Roon, con la incidencia de la II y la mortalidad de la I (pp. 25–26);
+  - pacientes estables e inestables (p. 31);
+  - vía aérea laríngea y traqueal (p. 33).
+- Se restituyó la cita de la escala SLIC (Stahel et al., 2021, p. 552), que se había perdido en la edición, y se quitó una "x" suelta del título de 1.7.1.
+- Archivo: `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-5.docx`.

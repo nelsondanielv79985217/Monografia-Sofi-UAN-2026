@@ -50,6 +50,13 @@ Estudio colombiano de exactitud diagnóstica en un hospital de referencia de tra
 - Signos duros (criterio de exclusión) — vasculares: sangrado activo grave, hematoma en expansión, ausencia de pulso periférico, soplo arterial, frémito e hipotensión inexplicada; aerodigestivos: dificultad respiratoria, enfisema subcutáneo masivo, burbujeo de aire por la herida y hemoptisis masiva (p. 3).
 - Signos blandos — vasculares: sangrado mínimo, equimosis leve a moderada, "hypotension that responds to resuscitation, and murmur fluids"; aerodigestivos: disfonía, estridor, hemoptisis mínima, enfisema subcutáneo, odinofagia, disfagia y hematemesis (p. 3).
 - Muestra: mayoría hombres; edad media 29.22 años (SD: 11.92); las heridas más frecuentes fueron por arma blanca y afectaron principalmente la zona II (p. 4).
+- Tabla 1 (p. 3), transcrita el 2026-10-05 a partir de la imagen de la página. Sus datos no están en `texto/`, porque la tabla es una imagen:
+  - n = 207;
+  - edad media 29.22 años (DE 11.92);
+  - hombres 182 (87.9 %);
+  - heridas por arma blanca 176 (85 %), por arma de fuego 24 (11.6 %) y por escopeta 7 (3.4 %);
+  - zona I 61 (29.5 %), zona II 123 (59.4 %) y zona III 23 (11.1 %);
+  - signos blandos vasculares 118 (57 %), de la vía aérea 33 (15.9 %) y del tracto digestivo superior 44 (21.3 %).
 - 75 (36.2%) "asintomáticos" sin signos blandos (p. 1). Signos blandos vasculares en 118 (57%); sangrado mínimo 87 (42%); hematoma no expansivo 54 (26%) (p. 4).
 - Signos blandos de vía aérea 33 (15.9%) y de tracto gastrointestinal superior 44 (21.3%); el más frecuente fue enfisema subcutáneo, 29 (14.1%); hemoptisis 7 pacientes; estridor 4; disfagia 21 (10.1%); odinofagia 14 (6.8%) (p. 4).
 - 95 (45.9%) tuvieron el conjunto de estudios selectivos; endoscopia digestiva alta en 95, sin lesiones; una fibrobroncoscopia anormal con reparación de tráquea (p. 4).

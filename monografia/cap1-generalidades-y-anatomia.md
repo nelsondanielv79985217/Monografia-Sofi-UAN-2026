@@ -1,11 +1,11 @@
 ---
-title: "Capítulo 1. Generalidades y anatomía del trauma de cuello (secciones 1.1–1.6 y 1.8–1.10)"
+title: "Capítulo 1. Generalidades y anatomía del trauma de cuello (1.1–1.6 y 1.8–1.10)"
 type: borrador
-tags: [capitulo-1, definicion, epidemiologia, mecanismos, trauma-penetrante, trauma-cerrado, anatomia, zonas, estructuras]
+tags: [capitulo-1]
 last_updated: 2026-10-05
 ---
 
-<!-- Borrador 4: redacción en síntesis y extensión mínima, según sintesis/guia-de-redaccion-de-la-monografia.md. Las citas textuales de fuentes en inglés se presentan en traducción propia. Todas las cifras y páginas provienen de la versión verificada del borrador 3 (ver git log). La sección 1.7 está en cap1-1.7-clasificacion.md. -->
+<!-- Borrador 5. Texto exportado del Word de la autora (borrador 4 con sus ajustes) más las adiciones de Quiroga-Centeno et al. (2022) y Trouboul y De Gracia (s. f.). Citas textuales en inglés en traducción propia. -->
 
 # CAPÍTULO 1. GENERALIDADES Y ANATOMÍA DEL TRAUMA DE CUELLO
 
@@ -17,25 +17,25 @@ El trauma de cuello se define según el estado del músculo platisma. El trauma 
 
 ## 1.2 Epidemiología
 
-La frecuencia del trauma penetrante de cuello y su mortalidad varían según la población y el denominador que usa cada fuente, y la mayoría de las cifras proviene de la literatura que citan los autores (Tabla 2). En Colombia, la única cifra disponible es la de un hospital de Bogotá, donde el 8 % de los pacientes de trauma tenía una herida penetrante de cuello (Isaza-Restrepo et al., 2020, p. 2); no hay datos nacionales en las fuentes del proyecto.
+El trauma de cuello representa entre el 5 % y el 10 % de las consultas por trauma, con una mortalidad que oscila entre el 1 % y el 7 %, y las heridas penetrantes constituyen entre el 40 % y el 60 % de las consultas por trauma de cuello (Trouboul y De Gracia, s. f., p. 25).
 
-[[TABLA 2]]
+En Colombia, en un centro de referencia de Bogotá que atendía cerca de 2000 pacientes de trauma al año, el 8 % de los casos correspondió a heridas penetrantes de cuello (Isaza-Restrepo et al., 2020, p. 2). En esa serie predominó el sexo masculino, con el 87.9 % de los pacientes, y la edad media fue de 29.22 años (Isaza-Restrepo et al., 2020, p. 3). Un perfil similar se observó en el registro de trauma general del Hospital Universitario de Santander, en Bucaramanga, con el 78.1 % de hombres y una mediana de edad de 31 años; en ese registro, la región de cabeza y cuello se lesionó en el 20.2 % de los pacientes (Quiroga-Centeno et al., 2022, pp. 623–624).
 
-La proporción del trauma cerrado es contradictoria: para Qureshi et al. (2020) constituye la mayoría de las lesiones de cuello (p. 289), mientras que otros autores la sitúan en cerca del 5 % (Ahmad y Singh, 2024, p. 4770; Al-Thani et al., 2015, p. 154). En cuanto al perfil de los pacientes, predominan los hombres jóvenes, con el 88 % al 98 % de varones y edades medias de 31 años (Al-Thani et al., 2015, p. 155; Biffl et al., 1997, p. 678), y una razón hombre:mujer de 10:1 en Nueva Delhi (Ranwa et al., 2025, p. 198).
+En cuanto al mecanismo, el arma blanca es la causa más frecuente de las heridas penetrantes de cuello: en la serie de Bogotá produjo el 85 % de los casos, seguida del arma de fuego (11.6 %) y de la escopeta (3.4 %) (Isaza-Restrepo et al., 2020, p. 3). Las heridas por arma de fuego son más graves: entre el 35 % y el 50 % producen lesiones clínicamente significativas, frente al 10 %–20 % de las heridas por arma blanca (Loss et al., 2025, p. 1), y en el trauma general se asocian con una mortalidad significativamente mayor que la de los demás mecanismos (Quiroga-Centeno et al., 2022, p. 625).
 
 ## 1.3 Importancia clínica y quirúrgica
 
 La importancia clínica del trauma de cuello radica en que concentra, en un espacio reducido y con poca cobertura de tejidos blandos, estructuras de ocho sistemas corporales, entre ellas las vasculares, las aerodigestivas y las neurológicas (Nowicki et al., 2018, p. 6; Simpson et al., 2021, p. 1; Sperry et al., 2021, p. 522). Por ello, una herida pequeña puede atravesar la tráquea, el esófago y un vaso mayor con pocos signos clínicos inmediatos (Fogelman y Stewart, 1956, p. 581), y la hemorragia exsanguinante es la principal causa de muerte en el trauma penetrante de cuello (Krausz et al., 2015, p. 7).
 
-Su importancia quirúrgica se refleja en la evolución del manejo. La exploración obligatoria redujo la mortalidad de las heridas de cuello, pero con una alta tasa de exploraciones negativas (Loss et al., 2025, p. 1). Una revisión de 1991 encontró operaciones no terapéuticas en el 46.2 % de los pacientes explorados de forma obligatoria y una mortalidad menor con el manejo selectivo, del 3.7 % frente al 5.8 % (Sperry et al., 2021, p. 526). Este cambio se desarrolla en la sección 5.12.
+Su importancia quirúrgica se refleja en la evolución del manejo. La exploración obligatoria redujo la mortalidad de las heridas de cuello (Loss et al., 2025, p. 1).
 
 ## 1.4 Mecanismos de lesión
 
 Al planear el manejo, "el factor más crítico es si el mecanismo es cerrado o penetrante" (Qureshi et al., 2020, p. 289).
 
-**Mecanismos penetrantes.** La extensión de la lesión depende de la región afectada, de los órganos situados en el trayecto y de la velocidad del proyectil (American College of Surgeons [ACS], 2018, p. 15). Se distinguen las lesiones de baja energía, por arma blanca o proyectiles de baja velocidad, y las de alta energía, por proyectiles de fusil, que además causan cavitación de los tejidos y proyectiles secundarios (Kose, 2025, p. 397; Steenburg, 2021, p. 353). El arma blanca es el mecanismo más frecuente en la mayoría de las series (Biffl et al., 1997, p. 678; Nowicki et al., 2018, p. 6; Teixeira et al., 2016, p. 1), aunque en un hospital de Londres predominó la autolesión (Siau et al., 2013, p. 2125).
+**Mecanismos penetrantes.** La extensión de la lesión depende de la región afectada, de los órganos situados en el trayecto y de la velocidad del proyectil (American College of Surgeons [ACS], 2018, p. 15). Se distinguen las lesiones de baja energía, por arma blanca o proyectiles de baja velocidad, y las de alta energía, por proyectiles de fusil, que además causan cavitación de los tejidos y proyectiles secundarios (Kose, 2025, p. 397; Steenburg, 2021, p. 353). El arma blanca es el mecanismo más frecuente en la mayoría de las series (Biffl et al., 1997, p. 678; Nowicki et al., 2018, p. 6; Teixeira et al., 2016, p. 1)
 
-**Mecanismos cerrados.** Se deben sobre todo a colisiones vehiculares, caídas, deporte y agresiones, y el ahorcamiento y la estrangulación forman un subgrupo especial (ACS, 2018, p. 15; Qureshi et al., 2020, p. 289). El accidente de tránsito es la causa más común (Ahmad y Singh, 2024, p. 4772; Zakaria et al., 2019, p. 945). El mecanismo más común de la lesión contusa de la carótida interna es la hiperflexión o la hiperextensión cervical, que estira el vaso sobre los cuerpos de C1 a C3, y las fracturas del agujero transverso o la subluxación cervical lesionan la arteria vertebral (Sperry et al., 2021, p. 529). Por su posición relativamente desprotegida, la columna cervical es el segmento de la columna que más se lesiona (Sims y Reilly, 2021, p. 9).
+**Mecanismos cerrados.** Se deben sobre todo a colisiones vehiculares, caídas, deporte y agresiones, el ahorcamiento y la estrangulación forman un subgrupo especial (ACS, 2018, p. 15; Qureshi et al., 2020, p. 289). El accidente de tránsito es la causa más común (Ahmad y Singh, 2024, p. 4772; Zakaria et al., 2019, p. 945). El mecanismo más común de la lesión contusa de la carótida interna es la hiperflexión o la hiperextensión cervical, que estira el vaso sobre los cuerpos de C1 a C3, y las fracturas del agujero transverso o la subluxación cervical lesionan la arteria vertebral (Sperry et al., 2021, p. 529). Por su posición relativamente desprotegida, la columna cervical es el segmento de la columna que más se lesiona (Sims y Reilly, 2021, p. 9).
 
 ## 1.5 Trauma penetrante
 
@@ -47,19 +47,29 @@ Compromete con más frecuencia la columna cervical y la vía aérea laringotraqu
 
 La principal dificultad es la presentación engañosa: hasta un tercio de los pacientes con trauma laríngeo cerrado está asintomático en las primeras 24 a 48 horas (Zakaria et al., 2019, p. 943). De ahí la importancia del reconocimiento temprano, que en la lesión carotídea o vertebral reduce la probabilidad de un accidente cerebrovascular (ACS, 2018, p. 139).
 
+<!-- 1.7 en cap1-1.7-clasificacion.md -->
+
 ## 1.8 Anatomía quirúrgica del cuello
 
 El conocimiento de las referencias de superficie es esencial para evaluar las lesiones cervicales (Sperry et al., 2021, p. 521). El hioides se proyecta sobre la tercera vértebra cervical, el borde superior del cartílago tiroides sobre la cuarta y el cricoides sobre la sexta, a la altura de la unión de la faringe con el esófago (Sperry et al., 2021, p. 522).
 
 El esternocleidomastoideo divide cada lado del cuello en un triángulo anterior, que contiene los vasos, los nervios, la vía aérea, el esófago y las glándulas salivales, y uno posterior, con la columna y músculos (Krausz et al., 2015, pp. 4–5; Sperry et al., 2021, p. 522). Por encima de estas estructuras, el platisma "define el límite entre las estructuras superficiales y profundas del cuello" (Krausz et al., 2015, p. 4). Para la evaluación del trauma, el contenido cervical se agrupa en cinco grupos funcionales: vía aérea, grandes vasos, tracto gastrointestinal, nervios y huesos (Krausz et al., 2015, p. 4).
 
-Una variante anatómica tiene implicación clínica: el 80 % de las personas tiene un polígono de Willis funcionalmente incompleto, lo que reduce la circulación colateral ante una lesión carotídea o vertebral (Sperry et al., 2021, p. 529). Las fuentes no describen las fascias y los espacios profundos del cuello aplicados al trauma: esto no está en las fuentes del proyecto.
-
 ## 1.9 Zonas anatómicas del cuello
 
 Las zonas se aplican solo al cuello anterior (Siau et al., 2013, p. 2124) y difieren en contenido y en acceso quirúrgico (Tabla 5). La zona II es la más afectada: concentra entre el 38 % y el 67 % de las heridas según la literatura (Simpson et al., 2021, p. 2) y entre el 44 % y el 78 % en las series del proyecto (Al-Thani et al., 2015, p. 156; Biffl et al., 1997, p. 678; Teixeira et al., 2016, p. 3).
 
-[[TABLA 5]]
+**Tabla 5**
+
+*Límites, contenido y abordaje quirúrgico de las zonas del cuello según Sperry et al. (2021)*
+
+| Zona | Límites | Estructuras | Abordaje quirúrgico |
+|---|---|---|---|
+| I | Inferior a las clavículas y al manubrio esternal; abarca el opérculo torácico | Carótidas comunes proximales, arterias vertebrales, arterias subclavias extrapleurales, uniones yugulosubclavias, vena innominada izquierda, conducto torácico, tráquea, esófago, médula espinal, plexo braquial proximal y nervio vago | Esternotomía mediana con extensión cervical, toracotomía anterolateral alta o incisión supraclavicular con claviculotomía o resección parcial de la clavícula |
+| II | Entre el opérculo torácico y el ángulo de la mandíbula | Carótidas comunes y sus bifurcaciones, arterias vertebrales, venas yugulares internas, laringe y tráquea cervical, esófago cervical, médula espinal y nervios vago, accesorio e hipogloso | Incisión oblicua ipsilateral por el borde anterior del esternocleidomastoideo, o incisión cervical anterior alta (en collar) con extensiones oblicuas si las lesiones son bilaterales |
+| III | Entre el ángulo de la mandíbula y la base del cráneo | Carótidas internas, arterias vertebrales, venas yugulares internas, faringe, médula espinal y nervios facial, glosofaríngeo, vago, accesorio e hipogloso | Subluxación de la articulación temporomandibular con fijación interdental o mandibulotomía vertical de la rama |
+
+*Nota.* Adaptado de Sperry et al. (2021, p. 522).
 
 ### Zona I
 
@@ -74,8 +84,6 @@ Es la zona menos protegida (Ahmad y Singh, 2024, p. 4773) y la de acceso quirúr
 Es "difícil de evaluar clínicamente y de explorar quirúrgicamente", por lo que la imagen tiene un papel fundamental (Steenburg, 2021, p. 353), y sus lesiones arteriales suelen manejarse mejor con angiografía y embolización (Siau et al., 2013, p. 2127).
 
 ## 1.10 Estructuras cervicales susceptibles de lesión
-
-Corresponden a los sistemas descritos en la sección 1.8. Sus lesiones se desarrollan en el capítulo 3.
 
 ### Vasculares
 
@@ -100,31 +108,3 @@ Forma parte del sistema endocrino cervical, con su istmo sobre los anillos traqu
 ### Columna cervical
 
 Es el segmento de la columna que más se lesiona (Sims y Reilly, 2021, p. 9) y la segunda estructura más afectada en el trauma penetrante (Loss et al., 2025, p. 1), aunque en este las fracturas inestables son muy raras, salvo en las heridas de alta energía (Nowicki et al., 2018, p. 7). Su manejo se trata en las secciones 3.5 y 5.8.
-
-## Tablas
-
-### Tabla 2
-
-Frecuencia y mortalidad del trauma penetrante de cuello según la fuente
-
-| Fuente | Frecuencia (denominador tal como aparece en la fuente) | Mortalidad |
-|---|---|---|
-| Nowicki et al. (2018, p. 6) | 5 %–10 % de todos los casos de trauma | Hasta el 10 % |
-| Loss et al. (2025, pp. 1, 8) | Hasta el 10 % de todos los casos de trauma (lesiones aisladas de cuello) | Hasta el 10 % (p. 1); 3 %–6 % (p. 8) |
-| Simpson et al. (2021, p. 1) | Hasta el 1 % de todos los pacientes de trauma | 3 %–6 % |
-| Kose (2025, p. 395) | 1 %–10 % de las personas que consultan en el ámbito del trauma | 2 %–10 % |
-| Qureshi et al. (2020, p. 289) | 5 %–10 % de todo el trauma de cuello | No informa |
-| Borsetto et al. (2019, p. 2541) | 5 %–10 % de todos los casos de trauma | 2 %–10 % |
-| Isaza-Restrepo et al. (2020, p. 2) | 8 % de los pacientes de trauma de un hospital de Bogotá | 10 %–15 % |
-
-### Tabla 5
-
-Límites, contenido y abordaje quirúrgico de las zonas del cuello según Sperry et al. (2021)
-
-| Zona | Límites | Estructuras | Abordaje quirúrgico |
-|---|---|---|---|
-| I | Inferior a las clavículas y al manubrio esternal; abarca el opérculo torácico | Carótidas comunes proximales, arterias vertebrales, arterias subclavias extrapleurales, uniones yugulosubclavias, vena innominada izquierda, conducto torácico, tráquea, esófago, médula espinal, plexo braquial proximal y nervio vago | Esternotomía mediana con extensión cervical, toracotomía anterolateral alta o incisión supraclavicular con claviculotomía o resección parcial de la clavícula |
-| II | Entre el opérculo torácico y el ángulo de la mandíbula | Carótidas comunes y sus bifurcaciones, arterias vertebrales, venas yugulares internas, laringe y tráquea cervical, esófago cervical, médula espinal y nervios vago, accesorio e hipogloso | Incisión oblicua ipsilateral por el borde anterior del esternocleidomastoideo, o incisión cervical anterior alta (en collar) con extensiones oblicuas si las lesiones son bilaterales |
-| III | Entre el ángulo de la mandíbula y la base del cráneo | Carótidas internas, arterias vertebrales, venas yugulares internas, faringe, médula espinal y nervios facial, glosofaríngeo, vago, accesorio e hipogloso | Subluxación de la articulación temporomandibular con fijación interdental o mandibulotomía vertical de la rama |
-
-Nota. Adaptado de Sperry et al. (2021, p. 522).

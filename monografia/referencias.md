@@ -75,6 +75,8 @@ Nowicki, J. L., Stew, B. y Ooi, E. (2018). Penetrating neck injuries: A guide to
 
 Olding, J., Olding, C., Bew, D. y Fan, K. (2019). Penetrating head & neck trauma – Epidemiology and injury characteristics in terror-related violence, interpersonal violence and deliberate self-harm at a level 1 trauma centre. *The Surgeon, 17*(3), 133–138. https://doi.org/10.1016/j.surge.2019.01.001
 
+Quiroga-Centeno, A. C., Serrano-Pastrana, J. P., Neira-Triana, K. A., Valencia-Ángel, L. I., Jaimes-Sanabria, M. Z., Quiroga-Centeno, C. A. y Gómez-Ochoa, S. A. (2022). Epidemiología del trauma en Bucaramanga, Colombia: Análisis del registro institucional de trauma en el Hospital Universitario de Santander. *Revista Colombiana de Cirugía, 37*, 620–631. https://doi.org/10.30944/20117582.2128
+
 Qureshi, M., Patel, K. y Simon, R. (2020). Neck level algorithmic approach to trauma. *Operative Techniques in Otolaryngology–Head and Neck Surgery, 31*(4), 289–294. https://doi.org/10.1016/j.otot.2020.10.005
 
 Raghunathan, N., Thangavel, S., Kalyanasundaram, A., Ganesan, S. y Saxena, S. K. (2022). How can we manage penetrating neck injury with blunt carotid injury and spinal injury: Case report and review of literature. *Indian Journal of Otolaryngology and Head & Neck Surgery, 74*(Supl. 3), S5817–S5822. https://doi.org/10.1007/s12070-021-02415-0
@@ -102,6 +104,8 @@ Steenburg, S. D. (2021). Diagnostic and interventional radiology. En D. V. Felic
 Teixeira, F., Menegozzo, C. A. M., Couto Netto, S. D. do, Poggeti, R. S., Collet e Silva, F. de S., Birolini, D., Bernini, C. de O. y Utiyama, E. M. (2016). Safety in selective surgical exploration in penetrating neck trauma. *World Journal of Emergency Surgery, 11*(1), Artículo 32. https://doi.org/10.1186/s13017-016-0091-4
 
 Van der Cruyssen, F., Forrest, M., Holmes, S. y Bhatti, N. (2025). A systematic review and meta-analysis of fracture-related infections in maxillofacial trauma: Incidence, risk factors, and management strategies. *Journal of Clinical Medicine, 14*(4), Artículo 1332. https://doi.org/10.3390/jcm14041332
+
+Trouboul, F. y De Gracia, A. (s. f.). Traumatismos cervicales. En *Manual de cirugía del trauma* (pp. 25–36). [INCIERTO: el PDF no indica año, editor ni editorial.]
 
 Wang, Y., Wang, D., Chen, T. y Zhu, X. (2025). Management of pharyngeal perforation with cervical spine injury following blunt trauma on electric vehicle accident. *American Journal of Case Reports, 26*, Artículo e947274. https://doi.org/10.12659/AJCR.947274
 
