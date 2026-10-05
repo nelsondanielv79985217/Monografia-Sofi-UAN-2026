@@ -93,3 +93,13 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Tablas renumeradas en orden de aparición: las de 1.7 pasan a ser las Tablas 3 y 4.
 - Vacíos declarados: no hay datos de lesión de la glándula tiroides ni una descripción de fascias y espacios profundos del cuello. Laher et al. (2023) no se cita hasta resolver su paginación.
 - Borrador 3 en Word, a partir del borrador 2 de la autora: `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-3.docx`.
+
+## [2026-10-05] ingest | Ejemplo de redacción sugerido (Monografía: Sepsis)
+
+- La autora subió a `main` el archivo `Ejemplo de redaccion sugerido.pdf` (26 pp.), una monografía de sepsis de la UAN, para que sirva de modelo de redacción. Se trajo a la rama con un merge de `main`.
+- Nuevos archivos:
+  - `texto/ejemplo-redaccion-sugerido-monografia-sepsis.md`, generado con pdftotext por página. Las tablas en imagen (pp. 8, 13, 17, 22 y 26) no se transcribieron porque tesseract no está instalado.
+  - `fuentes/ejemplo-redaccion-sugerido-monografia-sepsis.md` (type: metodo; no se cita).
+  - `sintesis/guia-de-redaccion-de-la-monografia.md`, que separa lo que se adopta del modelo de lo que no se copia, con un ejemplo de reescritura del primer párrafo de 1.3.
+- `CLAUDE.md`: la sección de borradores remite a la nueva guía de redacción.
+- Pendiente de la autora: decidir entre texto justificado y alineado a la izquierda, y si se reescribe el capítulo 1 con este estilo.

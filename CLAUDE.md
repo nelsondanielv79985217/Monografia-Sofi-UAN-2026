@@ -36,6 +36,14 @@ Este repo es la base bibliográfica de la monografía **"Trauma de cuello"** (UA
 
 Los textos redactados de la monografía van en `monografia/`, un archivo por sección (`00-introduccion.md`, `00-metodologia.md`, `cap1-1.7-clasificacion.md`…). Llevan front matter `type: borrador`. Cada cita debe estar verificada en `wiki/texto/`. Los vacíos se marcan `[PENDIENTE DE LA AUTORA: …]` y las opiniones propias `[NOTA DE LA AUTORA: …]`. En citas y referencias se usa "y" entre autores (ejemplos de la guía APA en español, pp. 40, 48–49), aunque las fichas usen "&".
 
+**Estilo de redacción (decisión de la autora, 2026-10-05):** se sigue como modelo `Ejemplo de redaccion sugerido.pdf`, con las adaptaciones de `wiki/sintesis/guia-de-redaccion-de-la-monografia.md`:
+- párrafo temático que sintetiza las fuentes, en vez de un inventario de autores;
+- cita parentética agrupada con página;
+- conectores de consecuencia;
+- párrafo de cierre por sección, citado o marcado como nota de la autora.
+
+Del modelo no se copian las citas sin página, las referencias de PubMed, las tablas en imagen ni los párrafos sin cita. Las citas textuales de fuentes en otro idioma se traducen al español (traducción propia), pendiente de validación del director(a).
+
 ## Arquitectura de 3 capas (no mezclar)
 
 1. **Fuentes crudas** — los PDFs/DOCX de la raíz del repo. **Inmutables**: se leen, nunca se editan, mueven ni borran sin pedido explícito del usuario.

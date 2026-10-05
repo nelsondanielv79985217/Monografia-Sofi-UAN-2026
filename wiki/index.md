@@ -6,6 +6,7 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 ## Síntesis (`sintesis/`)
 
+- [Guía de redacción de la monografía](sintesis/guia-de-redaccion-de-la-monografia.md) — pautas de estilo tomadas del ejemplo sugerido por la autora, adaptadas a APA 7 y a las reglas de fidelidad. (ingerido)
 - [Estructura de la monografía y mapa fuentes ↔ secciones](sintesis/estructura-de-la-monografia.md) — Transcripción literal de `Estructura del trabajo.docx` y tabla de qué fichas aportan a cada sección. (ingerido)
 - [Contradicciones entre fuentes y vacíos del corpus](sintesis/contradicciones-y-vacios.md) — Decisiones del usuario (numeración, ATLS en español), PDFs incompletos, desacuerdos clínicos y temas sin fuente. (incierto)
 
@@ -84,6 +85,7 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 ## Método (`fuentes/`, type: metodo)
 
 - [Metodología de la investigación (Hernández Sampieri, 6.ª ed.)](fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) — Revisión de literatura, marco teórico y estructura del reporte. (ingerido)
+- [Ejemplo de redacción sugerido (Monografía: Sepsis)](fuentes/ejemplo-redaccion-sugerido-monografia-sepsis.md) — modelo de estilo propuesto por la autora; no se cita. (ingerido)
 - [Guía Normas APA 7.ª edición](fuentes/guia-normas-apa-7-edicion.md) — Guía no oficial (normas-apa.org), sin autor ni año. (incierto)
 
 ## Conceptos (`conceptos/`)
@@ -149,4 +151,4 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 ## Texto completo (`texto/`)
 
-45 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.
+46 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.
