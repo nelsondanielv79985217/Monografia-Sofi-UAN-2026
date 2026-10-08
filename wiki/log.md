@@ -148,3 +148,6 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 - Los borradores 2, 3 y 4 son idénticos (md5) a las versiones que la autora ya había enviado y que se procesaron en los borradores 3, 4 y 5.
 - El borrador 1 es la versión editada por la autora (nombre, facultad, universidad e índice). Esos datos de portada ya están en los borradores posteriores.
 - El borrador vigente sigue siendo `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-5.docx`. No se modificó la wiki.
+
+## [2026-10-08] setup | Borradores movidos a `borradores/`
+- A pedido de la autora, `Monografia-trauma-de-cuello-borrador-1.docx` a `borrador-4.docx` se movieron de la raíz a `borradores/`, sin modificar su contenido. Las fuentes (PDF, RIS y `Estructura del trabajo.docx`) siguen en la raíz.
