@@ -2,7 +2,7 @@
 title: "Referencias (lista maestra)"
 type: borrador
 tags: [referencias, apa7]
-last_updated: 2026-10-04
+last_updated: 2026-10-08
 ---
 
 # Referencias
@@ -13,7 +13,7 @@ Notas de uso:
 
 - En la versión final solo deben quedar las obras citadas en el texto. Esta lista tiene más entradas de las que se citarán.
 - No se incluyen el manual ATLS en inglés (decisión del usuario: se cita el manual en español) ni la guía de normas APA del repositorio (es una herramienta de formato, no tiene autor ni año identificables).
-- Del libro *Trauma* (9.ª ed.) se citan capítulos, no el libro completo. Aquí están el capítulo 25, su comentario endovascular y los capítulos 19 y 26, que ya se citan en los borradores. Los demás capítulos disponibles están en la tabla de `wiki/fuentes/trauma-9th-edition-feliciano.md`; se agregan cuando se citen.
+- Del libro *Trauma* (9.ª ed.) se citan capítulos, no el libro completo. Aquí están el capítulo 25, su comentario endovascular y los capítulos 19, 26 y 29, que ya se citan en los borradores. Los demás capítulos disponibles están en la tabla de `wiki/fuentes/trauma-9th-edition-feliciano.md`; se agregan cuando se citen.
 - Las marcas `[INCIERTO: …]` deben resolverse antes de la entrega.
 - [PENDIENTE DE LA AUTORA: aplicar sangría francesa de 1.27 cm al pasar esta lista al documento final; Markdown no la representa.]
 
@@ -38,6 +38,8 @@ Cohnert, T. U., Koter, S., Schweiger, S., Fruhmann, J., Konstantiniuk, P. y Baum
 de Bakker, H. M., Warmbrunn, M. V., van den Biggelaar, P., Soerdjbalie-Maikoe, V. y de Bakker, B. S. (2020). Fracture patterns of the hyoid-larynx complex after fatal trauma on the neck: Retrospective radiological postmortem analysis of 284 cases. *International Journal of Legal Medicine, 134*(4), 1465–1473. https://doi.org/10.1007/s00414-019-02241-8
 
 DuBose, J. J. (2021). Endovascular commentary to chapter 25: Neck and larynx. En D. V. Feliciano, K. L. Mattox y E. E. Moore (Eds.), *Trauma* (9.ª ed., pp. 542–543). McGraw Hill.
+
+DuBose, J. J., Scalea, T. M. y O'Connor, J. V. (2021). Trachea, bronchi, and esophagus. En D. V. Feliciano, K. L. Mattox y E. E. Moore (Eds.), *Trauma* (9.ª ed., pp. 589–598). McGraw Hill.
 
 Fogelman, M. J. y Stewart, R. D. (1956). Penetrating wounds of the neck. *The American Journal of Surgery, 91*(4), 581–596. https://doi.org/10.1016/0002-9610(56)90289-6
 
