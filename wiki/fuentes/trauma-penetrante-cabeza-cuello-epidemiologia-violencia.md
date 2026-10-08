@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Olding, J., Olding, C., Bew, D., & Fan, K. (2019). Penetrating head & neck trauma – Epidemiology and injury characteristics in terror-related violence, interpersonal violence and deliberate self-harm at a level 1 trauma centre. *The Surgeon, 17*, 133–138. https://doi.org/10.1016/j.surge.2019.01.001 [INCIERTO: número del fascículo no figura en el PDF]
+Olding, J., Olding, C., Bew, D., & Fan, K. (2019). Penetrating head & neck trauma – Epidemiology and injury characteristics in terror-related violence, interpersonal violence and deliberate self-harm at a level 1 trauma centre. *The Surgeon, 17*(3), 133–138. https://doi.org/10.1016/j.surge.2019.01.001
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 3. Volumen y páginas coinciden con el PDF.
 - Datos en p. PDF 1 (p. 133): encabezado "the surgeon 17 (2019) 133e138" (la "e" es un guion mal codificado; igual en el título "trauma e Epidemiology"), autores y afiliaciones (King's College Hospital, Londres), DOI, ISSN 1479-666X. Historia: recibido 14 de noviembre de 2018, aceptado 21 de enero de 2019, disponible en línea 23 de febrero de 2019.
 
 Cita en texto modelo: (Olding et al., 2019, p. 133).

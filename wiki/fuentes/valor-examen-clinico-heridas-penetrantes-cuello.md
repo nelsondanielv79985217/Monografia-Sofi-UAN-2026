@@ -12,11 +12,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J., & Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*, Article 17. https://doi.org/10.1186/s12873-020-00311-4
+Isaza-Restrepo, A., Quintero-Contreras, J. A., Escobar-DiazGranados, J., & Ruiz-Sternberg, Á. M. (2020). Value of clinical examination in the assessment of penetrating neck injuries: A retrospective study of diagnostic accuracy test. *BMC Emergency Medicine, 20*(1), Article 17. https://doi.org/10.1186/s12873-020-00311-4
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y número de artículo coinciden con el PDF.
 - p. PDF 1 ("Page 1 of 8" implícita; encabezado "Isaza-Restrepo et al. BMC Emergency Medicine (2020) 20:17"): título, autores, DOI, afiliaciones (Escuela de Medicina y Ciencias de la Salud, Grupo de Investigación Clínica, Universidad del Rosario, Bogotá; Méderi Hospital Universitario Mayor, Bogotá; Hospital Emiro Quintero Cañizares, Ocaña — esta última en p. 7), licencia CC BY 4.0.
 - Recibido 23 julio 2019; aceptado 14 febrero 2020 (p. 7).
-- [INCIERTO: número de fascículo no figura en el PDF; la revista usa número de artículo (17).]
+- [RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: número de fascículo no figura en el PDF; la revista usa número de artículo (17).]
 
 Cita en texto modelo: (Isaza-Restrepo et al., 2020, p. 5).
 
@@ -49,6 +50,13 @@ Estudio colombiano de exactitud diagnóstica en un hospital de referencia de tra
 - Signos duros (criterio de exclusión) — vasculares: sangrado activo grave, hematoma en expansión, ausencia de pulso periférico, soplo arterial, frémito e hipotensión inexplicada; aerodigestivos: dificultad respiratoria, enfisema subcutáneo masivo, burbujeo de aire por la herida y hemoptisis masiva (p. 3).
 - Signos blandos — vasculares: sangrado mínimo, equimosis leve a moderada, "hypotension that responds to resuscitation, and murmur fluids"; aerodigestivos: disfonía, estridor, hemoptisis mínima, enfisema subcutáneo, odinofagia, disfagia y hematemesis (p. 3).
 - Muestra: mayoría hombres; edad media 29.22 años (SD: 11.92); las heridas más frecuentes fueron por arma blanca y afectaron principalmente la zona II (p. 4).
+- Tabla 1 (p. 3), transcrita el 2026-10-05 a partir de la imagen de la página. Sus datos no están en `texto/`, porque la tabla es una imagen:
+  - n = 207;
+  - edad media 29.22 años (DE 11.92);
+  - hombres 182 (87.9 %);
+  - heridas por arma blanca 176 (85 %), por arma de fuego 24 (11.6 %) y por escopeta 7 (3.4 %);
+  - zona I 61 (29.5 %), zona II 123 (59.4 %) y zona III 23 (11.1 %);
+  - signos blandos vasculares 118 (57 %), de la vía aérea 33 (15.9 %) y del tracto digestivo superior 44 (21.3 %).
 - 75 (36.2%) "asintomáticos" sin signos blandos (p. 1). Signos blandos vasculares en 118 (57%); sangrado mínimo 87 (42%); hematoma no expansivo 54 (26%) (p. 4).
 - Signos blandos de vía aérea 33 (15.9%) y de tracto gastrointestinal superior 44 (21.3%); el más frecuente fue enfisema subcutáneo, 29 (14.1%); hemoptisis 7 pacientes; estridor 4; disfagia 21 (10.1%); odinofagia 14 (6.8%) (p. 4).
 - 95 (45.9%) tuvieron el conjunto de estudios selectivos; endoscopia digestiva alta en 95, sin lesiones; una fibrobroncoscopia anormal con reparación de tráquea (p. 4).

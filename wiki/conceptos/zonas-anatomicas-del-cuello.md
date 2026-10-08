@@ -48,7 +48,7 @@ Definición más repetida en el corpus (con variaciones de redacción; ver discr
 - Simpson et al. (2021, p. 2), citando literatura: zona 2 (38–67 %), zona 3 (16–19 %), zona 1 (13–18 %).
 - Al-Thani et al. (2015, p. 156): zona I 7 (14), zona II 39 (78), zona III 2 (4), múltiples 2 (4); "La mayoría de estudios" ubican las lesiones en zona II (50-80 %) (p. 157).
 - Ranwa et al. (2025, p. 197), Tabla 4: zona I 21 (13.5 %), zona II 126 (80.8 %), zona III 03 (1.9 %), múltiples 06 (3.8 %); los autores lo explican por menos lesiones balísticas de alta velocidad y por la protección anatómica de las zonas I y III (pp. 200–201) — [ficha](../fuentes/analisis-patrones-trauma-cuello-desenlaces.md). `status: incierto`.
-- Laher et al. (2023, p. 166): zona 1 = 35 (24.1 %); zona 2 = 79 (54.1 %); zona 3 = 10 (6.8 %); múltiple = 21 (14.4 %) — [ficha](../fuentes/exploracion-quirurgica-heridas-penetrantes-cuello.md).
+- Laher et al. (2023, p. 18): zona 1 = 35 (24.1 %); zona 2 = 79 (54.1 %); zona 3 = 10 (6.8 %); múltiple = 21 (14.4 %) — [ficha](../fuentes/exploracion-quirurgica-heridas-penetrantes-cuello.md).
 - Teixeira et al. (2016, p. 3), Tabla 1: zona I 53 (33 %), zona II 71 (44 %), zona III 37 (23 %).
 - Borsetto et al. (2019, p. 2543), Tabla 3: I 5 (7.5); II 35 (52.2); III 5 (7.5); I y II 11 (16.4); II y III 8 (11.9); I, II y III 3 (4.5) — [ficha](../fuentes/trauma-penetrante-cuello-predictores-radiologicos-lesion-vascular.md). `status: incierto`.
 - Cohnert et al. (2011, p. 383): zona II en 14, zona I en 2, zonas I y II en 1.

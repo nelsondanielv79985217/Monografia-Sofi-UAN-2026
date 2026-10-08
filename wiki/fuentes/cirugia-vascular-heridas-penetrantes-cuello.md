@@ -14,8 +14,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Cohnert, T. U., Koter, S., Schweiger, S., Fruhmann, J., Konstantiniuk, P., & Baumann, A. (2011). Vascular surgery for penetrating injury of the neck. *European Surgery*[INCIERTO: el PDF solo muestra la abreviatura "Eur Surg"]*, 43*(6), 382–386. https://doi.org/10.1007/s10353-011-0045-8
+Cohnert, T. U., Koter, S., Schweiger, S., Fruhmann, J., Konstantiniuk, P., & Baumann, A. (2011). Vascular surgery for penetrating injury of the neck. *European Surgery, 43*(6), 382–386. https://doi.org/10.1007/s10353-011-0045-8
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): nombre completo de la revista (*European Surgery*), que resuelve el [INCIERTO] anterior. Volumen, número y páginas coinciden con el PDF.
 - p. PDF 1 (= p. 382): "Eur Surg (2011) 43/6: 382–386", "DOI 10.1007/s10353-011-0045-8", título, autores y afiliación (Division of Vascular Surgery, Department of Surgery, Medical University Graz, Graz, Austria); recibido 19 sept. 2011, aceptado 22 sept. 2011.
 - Pies de página "382 Eur Surg 6/2011" … "386 Eur Surg 6/2011" confirman volumen/número 43/6 y paginación.
 

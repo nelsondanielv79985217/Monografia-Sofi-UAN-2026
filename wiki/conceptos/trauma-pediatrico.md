@@ -39,7 +39,7 @@ La edad de corte varía: "17 años o menos" en Sarathy et al. (2024, p. 2); "≤
 
 ## Vacíos
 
-- **No hay en el proyecto una serie de trauma penetrante de cuello en niños.** Las series clínicas de trauma penetrante excluyen a los menores: < 18 años (Laher et al., 2023, p. 165), < 16 años (Kasbekar et al., 2017, p. 9), ≤ 14 años (Ranwa et al., 2025, p. 194), 14–65 años (Isaza-Restrepo et al., 2020, p. 2), sin niños (Borsetto et al., 2019, p. 2543). Sarathy et al. citan en su bibliografía un artículo titulado "Penetrating neck trauma in children: an uncommon entity", que no está en el repositorio. Esto no está en las fuentes del proyecto.
+- **No hay en el proyecto una serie de trauma penetrante de cuello en niños.** Las series clínicas de trauma penetrante excluyen a los menores: < 18 años (Laher et al., 2023, p. 17), < 16 años (Kasbekar et al., 2017, p. 9), ≤ 14 años (Ranwa et al., 2025, p. 194), 14–65 años (Isaza-Restrepo et al., 2020, p. 2), sin niños (Borsetto et al., 2019, p. 2543). Sarathy et al. citan en su bibliografía un artículo titulado "Penetrating neck trauma in children: an uncommon entity", que no está en el repositorio. Esto no está en las fuentes del proyecto.
 - No hay datos pediátricos colombianos ni latinoamericanos.
 - Las cifras de Sarathy et al. (2024) y Abdou et al. (2024) agrupan cabeza, cara y cuello; no hay cifras separadas del cuello salvo los 58 casos de Abdou et al. (2024, p. 88).
 - No hay en el corpus recomendaciones específicas para niños sobre zonas del cuello, signos duros/blandos, manejo selectivo ni exploración quirúrgica cervical.

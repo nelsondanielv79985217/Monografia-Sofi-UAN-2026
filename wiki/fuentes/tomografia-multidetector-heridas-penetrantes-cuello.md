@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Munera, F., Danton, G., Rivas, L. A., Henry, R. P., & Ferrari, M. G. (2009). Multidetector row computed tomography in the management of penetrating neck injuries. *Seminars in Ultrasound, CT and MRI*[INCIERTO: el PDF solo muestra la abreviatura "Semin Ultrasound CT MRI"]*, 30*[INCIERTO: número del fascículo no figura en el PDF], 195–204. https://doi.org/10.1053/j.sult.2009.02.004
+Munera, F., Danton, G., Rivas, L. A., Henry, R. P., & Ferrari, M. G. (2009). Multidetector row computed tomography in the management of penetrating neck injuries. *Seminars in Ultrasound, CT and MRI, 30*(3), 195–204. https://doi.org/10.1053/j.sult.2009.02.004
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): nombre completo de la revista y número 3. Volumen y páginas coinciden con el PDF.
 - Todos los datos en la p. PDF 1 (= p. 195 impresa): autores (p. 195, bajo el título); afiliación (Department of Radiology, Jackson Memorial Hospital/Ryder Trauma Center, University of Miami, Miller School of Medicine, Miami, FL); línea de cita al pie del resumen ("Semin Ultrasound CT MRI 30:195-204 © 2009 Elsevier Inc."); DOI ("doi:10.1053/j.sult.2009.02.004"); número de página "195" al pie.
 
 Cita en texto modelo: (Munera et al., 2009, p. 195).

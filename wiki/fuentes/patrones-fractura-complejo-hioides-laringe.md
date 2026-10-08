@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-de Bakker, H. M., Warmbrunn, M. V., van den Biggelaar, P., Soerdjbalie-Maikoe, V., & de Bakker, B. S. (2020). Fracture patterns of the hyoid-larynx complex after fatal trauma on the neck: Retrospective radiological postmortem analysis of 284 cases. *International Journal of Legal Medicine, 134*[INCIERTO: número del fascículo no figura en el PDF], 1465–1473. https://doi.org/10.1007/s00414-019-02241-8
+de Bakker, H. M., Warmbrunn, M. V., van den Biggelaar, P., Soerdjbalie-Maikoe, V., & de Bakker, B. S. (2020). Fracture patterns of the hyoid-larynx complex after fatal trauma on the neck: Retrospective radiological postmortem analysis of 284 cases. *International Journal of Legal Medicine, 134*(4), 1465–1473. https://doi.org/10.1007/s00414-019-02241-8
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 4. Volumen y páginas coinciden con el PDF.
 - Título, autores, revista, año, volumen, páginas y DOI: encabezado de p. PDF 1 (p. 1465): "International Journal of Legal Medicine (2020) 134:1465–1473".
 - Recibido 15 July 2019; aceptado 12 December 2019; publicado en línea 7 January 2020 (p. 1465). H. M. de Bakker y M. V. Warmbrunn "shared first authors" (p. 1465).
 - Afiliaciones: Groene Hart Hospital (Gouda), Amsterdam UMC (University of Amsterdam), Netherlands Forensic Institute (p. 1465).

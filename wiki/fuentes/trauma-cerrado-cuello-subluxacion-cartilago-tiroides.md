@@ -12,10 +12,11 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Ahmad, Z., & Singh, K. (2024). Blunt trauma neck with thyroid cartilage subluxation with no external sign. *Indian Journal of Otolaryngology and Head & Neck Surgery, 76*, 4770–4775. https://doi.org/10.1007/s12070-024-04841-2
+Ahmad, Z., & Singh, K. (2024). Blunt trauma neck with thyroid cartilage subluxation with no external sign. *Indian Journal of Otolaryngology and Head & Neck Surgery, 76*(5), 4770–4775. https://doi.org/10.1007/s12070-024-04841-2
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 5. Volumen y páginas coinciden con el PDF.
 - Datos de la p. PDF 1 (impresa 4770): encabezado "Indian Journal of Otolaryngology and Head & Neck Surgery (2024) 76:4770–4775", DOI, tipo "CLINICAL REPORT", título, autores Zeeshan Ahmad y Kriti Singh (Moti Lal Nehru Medical College, Prayagraj, Uttar Pradesh, India). Recibido 16 feb. 2024, aceptado 23 jun. 2024, publicado en línea 9 jul. 2024. "© The Author(s) 2024", licencia Creative Commons Attribution 4.0 (p. 4775).
-- Número (issue): `[INCIERTO: no figura en el PDF]`.
+- Número (issue): `[RESUELTO con Crossref, ver la viñeta "Metadatos completados"; antes INCIERTO: no figura en el PDF]`.
 - Cita en texto modelo: (Ahmad & Singh, 2024, p. 4774).
 
 ## Cobertura del PDF

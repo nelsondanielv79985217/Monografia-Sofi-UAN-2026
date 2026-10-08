@@ -14,8 +14,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Fogelman, M. J., & Stewart, R. D. (1956). Penetrating wounds of the neck. *American Journal of Surgery, 91*[INCIERTO: el texto extraído dice "Volume 9r"; 91 es la lectura probable, verificar en el PDF], 581–[INCIERTO: página final no figura en el PDF]. [INCIERTO: número y DOI no figuran en el PDF]
+Fogelman, M. J., & Stewart, R. D. (1956). Penetrating wounds of the neck. *The American Journal of Surgery, 91*(4), 581–596. https://doi.org/10.1016/0002-9610(56)90289-6
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 4, página final 596 y DOI 10.1016/0002-9610(56)90289-6 (localizado por título, autores y año). Crossref confirma el volumen 91, lo que resuelve la lectura dudosa "Volume 9r" del PDF. El PDF sigue conteniendo solo la p. 581.
 - Datos en p. PDF 1: autores "MORRIS J. FOGELMAN, M.D. AND ROBERT D. STEWART, M.D." (el segundo con un sufijo ilegible "D&U"), afiliación "Department of Surgery, University of Texas Southwestern Medical School, Dallas, Texas"; pie: "American Journal of Surgery, Volume 9r, April, 1956"; número de página impreso "581".
 
 Cita en texto modelo: (Fogelman & Stewart, 1956, p. 581).

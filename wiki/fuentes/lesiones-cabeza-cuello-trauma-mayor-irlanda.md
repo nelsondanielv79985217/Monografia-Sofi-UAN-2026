@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Mohamed, A., Mulcaire, J., & Clover, A. J. P. (2021). Head and neck injury in major trauma in Ireland: a multicentre retrospective analysis of patterns and surgical workload. *Irish Journal of Medical Science*, *190*[INCIERTO: número de fascículo no figura en el PDF], 395–401. https://doi.org/10.1007/s11845-020-02304-5
+Mohamed, A., Mulcaire, J., & Clover, A. J. P. (2021). Head and neck injury in major trauma in Ireland: a multicentre retrospective analysis of patterns and surgical workload. *Irish Journal of Medical Science, 190*(1), 395–401. https://doi.org/10.1007/s11845-020-02304-5
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1. Volumen y páginas coinciden con el PDF. Crossref fecha el registro en 2020 (publicación en línea); se conserva el año 2021 tomado del PDF.
 - Datos de la p. PDF 1 (= p. 395): "Irish Journal of Medical Science (1971 -) (2021) 190:395–401", DOI, autores "Abdulrahman Mohamed, Jeffrey Mulcaire & Anthony James P. Clover", "Received: 3 June 2020 / Accepted: 2 July 2020 / Published online: 9 July 2020".
 - Cita en texto modelo: (Mohamed et al., 2021, p. 397).
 

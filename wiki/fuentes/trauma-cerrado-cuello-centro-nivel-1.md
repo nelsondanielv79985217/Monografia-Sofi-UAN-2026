@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Zakaria, B. A., Muzaffar, J., Orr, L. E., Coulson, C. J., & Sharma, N. (2019). Blunt neck trauma at a level I trauma centre: Six-year retrospective case note review. *The Journal of Laryngology & Otology, 133*, 943–947. https://doi.org/10.1017/S0022215119001993 [INCIERTO: número del fascículo no figura en el PDF]
+Zakaria, B. A., Muzaffar, J., Orr, L. E., Coulson, C. J., & Sharma, N. (2019). Blunt neck trauma at a level I trauma centre: Six-year retrospective case note review. *The Journal of Laryngology & Otology, 133*(11), 943–947. https://doi.org/10.1017/S0022215119001993
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 11. Volumen y páginas coinciden con el PDF.
 - Datos en p. PDF 1 (p. 943): recuadro "Cite this article: ... J Laryngol Otol 2019;133:943–947", DOI, autores y afiliaciones (University of Birmingham; University of Cambridge; Royal Centre for Defence Medicine; University Hospitals Birmingham), aceptado 30 de julio de 2019, primera publicación en línea 14 de octubre de 2019. El nombre "The Journal of Laryngology & Otology" figura en el encabezado de pp. 945 y 947.
 - Presentado en la British Academic Conference in Otolaryngology, 4–6 de julio de 2018, Manchester (p. 943).
 

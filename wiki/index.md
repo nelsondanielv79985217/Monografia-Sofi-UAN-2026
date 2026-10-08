@@ -6,6 +6,7 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 ## Síntesis (`sintesis/`)
 
+- [Guía de redacción de la monografía](sintesis/guia-de-redaccion-de-la-monografia.md) — pautas de estilo tomadas del ejemplo sugerido por la autora, adaptadas a APA 7 y a las reglas de fidelidad. (ingerido)
 - [Estructura de la monografía y mapa fuentes ↔ secciones](sintesis/estructura-de-la-monografia.md) — Transcripción literal de `Estructura del trabajo.docx` y tabla de qué fichas aportan a cada sección. (ingerido)
 - [Contradicciones entre fuentes y vacíos del corpus](sintesis/contradicciones-y-vacios.md) — Decisiones del usuario (numeración, ATLS en español), PDFs incompletos, desacuerdos clínicos y temas sin fuente. (incierto)
 
@@ -71,6 +72,11 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 - [Penetrating head & neck trauma: epidemiology](fuentes/trauma-penetrante-cabeza-cuello-epidemiologia-violencia.md) — Olding et al. (2019), Londres. **PARCIAL** (solo p. 133). (ingerido)
 - [Gymnastics-related head & neck trauma (NEISS)](fuentes/epidemiologia-lesiones-cabeza-cuello-gimnasia.md) — Abdou et al. (2024); mayoría pediátrica. (ingerido)
 
+### Agregadas el 2026-10-05 (2)
+
+- [Epidemiología del trauma en Bucaramanga (Quiroga-Centeno et al., 2022)](fuentes/epidemiologia-trauma-bucaramanga-registro-hus.md) — registro de trauma general del HUS; la región cabeza y cuello se lesiona en el 20.2 % de los pacientes. (ingerido)
+- [Traumatismos cervicales (Trouboul y De Gracia, Manual de Cirugía del Trauma, cap. 3)](fuentes/manual-cirugia-trauma-cap3-traumatismos-cervicales.md) — revisión con frecuencia, clasificación (criterios, zonas, estables o inestables) y manejo; la referencia está incompleta. (incierto)
+
 ### Agregadas el 2026-10-04 (3)
 
 - [Pharyngeal perforation with cervical spine injury after blunt trauma](fuentes/perforacion-faringea-lesion-columna-cervical-trauma-cerrado.md) — Wang et al. (2025). Reporte de caso. Es la única fuente específica de lesión faríngea traumática (3.3.1, 5.7). (ingerido)
@@ -84,6 +90,7 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 ## Método (`fuentes/`, type: metodo)
 
 - [Metodología de la investigación (Hernández Sampieri, 6.ª ed.)](fuentes/metodologia-investigacion-sampieri-6ta-edicion.md) — Revisión de literatura, marco teórico y estructura del reporte. (ingerido)
+- [Ejemplo de redacción sugerido (Monografía: Sepsis)](fuentes/ejemplo-redaccion-sugerido-monografia-sepsis.md) — modelo de estilo propuesto por la autora; no se cita. (ingerido)
 - [Guía Normas APA 7.ª edición](fuentes/guia-normas-apa-7-edicion.md) — Guía no oficial (normas-apa.org), sin autor ni año. (incierto)
 
 ## Conceptos (`conceptos/`)
@@ -149,4 +156,4 @@ Marcas: **PARCIAL** = el PDF trae solo parte del artículo (no citar lo ausente)
 
 ## Texto completo (`texto/`)
 
-45 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.
+48 archivos, uno por PDF (el duplicado de la revisión de Loss et al. comparte archivo), con el mismo slug que su ficha. Cada página empieza con `## [Página PDF N de M · etiqueta de página del PDF: X]`. Búsqueda: `grep -n "término" wiki/texto/*.md`.

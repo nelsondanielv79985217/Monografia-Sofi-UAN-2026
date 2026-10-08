@@ -12,8 +12,9 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Abdou, H., Wilkins, S. G., Sheth, A. H., Salehi, P. P., & Lee, Y. H. (2024). Epidemiology and patterns of gymnastics-related head & neck trauma injuries: A NEISS database study. *American Journal of Emergency Medicine, 80*[INCIERTO: número del fascículo no figura en el PDF], 87–90. https://doi.org/10.1016/j.ajem.2024.03.012
+Abdou, H., Wilkins, S. G., Sheth, A. H., Salehi, P. P., & Lee, Y. H. (2024). Epidemiology and patterns of gymnastics-related head & neck trauma injuries: A NEISS database study. *American Journal of Emergency Medicine, 80*, 87–90. https://doi.org/10.1016/j.ajem.2024.03.012
 
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): Crossref no registra número de fascículo para este artículo; se retira el [INCIERTO] y la referencia queda sin número, como corresponde en APA cuando no existe. Volumen y páginas coinciden con el PDF.
 - Título, autores y afiliaciones (Yale School of Medicine; Nassif MD Plastic Surgery; Division of Otolaryngology, Yale): p. PDF 1 (p. 87).
 - Revista, volumen, año y páginas: encabezado "American Journal of Emergency Medicine 80 (2024) 87–90" (pp. PDF 1–4); DOI al pie de p. PDF 1.
 - Historia editorial: recibido 21 August 2023, aceptado 10 March 2024 (p. 87).
