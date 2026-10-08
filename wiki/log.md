@@ -142,3 +142,9 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
   - vía aérea laríngea y traqueal (p. 33).
 - Se restituyó la cita de la escala SLIC (Stahel et al., 2021, p. 552), que se había perdido en la edición, y se quitó una "x" suelta del título de 1.7.1.
 - Archivo: `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-5.docx`.
+
+## [2026-10-08] query | Revisión de nuevos archivos cargados en main
+- El commit 945ccf9 de `main` subió a la raíz `Monografia-trauma-de-cuello-borrador-1.docx` a `borrador-4.docx`. No se cargaron fuentes nuevas (PDF ni RIS).
+- Los borradores 2, 3 y 4 son idénticos (md5) a las versiones que la autora ya había enviado y que se procesaron en los borradores 3, 4 y 5.
+- El borrador 1 es la versión editada por la autora (nombre, facultad, universidad e índice). Esos datos de portada ya están en los borradores posteriores.
+- El borrador vigente sigue siendo `/mnt/project-files/monografia/word/Monografia-trauma-de-cuello-borrador-5.docx`. No se modificó la wiki.
