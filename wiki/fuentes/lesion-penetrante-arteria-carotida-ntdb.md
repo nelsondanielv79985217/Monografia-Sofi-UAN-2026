@@ -14,11 +14,12 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Blitzer, D. N., Ottochian, M., O'Connor, J., Feliciano, D. V., Morrison, J. J., DuBose, J. J., & Scalea, T. M. (2020). Penetrating injury to the carotid artery: Characterizing presentation and outcomes from the National Trauma Data Bank. *Annals of Vascular Surgery, 67*[INCIERTO: número del fascículo no figura en el PDF], 192–199. https://doi.org/10.1016/j.avsg.2020.03.013
+Blitzer, D. N., Ottochian, M., O'Connor, J., Feliciano, D. V., Morrison, J. J., DuBose, J. J., & Scalea, T. M. (2020). Penetrating injury to the carotid artery: Characterizing presentation and outcomes from the National Trauma Data Bank. *Annals of Vascular Surgery, 67*, 192–199. https://doi.org/10.1016/j.avsg.2020.03.013
 
 - Título, autores y afiliaciones (Department of Surgery, MedStar Health Baltimore; R Adams Cowley Shock Trauma Center, University of Maryland): p. PDF 1 (p. 192).
 - Revista, año, volumen y páginas: "Ann Vasc Surg 2020; 67: 192–199"; DOI; "published online: 23 March 2020" (p. PDF 1).
-- [INCIERTO: el PDF muestra solo la abreviatura "Ann Vasc Surg"; *Annals of Vascular Surgery* es su expansión, no escrita en el PDF.]
+- El PDF muestra la abreviatura "Ann Vasc Surg".
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): nombre *Annals of Vascular Surgery*; Crossref no registra número de fascículo para este volumen, por lo que la referencia va sin número. Volumen y páginas coinciden con el PDF.
 
 Cita en texto modelo: (Blitzer et al., 2020, p. 192).
 

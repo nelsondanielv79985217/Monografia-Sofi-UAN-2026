@@ -17,7 +17,8 @@ last_updated: 2026-10-04
 Van der Cruyssen, F., Forrest, M., Holmes, S., & Bhatti, N. (2025). A systematic review and meta-analysis of fracture-related infections in maxillofacial trauma: Incidence, risk factors, and management strategies. *Journal of Clinical Medicine, 14*(4), Article 1332. https://doi.org/10.3390/jcm14041332
 
 - Datos visibles en la p. PDF 1: título, autores (Frederic Van der Cruyssen, Millie Forrest, Simon Holmes, Nabeel Bhatti), cita sugerida "J. Clin. Med. 2025, 14, 1332", DOI 10.3390/jcm14041332, fechas (recibido 17 enero 2025; publicado 17 febrero 2025), editorial MDPI.
-- Número (4): [INCIERTO: no figura explícito en el PDF; se infiere del DOI "jcm14041332"]. Nombre completo de la revista: [INCIERTO: el PDF muestra la abreviatura "J. Clin. Med."; la expansión "Journal of Clinical Medicine" no figura literal].
+- Número 4 y nombre completo de la revista no figuran literales en el PDF (abreviatura "J. Clin. Med.").
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 4, *Journal of Clinical Medicine*, artículo 1332.
 - Paginación: artículo electrónico; pie/encabezado impreso "N of 15", que coincide con la página PDF N. Cita en texto modelo: (Van der Cruyssen et al., 2025, p. 6).
 
 ## Cobertura del PDF

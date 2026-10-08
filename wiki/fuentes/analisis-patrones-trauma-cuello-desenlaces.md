@@ -14,10 +14,11 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Ranwa, N., Rathore, Y., & Kumar, A. (2025). Analysis of patterns of neck trauma and its outcomes at level I trauma centre: An ambispective observational study. *Indian Journal of Otolaryngology and Head & Neck Surgery, 77*, 194–201. https://doi.org/10.1007/s12070-024-05140-6
+Ranwa, N., Rathore, Y., & Kumar, A. (2025). Analysis of patterns of neck trauma and its outcomes at level I trauma centre: An ambispective observational study. *Indian Journal of Otolaryngology and Head & Neck Surgery, 77*(1), 194–201. https://doi.org/10.1007/s12070-024-05140-6
 
 - Datos tomados de la p. PDF 1 (impresa 194): encabezado "Indian Journal of Otolaryngology and Head & Neck Surgery (2025) 77:194–201", DOI, título, autores (Neelam Ranwa, Yashvant Rathore, Abhinav Kumar; AIIMS Delhi, New Delhi, India). Publicado en línea el 29 de octubre de 2024.
-- Número (issue): `[INCIERTO: no figura en el PDF]`.
+- Número (issue): 1 (no figura en el PDF).
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1; revista, volumen y páginas coinciden con el PDF.
 - Cita en texto modelo: (Ranwa et al., 2025, p. 197).
 
 ## Cobertura del PDF

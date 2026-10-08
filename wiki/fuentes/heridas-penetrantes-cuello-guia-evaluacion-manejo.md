@@ -12,10 +12,11 @@ last_updated: 2026-10-04
 
 ## Referencia bibliográfica (APA 7)
 
-Nowicki, J. L., Stew, B., & Ooi, E. (2018). Penetrating neck injuries: A guide to evaluation and management. *Annals of the Royal College of Surgeons of England*[INCIERTO: el PDF solo muestra la abreviatura "Ann R Coll Surg Engl"]*, 100*[INCIERTO: número del fascículo no figura en el PDF], 6–11. https://doi.org/10.1308/rcsann.2017.0191
+Nowicki, J. L., Stew, B., & Ooi, E. (2018). Penetrating neck injuries: A guide to evaluation and management. *Annals of the Royal College of Surgeons of England, 100*(1), 6–11. https://doi.org/10.1308/rcsann.2017.0191
 
 - p. PDF 1 (= p. 6): "REVIEW", "Ann R Coll Surg Engl 2018; 100: 6–11", "doi 10.1308/rcsann.2017.0191", autores y afiliaciones (ENT Head and Neck Surgery, Flinders Medical Centre and Flinders University; Department of Surgery, Flinders University, South Australia), aceptado 11 sept. 2017.
 - Los pies "Ann R Coll Surg Engl 2018; 100: 6–11" con número de página confirman la paginación.
+- Metadatos completados desde el registro Crossref del DOI (consulta del 2026-10-04, autorizada por el usuario solo para datos bibliográficos): número 1; Crossref registra la revista como "The Annals of The Royal College of Surgeons of England" (en APA se omite el artículo inicial). Volumen y páginas coinciden con el PDF.
 
 Cita en texto modelo: (Nowicki et al., 2018, p. 8).
 
