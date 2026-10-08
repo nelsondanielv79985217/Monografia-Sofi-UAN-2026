@@ -45,7 +45,7 @@ last_updated: 2026-10-04
 - Agente de elección, dosis, momento de inicio y duración de la profilaxis antibiótica en el trauma de cuello: esto no está en las fuentes del proyecto.
 - Evidencia comparativa (con vs. sin antibiótico) en heridas de cuello: esto no está en las fuentes del proyecto. La única comparación del corpus es en fracturas maxilofaciales (Van der Cruyssen et al., 2025, p. 6), entre estudios, y no se puede trasladar al cuello sin decirlo.
 - Profilaxis en heridas superficiales que no violan el platisma: esto no está en las fuentes del proyecto.
-- Infección profunda del cuello y mediastinitis como desenlace de la profilaxis: las fuentes las mencionan como complicaciones de la lesión esofágica (p. ej. Nowicki et al., 2018, p. 9; Laher et al., 2023, p. 167), no como resultado de un esquema antibiótico.
+- Infección profunda del cuello y mediastinitis como desenlace de la profilaxis: las fuentes las mencionan como complicaciones de la lesión esofágica (p. ej. Nowicki et al., 2018, p. 9; Laher et al., 2023, p. 19), no como resultado de un esquema antibiótico.
 
 ## Secciones de la monografía
 

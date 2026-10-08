@@ -24,7 +24,7 @@ Las fuentes del proyecto no definen la WTA. Aparece como autora de guías y algo
   - "Time to stroke: a Western Trauma Association multicenter study of blunt cerebrovascular injuries" es la ref. 121 (Sperry et al., 2021, p. 540);
   - en columna, "These insights were confirmed by the 2017 Western Trauma guidelines": con un estudio multicéntrico prospectivo, la TC sola descartó lesión cervical clínicamente relevante "with a negative predictive value of 100%" (Stahel et al., 2021, p. 554).
 - Fuentes que la citan **solo en la lista de referencias**, siempre por la guía de Sperry et al. (2013):
-  - [exploracion-quirurgica-heridas-penetrantes-cuello](../fuentes/exploracion-quirurgica-heridas-penetrantes-cuello.md) (Laher et al., 2023, p. 168, ref. 23);
+  - [exploracion-quirurgica-heridas-penetrantes-cuello](../fuentes/exploracion-quirurgica-heridas-penetrantes-cuello.md) (Laher et al., 2023, p. 20, ref. 23);
   - [seguridad-exploracion-quirurgica-selectiva](../fuentes/seguridad-exploracion-quirurgica-selectiva.md) (Teixeira et al., 2016, p. 6, ref. 6);
   - [imagenes-heridas-penetrantes-cuello](../fuentes/imagenes-heridas-penetrantes-cuello.md) (Kose, 2025, p. 407, ref. 26);
   - [trauma-penetrante-cuello-predictores-radiologicos-lesion-vascular](../fuentes/trauma-penetrante-cuello-predictores-radiologicos-lesion-vascular.md) (Borsetto et al., 2019, ref. 1, que respalda la definición de herida penetrante, pp. 2541, 2547; ficha `status: incierto`);
