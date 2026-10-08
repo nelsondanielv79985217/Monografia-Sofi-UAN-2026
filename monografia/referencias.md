@@ -103,7 +103,7 @@ Steenburg, S. D. (2021). Diagnostic and interventional radiology. En D. V. Felic
 
 Teixeira, F., Menegozzo, C. A. M., Couto Netto, S. D. do, Poggeti, R. S., Collet e Silva, F. de S., Birolini, D., Bernini, C. de O. y Utiyama, E. M. (2016). Safety in selective surgical exploration in penetrating neck trauma. *World Journal of Emergency Surgery, 11*(1), Artículo 32. https://doi.org/10.1186/s13017-016-0091-4
 
-Trouboul, F. y De Gracia, A. (s. f.). Traumatismos cervicales. En *Manual de cirugía del trauma* (pp. 25–36). [INCIERTO: el PDF no indica año, editor ni editorial.]
+Trouboul, F. y De Gracia, A. (s. f.). Traumatismos cervicales. En *Manual de cirugía del trauma* (pp. 25–36). [PENDIENTE DE LA AUTORA: editorial. El título lo confirmó la autora (2026-10-08); el PDF no indica año, editores ni editorial, y el manual no está registrado en Crossref.]
 
 Van der Cruyssen, F., Forrest, M., Holmes, S. y Bhatti, N. (2025). A systematic review and meta-analysis of fracture-related infections in maxillofacial trauma: Incidence, risk factors, and management strategies. *Journal of Clinical Medicine, 14*(4), Artículo 1332. https://doi.org/10.3390/jcm14041332
 

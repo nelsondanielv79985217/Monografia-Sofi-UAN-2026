@@ -151,3 +151,7 @@ Por pedido explícito del usuario ("procesa los archivos del repo" y "organiza l
 
 ## [2026-10-08] setup | Borradores movidos a `borradores/`
 - A pedido de la autora, `Monografia-trauma-de-cuello-borrador-1.docx` a `borrador-4.docx` se movieron de la raíz a `borradores/`, sin modificar su contenido. Las fuentes (PDF, RIS y `Estructura del trabajo.docx`) siguen en la raíz.
+
+## [2026-10-08] lint | Trouboul y Laher
+- Trouboul y De Gracia: la autora confirmó que el título del manual es *Manual de cirugía del trauma*. El manual no aparece en Crossref. La referencia conserva "s. f." y marca la editorial como `[PENDIENTE DE LA AUTORA]`. La fecha de creación del PDF (2015) no se usó como año de publicación.
+- Laher et al.: el pie de página de las pp. PDF 1–4 dice 17, 18, 19 y 20, el mismo rango que Crossref da para la versión publicada (61(3), 17–20). La cabecera "Online first" dice 165–168. Se presentó la decisión a la autora.

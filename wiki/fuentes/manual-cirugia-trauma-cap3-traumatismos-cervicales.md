@@ -5,7 +5,7 @@ tags: [revision, epidemiologia, clasificacion, zonas, signos-duros-blandos, esta
 fuente_pdf: "06.Capítulo 3.pdf"
 texto_completo: "../texto/manual-cirugia-trauma-cap3-traumatismos-cervicales.md"
 status: incierto
-last_updated: 2026-10-05
+last_updated: 2026-10-08
 ---
 
 # Traumatismos cervicales (Manual de Cirugía del Trauma, cap. 3)
@@ -65,5 +65,5 @@ Es una revisión de manual sobre la evaluación, la clasificación, el diagnóst
 
 ## Limitaciones
 
-- La referencia está incompleta: año, editor y editorial son inciertos.
+- La referencia está incompleta: año, editor y editorial son inciertos. La autora confirmó el título del manual (2026-10-08). Se buscó en Crossref sin resultado. Sin año, APA usa "s. f."; la editorial sigue faltando.
 - Las cifras no tienen cita dentro del texto. Conviene usarlas como dato de revisión, no de serie propia.
